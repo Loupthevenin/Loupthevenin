@@ -1,0 +1,31 @@
+name: Update README all day at 00:00
+
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11"]
+
+    steps:
+      - name: Vérifier le référentiel
+        uses: actions/checkout@v2
+
+      - name: Exécutez le script Python
+        run: |
+          python main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "Loupthevenin"
+          git config user.email "loup.thevenin.1@gmail.com"
+          git add .
+          git commit -m "Mise à jour quotidienne du README"
+          git push
