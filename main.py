@@ -1,4 +1,5 @@
 import json
+import os
 import random
 
 path_json = "data_quote.json"
