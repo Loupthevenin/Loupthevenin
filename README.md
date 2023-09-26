@@ -2,8 +2,10 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - Le seul moyen d’entrer ici c’est de passer sur ma putain de carcasse !- Ainsi soit-il. "
+" - Oh mon Dieu !!
 
-_The Matrix Revolution, un garde et Séraphin_
+- Appelez moi Smith ! "
+
+_Matrix, Inconnu et Agent Smith_
 
 <!-- INSERT QUOTE END -->
