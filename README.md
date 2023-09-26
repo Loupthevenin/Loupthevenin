@@ -2,10 +2,8 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - Oh mon Dieu !!
+" Le problème, c’est que les humains ont un don pour désirer ce qui leur fait le plus de mal. "
 
-- Appelez moi Smith ! "
-
-_Matrix, Inconnu et Agent Smith_
+_Harry Potter à l’école des sorciers, Dumbledore_
 
 <!-- INSERT QUOTE END -->
