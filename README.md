@@ -2,8 +2,10 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Le problème, c’est que les humains ont un don pour désirer ce qui leur fait le plus de mal. "
+" - Mr. Anderson, welcome back. We missed you. You like what I’ve done with the place?
 
-_Harry Potter à l’école des sorciers, Dumbledore_
+- It ends tonight. "
+
+_The Matrix Revolution, Agent Smith et Neo_
 
 <!-- INSERT QUOTE END -->
