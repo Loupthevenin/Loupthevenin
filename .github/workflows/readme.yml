@@ -28,7 +28,8 @@ jobs:
         run: |
           git config user.name "MrShadowsWolf"
           git config user.email "loup.thevenin.1@gmail.com"
-          git add README.md
+          git pull --rebase origin main
+          git add .
           git commit -m "Mise à jour quotidienne du README"
 
       - name: push
