@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      -
+
       - name: Vérifier le référentiel
         uses: actions/checkout@v2
 
