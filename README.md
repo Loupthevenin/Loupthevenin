@@ -2,8 +2,14 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Ce ne sont pas juste des rêves, ce sont des souvenirs et tu as dit de ne jamais utiliser des souvenirs ! "
+" - C’est dingue.
 
-_Inception, Ariadne_
+- Quoi ?
+
+- C’est là que j’allais déjeuner. Ils ont de très bonnes nouilles. J’ai énormément de souvenirs de ma vie, et aucun n’est vrai. Qu’est ce que ça signifie ?
+
+- Que la Matrice ignore tout de ce que l’on est. "
+
+_Matrix, Neo et Trinity_
 
 <!-- INSERT QUOTE END -->
