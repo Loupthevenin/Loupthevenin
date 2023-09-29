@@ -2,14 +2,8 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - C’est dingue.
+" Ton absence m’est insupportable, on aura bien vécu tout les deux, mais il faut que je renonce à toi, il faut que je renonce à toi… "
 
-- Quoi ?
-
-- C’est là que j’allais déjeuner. Ils ont de très bonnes nouilles. J’ai énormément de souvenirs de ma vie, et aucun n’est vrai. Qu’est ce que ça signifie ?
-
-- Que la Matrice ignore tout de ce que l’on est. "
-
-_Matrix, Neo et Trinity_
+_Inception_
 
 <!-- INSERT QUOTE END -->
