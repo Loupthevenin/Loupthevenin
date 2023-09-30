@@ -2,8 +2,8 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Ton absence m’est insupportable, on aura bien vécu tout les deux, mais il faut que je renonce à toi, il faut que je renonce à toi… "
+" Tu verras que certaines familles de sorciers valent mieux que d’autres, Potter ! "
 
-_Inception_
+_Harry Potter à l’école des sorciers, Drago Malefoy_
 
 <!-- INSERT QUOTE END -->
