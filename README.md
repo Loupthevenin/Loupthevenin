@@ -2,8 +2,10 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Tu verras que certaines familles de sorciers valent mieux que d’autres, Potter ! "
+" - Oh mon Dieu !!
 
-_Harry Potter à l’école des sorciers, Drago Malefoy_
+- Appelez moi Smith ! "
+
+_Matrix, Inconnu et Agent Smith_
 
 <!-- INSERT QUOTE END -->
