@@ -2,10 +2,8 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - Oh mon Dieu !!
+" Je vais prendre plaisir à vous voir mourir… Mr Anderson ! "
 
-- Appelez moi Smith ! "
-
-_Matrix, Inconnu et Agent Smith_
+_Matrix, Agent Smith à Neo_
 
 <!-- INSERT QUOTE END -->
