@@ -2,8 +2,10 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Le choix est une illusion créée entre ceux qui ont le pouvoir et ceux qui ne l’ont pas. "
+" - Mr. Anderson, welcome back. We missed you. You like what I’ve done with the place?
 
-_The Matrix Reloaded, le mérovingien_
+- It ends tonight. "
+
+_The Matrix Revolution, Agent Smith et Neo_
 
 <!-- INSERT QUOTE END -->
