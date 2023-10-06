@@ -2,10 +2,12 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - Mr. Anderson, welcome back. We missed you. You like what I’ve done with the place?
+" - Vite ! Embrasse-moi.
 
-- It ends tonight. "
+- Ils nous regardent encore.
 
-_The Matrix Revolution, Agent Smith et Neo_
+- Qui ne tente rien n’a rien. "
+
+_Inception_
 
 <!-- INSERT QUOTE END -->
