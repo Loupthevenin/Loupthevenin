@@ -2,12 +2,8 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - Vite ! Embrasse-moi.
+" La vérité, elle est toujours belle et terrible, c’est pourquoi il faut l’aborder avec beaucoup de précautions. "
 
-- Ils nous regardent encore.
-
-- Qui ne tente rien n’a rien. "
-
-_Inception_
+_Harry Potter à l’école des sorciers, Dumbledore à Harry_
 
 <!-- INSERT QUOTE END -->
