@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" We stop looking for monsters under the bed when we realize they’re inside of us. "
+" De toutes les choses que nous percevons seul l’amour transcende les dimensions temporelles et spatiales. Peut-être qu’on devrait accepter en confiance ce qu’on ne saisit pas encore… "
 
-_The Dark Knight: Le Chevalier noir, le Joker et un gangster_
+_Interstellar, Cooper_
 
 <!-- INSERT QUOTE END -->
 
