@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Je suis Harry, juste Harry ! "
+" We stop looking for monsters under the bed when we realize they’re inside of us. "
 
-_Harry Potter à l’école des sorciers, Harry_
+_The Dark Knight: Le Chevalier noir, le Joker et un gangster_
 
 <!-- INSERT QUOTE END -->
 
