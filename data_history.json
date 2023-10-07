@@ -1,19 +1,8 @@
 {
-    "history_choices": [
-        16,
-        65,
-        60,
-        22,
-        135,
-        35,
-        123,
-        77,
-        16,
-        40,
-        89,
-        45,
-        60,
-        138,
-        85
+    "history_movie_choices": [
+
+    ],
+    "history_quote_choices": [
+
     ]
 }
