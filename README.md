@@ -2,9 +2,11 @@
 
 <!-- INSERT QUOTE START --> 
 
-" De toutes les choses que nous percevons seul l’amour transcende les dimensions temporelles et spatiales. Peut-être qu’on devrait accepter en confiance ce qu’on ne saisit pas encore… "
+" - Qu’as-tu dit exactement à Mademoiselle Farmer ? 
 
-_Interstellar, Cooper_
+- Je vais vous dire ce qu’il a dit ! Il a dit que je n’avais qu’à m’introduire le carton d’exercice de la ligne de vie dans l’anus. "
+
+_Donnie Darko, Donnie au Dr Lilian Thurman_
 
 <!-- INSERT QUOTE END -->
 
