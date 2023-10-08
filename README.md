@@ -2,11 +2,11 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - Qu’as-tu dit exactement à Mademoiselle Farmer ? 
+" - C’est en face de l’Avenue John Kennedy !
 
-- Je vais vous dire ce qu’il a dit ! Il a dit que je n’avais qu’à m’introduire le carton d’exercice de la ligne de vie dans l’anus. "
+- Qui c’est celui-là, John Kennedy ? "
 
-_Donnie Darko, Donnie au Dr Lilian Thurman_
+_Retour vers le futur_
 
 <!-- INSERT QUOTE END -->
 
