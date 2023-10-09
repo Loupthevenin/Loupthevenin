@@ -2,11 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - C’est en face de l’Avenue John Kennedy !
+" Les choses doivent toujours empirer avant de s’améliorer. "
 
-- Qui c’est celui-là, John Kennedy ? "
-
-_Retour vers le futur_
+_The Dark Knight: Le Chevalier noir, Gordon et Double-Face_
 
 <!-- INSERT QUOTE END -->
 
