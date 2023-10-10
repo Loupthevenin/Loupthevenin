@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Les choses doivent toujours empirer avant de s’améliorer. "
+" Tu ne comprends pas ? T’es un rat dans un labyrinthe. "
 
-_The Dark Knight: Le Chevalier noir, Gordon et Double-Face_
+_Shutter Island, Teddy Daniels_
 
 <!-- INSERT QUOTE END -->
 
