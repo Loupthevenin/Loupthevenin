@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Tu ne comprends pas ? T’es un rat dans un labyrinthe. "
+" Si tu commences à t’encombrer des secrets des gens dangereux t’es fichu mon petit père. "
 
-_Shutter Island, Teddy Daniels_
+_Batman begins, Henry Ducard à Batman_
 
 <!-- INSERT QUOTE END -->
 
