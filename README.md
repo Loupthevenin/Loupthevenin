@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Si tu commences à t’encombrer des secrets des gens dangereux t’es fichu mon petit père. "
+" - Ils ont forcé l’allure. Ils ont du flairer notre présence. Vite !- Trois jours et trois nuits de poursuite sans manger ni se reposer, et aucun signe de notre gibier alors que peux bien raconter un rocher ! "
 
-_Batman begins, Henry Ducard à Batman_
+_Le seigneur des anneaux : les deux tours_
 
 <!-- INSERT QUOTE END -->
 
