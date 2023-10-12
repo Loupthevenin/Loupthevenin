@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - Ils ont forcé l’allure. Ils ont du flairer notre présence. Vite !- Trois jours et trois nuits de poursuite sans manger ni se reposer, et aucun signe de notre gibier alors que peux bien raconter un rocher ! "
+" Il serait temps que tu apprennes à faire la différence entre la vie et les rêves. "
 
-_Le seigneur des anneaux : les deux tours_
+_Harry Potter et L’ordre du Phoenix, Hermione et Ron_
 
 <!-- INSERT QUOTE END -->
 
