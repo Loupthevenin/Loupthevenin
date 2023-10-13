@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Il serait temps que tu apprennes à faire la différence entre la vie et les rêves. "
+" - Le seul moyen d’entrer ici c’est de passer sur ma putain de carcasse !- Ainsi soit-il. "
 
-_Harry Potter et L’ordre du Phoenix, Hermione et Ron_
+_The Matrix Revolution_
 
 <!-- INSERT QUOTE END -->
 
