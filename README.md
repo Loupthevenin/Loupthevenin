@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - Le seul moyen d’entrer ici c’est de passer sur ma putain de carcasse !- Ainsi soit-il. "
+" Alan, j’ai très rarement eu l’occasion de dire ça, mais vous êtes exactement l’homme que j’ai toujours espéré que vous soyez. "
 
-_The Matrix Revolution_
+_The Imitation Game_
 
 <!-- INSERT QUOTE END -->
 
