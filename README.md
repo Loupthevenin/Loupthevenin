@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Alan, j’ai très rarement eu l’occasion de dire ça, mais vous êtes exactement l’homme que j’ai toujours espéré que vous soyez. "
+" Chaque tour de magie est constitué de trois parties ou de trois actes. On appelle premier acte « le pacte ». Le magicien vous montre une chose ordinaire. Le deuxième acte s’appelle « l’effet ». Le magicien prend la chose ordinaire et lui fait faire quelque chose d’extraordinaire. Mais vous n’êtes pas encore prêt à applaudir par ce que faire disparaitre une chose n’est pas suffisante, il faut aussi la faire réapparaitre. Vous cherchez alors la clé du mystère, mais vous ne la trouverez pas parce que vous ne la cherchez pas vraiment, vous ne voulez pas réellement la connaitre. Vous voulez être mystifié. "
 
-_The Imitation Game_
+_Le prestige, Robert Angier_
 
 <!-- INSERT QUOTE END -->
 
