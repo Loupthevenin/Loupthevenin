@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Chaque tour de magie est constitué de trois parties ou de trois actes. On appelle premier acte « le pacte ». Le magicien vous montre une chose ordinaire. Le deuxième acte s’appelle « l’effet ». Le magicien prend la chose ordinaire et lui fait faire quelque chose d’extraordinaire. Mais vous n’êtes pas encore prêt à applaudir par ce que faire disparaitre une chose n’est pas suffisante, il faut aussi la faire réapparaitre. Vous cherchez alors la clé du mystère, mais vous ne la trouverez pas parce que vous ne la cherchez pas vraiment, vous ne voulez pas réellement la connaitre. Vous voulez être mystifié. "
+" Un troll dans les cachots, un troll dans les cachots… Je voulais vous prévenir. "
 
-_Le prestige, Robert Angier_
+_Harry Potter à l’école des sorciers, Ron_
 
 <!-- INSERT QUOTE END -->
 
