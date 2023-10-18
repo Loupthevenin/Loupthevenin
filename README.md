@@ -2,15 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" - Héhéhéhé, haha, ce sont bien les nains qui aiment nager avec les jolies femmes poilues hahahaha… roooh.
+" Comment as-tu pu croire, comment as-tu pu être assez naïf pour penser que des enfants avaient une chance contre nous. Le choix va être simple pour toi Potter, tu me donnes cette prophétie maintenant ou tu regardes tes amis mourir… "
 
-- Je sens quelque chose. Un picotement au bout des doigts. Je crois que ça me fait de l’effet.
-
-- Qu’est-ce que je disais ? Il ne tient pas l’alcool… [Gimli s’évanouit]
-
-- La partie est finie. "
-
-_Le Seigneur des anneaux : le retour du roi_
+_Harry Potter et L’ordre du Phoenix, Ginny Weasley_
 
 <!-- INSERT QUOTE END -->
 
