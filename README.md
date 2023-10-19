@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Comment as-tu pu croire, comment as-tu pu être assez naïf pour penser que des enfants avaient une chance contre nous. Le choix va être simple pour toi Potter, tu me donnes cette prophétie maintenant ou tu regardes tes amis mourir… "
+" We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt. "
 
-_Harry Potter et L’ordre du Phoenix, Ginny Weasley_
+_Interstellar, TARS_
 
 <!-- INSERT QUOTE END -->
 
