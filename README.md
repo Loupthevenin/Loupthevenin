@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt. "
+" Je pense que les émotions positives sont toujours plus fortes que les négatives. "
 
-_Interstellar, TARS_
+_Inception, Ariadne et Dom Cobb_
 
 <!-- INSERT QUOTE END -->
 
