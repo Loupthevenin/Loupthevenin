@@ -17,24 +17,24 @@
  <br/>
  <div>
   <p id="quote">
-   On nous a envoyé sauver la Comté Sam, et elle a été sauvée. Mais, pas pour moi…
+   Oh, être jeune et connaître les maux qu’amour inflige !
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Le Seigneur des anneaux : le retour du roi, Sam
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>en cours</b> fois au sort parmis les <b>en cours</b> films sur <b>en cours</b> jours 🎲🎲🎲
-   </p>
-  </div>
- <br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et le Prince de sang mêlé, Ron et Harry
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>19</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
