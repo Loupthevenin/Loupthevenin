@@ -2,9 +2,9 @@
 
 <!-- INSERT QUOTE START --> 
 
-" Je pense que les émotions positives sont toujours plus fortes que les négatives. "
+" On nous a envoyé sauver la Comté Sam, et elle a été sauvée. Mais, pas pour moi… "
 
-_Inception, Ariadne et Dom Cobb_
+_Le Seigneur des anneaux : le retour du roi, Sam_
 
 <!-- INSERT QUOTE END -->
 
