@@ -41,5 +41,5 @@
  <h2>
   Contributions
  </h2>
- <img alt="snake gif" src="https://github.com/Loupthevenin/Loupthevenin/blob/output/github-contribution-grid-snake.gif"/>
+ <img alt="snake gif" src="https://github.com/Loupthevenin/Loupthevenin/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
