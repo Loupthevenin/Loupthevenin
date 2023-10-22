@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   Oh, être jeune et connaître les maux qu’amour inflige !
+   C’est de l’acajou !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le Prince de sang mêlé, Ron et Harry
+   Hunger Games, Haymitch Abernathy
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>19</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>20</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
