@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   [Parlant de ses parents et de Sirius Black] Il était leur ami et il les a trahi ! IL ÉTAIT LEUR AMI ! J’espère qu’il me retrouvera ! Et quand ça arrivera, je serai prêt ! Quand ça arrivera, je vais le tuer !
+   The odds are never in our favor.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban, Harry
+   Hunger Games
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>21</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>22</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
