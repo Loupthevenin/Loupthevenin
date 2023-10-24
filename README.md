@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   The odds are never in our favor.
+   - Pourquoi Monsieur Anderson, pourquoi persister !?<br>- Parce que j’en ai fait le choix…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games
+   The Matrix Revolution, Agent Smith et Neo
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>22</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>23</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
