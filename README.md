@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   Le choix est une illusion créée entre ceux qui ont le pouvoir et ceux qui ne l’ont pas.
+   You just defeated Nazism with a crossword puzzle.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Reloaded, le mérovingien
+   The Imitation Game, Hugh Alexander à Alan Turing
   </p>
  </div>
  <div>
@@ -31,11 +31,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>25</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>26</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
