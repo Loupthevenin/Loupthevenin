@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   You just defeated Nazism with a crossword puzzle.
+   - Mais comment on va s’y prendre ?<br>- Vous devriez en discuter avec M. Finnigan, si je ne m’abuse il a un penchant très prononcé pour la pyrotechnie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Imitation Game, Hugh Alexander à Alan Turing
+   Harry Potter et les reliques de la mort -  partie, Neville et Minerva McGonagall
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>26</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>27</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
