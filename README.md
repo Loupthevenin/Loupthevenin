@@ -17,24 +17,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Mais comment on va s’y prendre ?<br>- Vous devriez en discuter avec M. Finnigan, si je ne m’abuse il a un penchant très prononcé pour la pyrotechnie.
+   Tu as les yeux de ta mère.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort -  partie, Neville et Minerva McGonagall
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>27</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Harry Potter et les reliques de la mort -  partie, Rogue à Harry
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>28</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
