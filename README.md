@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   Descends nous voir, entends nos paroles, nous chantons en-dessous du sol. Une heure durant tu devras chercher, ce que nous t’avons arraché.
+   Je ne peux le porter pour vous, mais je peux vous porter vous !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la coupe de feu, les sirènes
+   Le Seigneur des anneaux : le retour du roi, Sam à Frodon
   </p>
  </div>
  <div>
@@ -31,11 +31,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>29</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>30</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
