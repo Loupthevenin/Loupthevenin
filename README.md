@@ -17,26 +17,24 @@
  <br/>
  <div>
   <p id="quote">
-   - 2.21 Gigowatts !! 2.21 Gigowatts !! Mon dieu !- Mais enfin c’est quoi un gigowatt ?- Je devais être complètement dans les nuages ! 2.21 Gigowatts, comment puis-je générer une puissance pareille monsieur Edisson ? C’est impossible je n’y arriverais pas !- Mais Doc écoutez c’est rien, tout ce qu’il faut c’est un peu de plutonium !
+   Where are they?
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Retour vers le futur, Dr Emmett Brown et Marty
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>33</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   The Dark Knight, Batman
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>34</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
