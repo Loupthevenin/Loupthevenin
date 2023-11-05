@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   Where are they?
+   Inspecteur, inspecteur… inspecteur !! Vous me cherchez n’est ce pas ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight, Batman
+   Seven, John Doe
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>34</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>35</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
