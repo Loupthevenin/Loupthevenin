@@ -17,26 +17,24 @@
  <br/>
  <div>
   <p id="quote">
-   On pourrait le faire tu sais, s’enfuir et vivre dans les bois.
+   They wont fear it, until they understand it. And they wont understand it, until they use it.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Hunger Games, Gale à Katniss
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>37</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Oppenheimer, J Robert Oppenheimer
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>38</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
