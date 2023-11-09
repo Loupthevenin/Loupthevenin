@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   They wont fear it, until they understand it. And they wont understand it, until they use it.
+   - Un ministros ? C’est quoi un ministros ?<br>- Pas ministros andouille, sinistros !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, J Robert Oppenheimer
+   Harry Potter et le prisonnier d’Azkaban
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>38</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>39</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
