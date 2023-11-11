@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   Draco dormiens nunquam titillandus.
+   Juste une photo… pour pas t’oublier.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers
+   Mémento, Leonard Shelby à Natalie
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>42</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>43</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
