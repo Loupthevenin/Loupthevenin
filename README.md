@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   La baguette de sureau, la plus puissante baguette jamais fabriquée. La Pierre de résurrection, la cape d’invisibilité, ensembles elles forment les reliques de la mort. Ensemble elles font de vous, le maître de la mort.
+   I feel fear, for the last time.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort - e partie, Xenophilius Lovegood
+   Watchmen, Dr Manhattan
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>44</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>45</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
