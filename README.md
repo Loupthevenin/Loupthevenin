@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   Maintenant, si vous le permettez, j’ai une ville a détruire.
+   Hermione : Je suis allée à…<br>Harry et Ron : À la bibliothèque, et… ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Batman begins
+   Harry Potter et le Prince de sang mêlé
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>46</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>47</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
