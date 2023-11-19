@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   Maintenir une conspiration du mensonge aux plus hauts niveaux du gouvernement ? Ça a l’air dans mes cordes.
+   Tiens Big Boss, comme le monde est petit.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Imitation Game, Stewart Menzies
+   Watchmen, Rorschach à Big Figure
   </p>
  </div>
  <div>
@@ -31,11 +31,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>51</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>52</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
