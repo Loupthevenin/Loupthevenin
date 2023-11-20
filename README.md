@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tiens Big Boss, comme le monde est petit.
+   Tu répètes un ballet aérien, Potter ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Rorschach à Big Figure
+   Harry Potter et la chambre des secrets, Drago Malefoy à Harry
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>52</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>53</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
