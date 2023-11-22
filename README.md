@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   Et voilà, mes amis, comment meurt une révolution !
+   He papa ! Euh George ! Toi sur le vélo !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte - e partie, Haymitch Abernathy
+   Retour vers le futur, Marty
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>54</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>55</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
