@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   He papa ! Euh George ! Toi sur le vélo !
+   N’oublie jamais qui est ton véritable ennemi.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Marty
+   Hunger Games, Haymitch Abernathy à Katniss
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>55</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>56</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
