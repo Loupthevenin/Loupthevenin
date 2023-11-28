@@ -17,24 +17,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Cette vengeance contre l’homme qui l’a tué vient tout simplement récompenser ma patience. Vois-tu ? C’est le lent poignard, le poignard qui prend son temps. Le poignard qui patiente des années sans oublier. Qui tout doucement se fraye un chemin entre les os, c’est ça le poignard qui déchire le plus.<br>- Je crois que ton poignard a été trop lent.
+   - 2.21 Gigowatts !! 2.21 Gigowatts !! Mon dieu !- Mais enfin c’est quoi un gigowatt ?- Je devais être complètement dans les nuages ! 2.21 Gigowatts, comment puis-je générer une puissance pareille monsieur Edisson ? C’est impossible je n’y arriverais pas !- Mais Doc écoutez c’est rien, tout ce qu’il faut c’est un peu de plutonium !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight Rises, Talia al Ghul et Batman
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>60</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Retour vers le futur, Dr Emmett Brown et Marty
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>61</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
