@@ -17,24 +17,24 @@
  <br/>
  <div>
   <p id="quote">
-   - 2.21 Gigowatts !! 2.21 Gigowatts !! Mon dieu !- Mais enfin c’est quoi un gigowatt ?- Je devais être complètement dans les nuages ! 2.21 Gigowatts, comment puis-je générer une puissance pareille monsieur Edisson ? C’est impossible je n’y arriverais pas !- Mais Doc écoutez c’est rien, tout ce qu’il faut c’est un peu de plutonium !
+   - Papa, et si je me retrouve à Serpentard ?<br>- Albus Severus Potter, tu portes les prénoms de deux directeurs de Poudlard. L’un d’eux était un Serpentard et l’homme le plus courageux que j’ai connu.<br>- Mais si c’était le cas ?<br>- Alors la maison Serpentard gagnerait un merveilleux jeune sorcier. Mais, écoute, si vraiment ça a une telle importance pour toi, tu peux choisir Gryffondor. Le choixpeau tient compte de vos préférences.<br>- Vraiment ?<br>- Vraiment.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et les reliques de la mort -  partie, Albus Severus Potter et Harry
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>62</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Retour vers le futur, Dr Emmett Brown et Marty
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>61</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
