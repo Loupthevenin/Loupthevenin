@@ -17,24 +17,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Papa, et si je me retrouve à Serpentard ?<br>- Albus Severus Potter, tu portes les prénoms de deux directeurs de Poudlard. L’un d’eux était un Serpentard et l’homme le plus courageux que j’ai connu.<br>- Mais si c’était le cas ?<br>- Alors la maison Serpentard gagnerait un merveilleux jeune sorcier. Mais, écoute, si vraiment ça a une telle importance pour toi, tu peux choisir Gryffondor. Le choixpeau tient compte de vos préférences.<br>- Vraiment ?<br>- Vraiment.
-  </p>
- </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort -  partie, Albus Severus Potter et Harry
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>62</b> jours consécutifs. 🎲🎲🎲
+   Je vais m’attaquer au deuxième plus grand mystère de l’univers : les femmes !
   </p>
  </div>
  <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Retour vers le futur  Dr Emmett Brown à Marty
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>63</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
  </br>
 </div>
 <hr/>
