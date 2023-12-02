@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   On m’a dit : « ne le perdez pas Sam Gamji », alors je vais pas vous perdre.
+   Bientôt nous aurons tous à choisir entre le bien… et la facilité.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : la communauté de l’anneau, Sam à Frodon
+   Harry Potter et la coupe de feu, Dumbledore à Harry
   </p>
  </div>
  <div>
@@ -31,11 +31,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>64</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>65</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
