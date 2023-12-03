@@ -1,7 +1,7 @@
 ### Hi there
 <hr/>
 <p>
-À 22 ans, je suis un passionné d'informatique depuis mon plus jeune âge. j'ai récemment obtenu la certification AWS Cloud Practitioner pour approfondir mes compétences dans le domaine du cloud. En tant que junior, je m'engage à relever des défis stimulants et à contribuer de manière proactive à des projets innovants. Mon parcours témoigne de ma détermination à évoluer dans le monde dynamique de la technologie.
+ À 22 ans, je suis un passionné d'informatique depuis mon plus jeune âge. j'ai récemment obtenu la certification AWS Cloud Practitioner pour approfondir mes compétences dans le domaine du cloud. En tant que junior, je m'engage à relever des défis stimulants et à contribuer de manière proactive à des projets innovants. Mon parcours témoigne de ma détermination à évoluer dans le monde dynamique de la technologie.
 </p>
 <h2 align="center">
  Languages-Frameworks
@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les Gardiens nous surveillent, mais qui surveille les Gardiens ?
+   - Ça fait quoi d’avoir un fils barjo ?<br>- C’est merveilleux…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen
+   Donnie Darko, Donnie et Rose Darko
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>66</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>67</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
