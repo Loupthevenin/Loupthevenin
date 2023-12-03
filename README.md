@@ -9,7 +9,7 @@
 <br/>
 <div align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,javascript,github"/>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,python,django,html,css,bootstrap,javascript,github"/>
  </a>
 </div>
 <hr/>
@@ -20,7 +20,8 @@
  <br/>
  <div>
   <p id="quote">
-   - Ça fait quoi d’avoir un fils barjo ?<br>- C’est merveilleux…
+   - Ça fait quoi d’avoir un fils barjo ?
+<br>- C’est merveilleux…
   </p>
  </div>
  <br/>
