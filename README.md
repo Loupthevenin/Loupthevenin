@@ -17,13 +17,13 @@
  <br/>
  <div>
   <p id="quote">
-   Bientôt nous aurons tous à choisir entre le bien… et la facilité.
+   Les Gardiens nous surveillent, mais qui surveille les Gardiens ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la coupe de feu, Dumbledore à Harry
+   Watchmen
   </p>
  </div>
  <div>
@@ -31,7 +31,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>65</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>66</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
