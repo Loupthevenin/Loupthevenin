@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   I killed Sirius Black!
+   - Est ce que tu meurs si je t’enlève ton masque ?<br>- Ce serait très douloureux…<br>- T’es un mec costaud !<br>- … Pour toi !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Order of the Phoenix, Bellatrix Lestrange
+   The Dark Knight Rises, un agent de la CIA et Bane
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>72</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>73</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
