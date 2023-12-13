@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Quand t’es en train de lire une revue de chasse en te masturbant dans ton caca, il t’arrive de t’arrêter et de dire « Wahou, c’est quand même incroyable à quel point je peux être givré ! » ?
+   Marty : Lorraine ?<br>Lorraine : Mon Dieu, c’est ton père !<br>Marty : Mon père !<br>Biff Tannen : Toi, comment ça se fait que t’es pas en Suisse, sale petit merdeux ?<br>Marty : Mon père ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, le lieutenant Mills à John Doe
+   Retour vers le futur
   </p>
  </div>
  <div>
@@ -34,11 +34,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>77</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>78</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
