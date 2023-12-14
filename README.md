@@ -20,24 +20,26 @@
  <br/>
  <div>
   <p id="quote">
-   Marty : Lorraine ?<br>Lorraine : Mon Dieu, c’est ton père !<br>Marty : Mon père !<br>Biff Tannen : Toi, comment ça se fait que t’es pas en Suisse, sale petit merdeux ?<br>Marty : Mon père ?
+   You’re the man who gave them the power to destroy themselves… and the world is not prepared.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>78</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Oppenheimer, Niels Bohr
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>79</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
