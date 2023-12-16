@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous avez avez besoin de gens intelligents pour ce genre de… quête… mission… chose ?
+   - Okay. Store’s open. What do you need?<br>- Guns. Lots of guns.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : la communauté de l’anneau
+   The Matrix, Tank et Neo
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>80</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>81</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
