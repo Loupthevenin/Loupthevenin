@@ -20,24 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   Il faut que je crois qu’il y a un monde en dehors de mon esprit, il faut que je crois que mes actes ont encore un sens même si je les oublies… Je dois croire que lorsque je ferme les yeux le monde est toujours là. Est-ce que je crois que le monde est toujours là ? Est-ce qu’il est toujours là ? Oui ! On a tous besoin de souvenir pour savoir qui on est… je suis pas différent des autres.
+   Heu, McF… Eastwood ! Clint Eastwood !
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Retour vers le futur  Marty
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>83</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Mémento, Leonard Shelby
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>82</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
