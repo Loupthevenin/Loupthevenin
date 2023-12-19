@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Heu, McF… Eastwood ! Clint Eastwood !
+   Ron : Ce sont des Nimbus 2001 ! Comment vous les avez eu ?<br>Marcus Flint : C’est un cadeau du père de Drago.<br>Drago Malefoy : Tu vois, Weasley, contrairement à certains, mon père peut acheter ce qu’il y a de mieux.<br>Hermione : Mais aucun joueur de Gryffondor n’a payé pour être dans l’équipe. On les a choisi pour leurs talents.<br>Drago Malefoy : Personne ne t’a demandé ton avis, espèce de Sang-de-Bourbe.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Marty
+   Harry Potter et la chambre des secrets
   </p>
  </div>
  <div>
@@ -34,11 +34,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>1</b> fois au sort parmis les <b>36</b> films sur <b>83</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>84</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
