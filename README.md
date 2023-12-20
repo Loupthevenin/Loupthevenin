@@ -20,24 +20,26 @@
  <br/>
  <div>
   <p id="quote">
-   Ron : Ce sont des Nimbus 2001 ! Comment vous les avez eu ?<br>Marcus Flint : C’est un cadeau du père de Drago.<br>Drago Malefoy : Tu vois, Weasley, contrairement à certains, mon père peut acheter ce qu’il y a de mieux.<br>Hermione : Mais aucun joueur de Gryffondor n’a payé pour être dans l’équipe. On les a choisi pour leurs talents.<br>Drago Malefoy : Personne ne t’a demandé ton avis, espèce de Sang-de-Bourbe.
+   Pour un esprit équilibré, la mort n’est qu’une grande aventure de plus.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>84</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Harry Potter à l’école des sorciers, Dumbledore
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>85</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
