@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je ne pensais pas que même après ton retour à la réalité, tu continuerais à croire que ton monde était irréel. Que la seule issu c’était la mort.
+   Tout ce que nous avons à décider, c’est ce que nous devons faire du temps qui nous est imparti.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Inception, Dom Cobb à Mal
+   Le seigneur des anneaux : la communauté de l’anneau, Gandalf
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>89</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>90</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
