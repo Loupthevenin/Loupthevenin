@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tout ce que nous avons à décider, c’est ce que nous devons faire du temps qui nous est imparti.
+   - Jolie broche !<br>- Elle me vient de mon district.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : la communauté de l’anneau, Gandalf
+   Hunger Games, le président Snow et Katniss
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>90</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>91</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
