@@ -20,24 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   C’est le monde à l’envers quoi. Vous, vous pouvez éventuellement savoir ce que vous allez faire, mais jamais ce que vous venez de faire.
+   Ron : C’est combien ça ?<br>Fred et George : Cinq gallions.<br>Ron : Combien pour moi ?<br>Fred et George : Cinq gallions.<br>Ron : J’suis votre frère !<br>Fred et George : Dix gallions !
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et le Prince de sang mêlé
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>93</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Mémento
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>92</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
