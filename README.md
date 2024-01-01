@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Désolé professeure, mais on ne doit pas mentir.
+   Il n’y a plus de district 12 Katniss.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix, Harry à Dolores Ombrage
+   Hunger Games : l’embrasement, Gale à Katniss
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>96</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>97</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
