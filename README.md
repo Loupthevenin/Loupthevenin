@@ -20,24 +20,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Écoute, je sais pas trop comment te dire ça. J’te vois souvent ici et j’trouve que tu es super mignonne et tu… Tu voudrais pas sortir avec moi ? Un soir ?<br>- Fichez-moi le camp !<br>- Oh mais…<br>- Sortez d’ici !<br>- J’suis désolé, vraiment désolé…<br>- Oh mais j’plaisante, t’inquiète pas !
+   Everybody good? Plenty of slaves for my robot colony?
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Whiplash, Andrew Neiman et Nicole
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>98</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Interstellar, TARS
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>99</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
