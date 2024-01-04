@@ -20,26 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   Everybody good? Plenty of slaves for my robot colony?
+   - Pourquoi rêver est-il si important ?<br>- Parce que dans mes rêves on est toujours ensemble.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Interstellar, TARS
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>99</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Inception
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>100</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
