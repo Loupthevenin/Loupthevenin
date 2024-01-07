@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Le feux ça se propage et si nous brûlons vous brûlerez avec nous !
+   Messieurs, je ne vous comprendrais jamais. Regardez tous ces livres autour de vous, une mine de connaissance à la porté de vos mains et vous, qu’est-ce que vous faites ? Vous jouez au poker toute la nuit.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games, Katniss
+   Seven, le lieutenant Somerset
   </p>
  </div>
  <div>
@@ -34,11 +34,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>102</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>103</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
