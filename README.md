@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Comment définir le réel ? Ce que tu ressens, vois, goûtes ou respires, ne sont rien que des impulsions électriques interprétées par ton cerveau.
+   On ne retrouve que des détails, tous ces p’tits rien dont on parle rarement, et on revit certains moments forts même si on n’a pas vraiment envie. C’est tout ça mis ensemble qui restitue une présence. Et on prend conscience du manque, et de la haine qu’on ressent pour celui qui a tout détruit…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Matrix, Morpheus
+   Mémento, Leonard Shelby
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>111</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>112</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
