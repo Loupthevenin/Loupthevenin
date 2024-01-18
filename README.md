@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Nous ne devons pas raisonner en tant qu’individu, mais en tant qu’espèce.
+   Il semble que, malgré toutes vos belles stratégies défensives, il y ait un problème de sécurité, monsieur le directeur. Et je crains qu’il ne soit de taille. Comment osez-vous vous tenir où il se tenait ? DÎTES-LEUR COMMENT ÇA S’EST PASSÉ, CE SOIR-LÀ, COMMENT VOUS L’AVEZ REGARDÉ DANS LES YEUX, CET HOMME QUI VOUS FAISAIT CONFIANCE ET L’AVEZ TUÉ ! DÎTES-LEUR !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Interstellar, Dr Brand
+   Harry Potter et les reliques de la mort -  partie, Harry à Rogue
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>113</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>114</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
