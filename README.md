@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Il semble que, malgré toutes vos belles stratégies défensives, il y ait un problème de sécurité, monsieur le directeur. Et je crains qu’il ne soit de taille. Comment osez-vous vous tenir où il se tenait ? DÎTES-LEUR COMMENT ÇA S’EST PASSÉ, CE SOIR-LÀ, COMMENT VOUS L’AVEZ REGARDÉ DANS LES YEUX, CET HOMME QUI VOUS FAISAIT CONFIANCE ET L’AVEZ TUÉ ! DÎTES-LEUR !
+   Félicitations. Tu viens de tuer un magnifique set de table !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort -  partie, Harry à Rogue
+   Hunger Games
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>114</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>115</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
