@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Achète-moi de la drogue ! Achète-moi de la drogue !
+   Soit on meurt en héros, soit on vit assez longtemps pour se voir endosser le rôle du méchant.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Parasite, Yeon Kyo Park
+   The Dark Knight: Le Chevalier noir, Double-Face à Batman
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>118</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>119</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
