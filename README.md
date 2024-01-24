@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Soit on meurt en héros, soit on vit assez longtemps pour se voir endosser le rôle du méchant.
+   - Elle est jalouse parce qu’elle est une fille ordinaire, et toi extraordinaire…<br>- C’est méchant de dire ça, Severus.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight: Le Chevalier noir, Double-Face à Batman
+   Harry Potter et les reliques de la mort -  partie, Rogue et Lily Potter
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>119</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>120</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
