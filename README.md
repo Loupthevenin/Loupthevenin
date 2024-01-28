@@ -20,24 +20,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Qu’est ce que tu attends ? Tue-moi.<br>- Tu ne crains pas la mort, tu lui ouvres les bras. Ton châtiment doit être plus dur.<br>- Tortionnaire.<br>- Oui, mais pas de ta chair… de ton âme […] Lorsque Gotham sera en cendres… je te donnerai le droit de mourir.
+   Do not go gentle into that good night; Old age should burn and rave at close of day. Rage, rage against the dying of the light.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight Rises, Batman et Bane
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>123</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Interstellar, Dr Brand
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>124</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
