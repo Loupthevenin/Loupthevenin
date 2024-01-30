@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   T’es sourd l’avorton ? J’ai dis que c’était dix, espèce de trouillard lanceur de plats à tartes.
+   Ernest Hemingway a écrit : « le monde est un bel endroit qui vaut la peine qu’on se batte pour lui ». Je suis d’accord avec la seconde partie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Buford Tannen à Marty
+   Seven
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>125</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>126</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
