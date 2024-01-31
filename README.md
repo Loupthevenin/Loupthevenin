@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ernest Hemingway a écrit : « le monde est un bel endroit qui vaut la peine qu’on se batte pour lui ». Je suis d’accord avec la seconde partie.
+   - Je n’ai pas le droit d’avoir un balai.<br>- Tu as le droit d’avoir une baguette.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven
+   Harry Potter et la coupe de feu, Harry et Alastor ’Fol-œil’ Maugrey
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>126</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>127</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
