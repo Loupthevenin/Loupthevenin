@@ -20,24 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   Tu ne comprends pas ? T’es un rat dans un labyrinthe.
+   N’oublie pas que c’est l’amour fou entre nous, alors si tu as envie de m’embrasser, il ne faut pas te gêner.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Hunger Games, Peeta
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>129</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Shutter Island, George Noyce
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>128</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
