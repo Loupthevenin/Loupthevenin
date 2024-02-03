@@ -1,7 +1,8 @@
 ### Hi there
+
 <hr/>
 <p>
- À 22 ans, je suis un passionné d'informatique depuis mon plus jeune âge. j'ai récemment obtenu la certification AWS Cloud Practitioner pour approfondir mes compétences dans le domaine du cloud. En tant que junior, je m'engage à relever des défis stimulants et à contribuer de manière proactive à des projets innovants. Mon parcours témoigne de ma détermination à évoluer dans le monde dynamique de la technologie.
+ 🚀 Développeur passionné, créant des sites web modernes et interactifs sur React.
 </p>
 <h2 align="center">
  Languages-Frameworks
@@ -20,7 +21,8 @@
  <br/>
  <div>
   <p id="quote">
-   - It’s not possible.<br>- No it’s necessary.
+   - It’s not possible.
+<br>- No it’s necessary.
   </p>
  </div>
  <br/>
