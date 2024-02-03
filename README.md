@@ -1,4 +1,5 @@
 ### Hi there
+
 <hr/>
 <p>
  🚀 Développeur passionné, créant des sites web modernes et interactifs sur React.
@@ -9,7 +10,7 @@
 <br/>
 <div align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,python,django,html,css,bootstrap,javascript,github"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,aws,docker,mongodb,python,express,django,html,css,tailwind,javascript,ts,nodejs,github"/>
  </a>
 </div>
 <hr/>
@@ -20,7 +21,9 @@
  <br/>
  <div>
   <p id="quote">
-   - Placer votre main droite sur ma taille.<br>- Où ça ?<br>- Sur ma taille.
+   - Placer votre main droite sur ma taille.
+<br>- Où ça ?
+<br>- Sur ma taille.
   </p>
  </div>
  <br>
