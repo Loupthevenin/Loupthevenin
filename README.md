@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous aurez les plus belles peurs de votre vie.
+   Le feux ça se propage et si nous brûlons vous brûlerez avec nous !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets, Professeur Gilderoy Lockhart
+   Hunger Games, Katniss
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>135</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>136</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
