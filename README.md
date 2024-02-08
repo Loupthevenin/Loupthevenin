@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Le feux ça se propage et si nous brûlons vous brûlerez avec nous !
+   Nous ne sommes pas ici parce que nous sommes libres, nous sommes ici parce que nous ne le sommes pas.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games, Katniss
+   The Matrix Reloaded, Agent Smith
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>136</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>137</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
