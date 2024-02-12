@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   I killed Sirius Black!
+   - Rien ne peut entamer ton enthousiasme.<br>- Si ces nuages le peuvent.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Order of the Phoenix, Bellatrix Lestrange
+   Le seigneur des anneaux : les deux tours, Frodon et Sam
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>140</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>2</b> fois au sort parmis les <b>36</b> films sur <b>141</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
