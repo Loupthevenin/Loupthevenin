@@ -20,24 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Qui êtes vous ?- Nous sommes de pacifiques voyageurs.- Il n’y a pas de voyageurs dans cette contrée.
+   - Héhéhéhé, haha, ce sont bien les nains qui aiment nager avec les jolies femmes poilues hahahaha… roooh.<br>- Je sens quelque chose. Un picotement au bout des doigts. Je crois que ça me fait de l’effet.<br>- Qu’est-ce que je disais ? Il ne tient pas l’alcool… [Gimli s’évanouit]<br>- La partie est finie.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Le Seigneur des anneaux : le retour du roi, Gimli et Legolas
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>143</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Le seigneur des anneaux : les deux tours
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>142</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
