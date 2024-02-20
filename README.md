@@ -20,24 +20,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Mr. Anderson, welcome back. We missed you. You like what I’ve done with the place?<br>- It ends tonight.
+   - Qu’est-ce qui te prend, McFly, mauviette ? Mauviette !<br>- De quoi m’as-tu traité Griff ?<br>- J’t’ai traité de mauviette ! Mauviette !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Revolution, Agent Smith et Neo
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>148</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Retour vers le futur  Griff Tannen et Marty
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>149</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
