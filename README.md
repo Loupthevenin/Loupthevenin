@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   You either die hero or you live long enough to see yourself become the vilain.
+   Vous allez sans doute me dire que Beth Davis est la Première Dame du pays et John Wayne Secrétaire à la Défense ? Ah, j’en ai eu assez de divagations pour ce soir ! Bonne nuit, visiteur du futur !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight, Double-Face
+   Retour vers le futur, Dr Emmett Brown à Marty
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>151</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>152</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
