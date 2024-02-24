@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous allez sans doute me dire que Beth Davis est la Première Dame du pays et John Wayne Secrétaire à la Défense ? Ah, j’en ai eu assez de divagations pour ce soir ! Bonne nuit, visiteur du futur !
+   They wont fear it, until they understand it. And they wont understand it, until they use it.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Dr Emmett Brown à Marty
+   Oppenheimer, J Robert Oppenheimer
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>152</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>153</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
