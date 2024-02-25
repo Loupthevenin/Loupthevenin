@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   They wont fear it, until they understand it. And they wont understand it, until they use it.
+   Do not go gentle into that good night; Old age should burn and rave at close of day. Rage, rage against the dying of the light.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, J Robert Oppenheimer
+   Interstellar, Dr Brand
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>153</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>154</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
