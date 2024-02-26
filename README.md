@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Do not go gentle into that good night; Old age should burn and rave at close of day. Rage, rage against the dying of the light.
+   L’homme craint ce qu’il ne peut voir.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Interstellar, Dr Brand
+   Batman begins
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>154</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>155</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
