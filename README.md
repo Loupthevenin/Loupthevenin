@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   L’homme craint ce qu’il ne peut voir.
+   Pour Frodon.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Batman begins
+   Le Seigneur des anneaux : le retour du roi, Aragorn
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>155</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>156</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
