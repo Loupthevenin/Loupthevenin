@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous êtes ma m… vous êtes ma m… vous êtes si mince !
+   - Et que vois-tu ?<br>- L’espoir.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Marty à Lorraine
+   Hunger Games : l’embrasement, Katniss et Primrose
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>157</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>158</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
