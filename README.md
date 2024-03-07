@@ -20,24 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   Je sais que, quand je ferme les yeux, le monde ne s’arrête pas de tourner.
+   Les blessures créent les monstres. Et, vous êtes blessé.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Shutter Island
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>165</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Mémento, Leonard Shelby
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>164</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
