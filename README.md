@@ -20,7 +20,7 @@
  <br/>
  <div>
   <p id="quote">
-   Les blessures créent les monstres. Et, vous êtes blessé.
+   Ne nous oubliez pas car nous aussi nous avons vécu, aimé et ri.
   </p>
  </div>
  <br/>
@@ -34,11 +34,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>165</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>166</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
