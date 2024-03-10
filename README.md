@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Pour votre histoire de pas tirer là… je suis pas aussi tranchée que vous !
+   N’aie pas pitié des morts Harry, aie pitié des vivants et en particulier de tous ceux qui vivent sans amour.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight Rises, Catwoman à Batman
+   Harry Potter et les reliques de la mort - e partie, Dumbledore à Harry
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>167</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>168</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
