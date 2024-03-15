@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   La souffrance forge le caractère.
+   - Comment… comment allons-nous entrer ? Je vois… l’endroit… si seulement… Pattenrond était là…<br>- Pattenrond ? Tu es un sorcier, ou quoi ?<br>- Hein ? Oui… c’est vrai.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight Rises
+   Harry Potter et les reliques de la mort -  partie
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>171</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>172</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
