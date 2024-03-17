@@ -20,26 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   - C’est la seconde fois que vous parlez sans y être invitée, Miss Granger. Êtes-vous incapable de vous dominer ou êtes-vous fière d’être une insupportable « je sais tout » ?<br>- [À Harry] Il a pas tout-à-fait tort.
+   Eh, McFly ! J’croyais t’avoir dit d’rester là !
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et le prisonnier d’Azkaban, Rogue et Ron
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>173</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Retour vers le futur  Griff Tannen
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>174</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
