@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Eh, McFly ! J’croyais t’avoir dit d’rester là !
+   - Vous êtes en retard !<br>- Un magicien n’est jamais en retard, ni en avance d’ailleurs Frodon Sacquet. Il arrive précisément à l’heure prévue.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Griff Tannen
+   Le seigneur des anneaux : la communauté de l’anneau, Frodon et Gandalf
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>174</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>175</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
