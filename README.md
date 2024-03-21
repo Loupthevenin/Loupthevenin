@@ -20,24 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   - C’est fini ! Tu n’as plus rien à craindre ! Nous voilà revenu en cette bonne vieille année 1955 !<br>- En 1955 ! Ah !
-  </p>
- </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Lorraine et Marty
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>177</b> jours consécutifs. 🎲🎲🎲
+   Repose en paix, fils du Gondor.
   </p>
  </div>
  <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le seigneur des anneaux : la communauté de l’anneau, Aragorn à Boromir
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>178</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
  </br>
 </div>
 <hr/>
