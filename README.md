@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?
+   La mort n’est qu’un autre chemin, qu’il nous faut tous prendre, le rideau de pluie grisâtre de ce monde sourira, et tout sera brillant comme l’argent alors vous les verrez… les rivages blanc et au delà la lointaine contré verdoyante sous un fuguasse levé de soleil.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Deathly Hallows: Part  Dumbledore à Harry
+   Le seigneur des anneaux : les deux tours, Gandalf à Pippin
   </p>
  </div>
  <div>
@@ -34,11 +34,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>179</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>180</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
