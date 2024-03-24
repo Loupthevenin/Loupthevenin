@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   La mort n’est qu’un autre chemin, qu’il nous faut tous prendre, le rideau de pluie grisâtre de ce monde sourira, et tout sera brillant comme l’argent alors vous les verrez… les rivages blanc et au delà la lointaine contré verdoyante sous un fuguasse levé de soleil.
+   Le rêve semble réel quand on y est, ce n’est que quand on se réveille qu’on se rend compte qu’il avait quelque chose d’étrange…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : les deux tours, Gandalf à Pippin
+   Inception, Dom Cobb
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>180</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>181</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
