@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les blessures créent les monstres. Et, vous êtes blessé.
+   Tuer des sangs-de-bourbes ne m’intéresse plus, désormais. Depuis plusieurs mois, ma nouvelle cible, c’est toi.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island
+   Harry Potter et la chambre des secrets, Tom Jedusor / Voldemort à Harry
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>183</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>184</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
