@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   This is all a joke.
+   - Régale toi de sa chair.<br>- Je vous tuerai si vous le touchez.<br>- Ne te mets pas entre Nazgûl et sa proie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, le Comédien
+   Le Seigneur des anneaux : le retour du roi, le Roi-Sorcier d’Angmar et Eowyn
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>185</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>186</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
