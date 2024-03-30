@@ -20,24 +20,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Régale toi de sa chair.<br>- Je vous tuerai si vous le touchez.<br>- Ne te mets pas entre Nazgûl et sa proie.
+   Hey, McFly ! J’croyais que j’t’avais de plus foutre les pieds ici ! T’es pas Seamus McFly ? J’suis sûr que tu lui ressembles surtout avec ce galurin à la noix ! T’es parent avec ce coupe-foin ? Ton nom c’est quoi pied-tendre ?
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Le Seigneur des anneaux : le retour du roi, le Roi-Sorcier d’Angmar et Eowyn
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>186</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Retour vers le futur  Buford Tannen à Marty
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>187</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
