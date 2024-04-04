@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   You don’t get to commit sin and then ask all of us to feel sorry for you when they’re consequences.
+   Nous vivons des heures sombres c’est indéniable…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, Kitty Oppenheimer
+   Harry Potter et les reliques de la mort - e partie, le ministre de la magie
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>191</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>192</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
