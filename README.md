@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Nous vivons des heures sombres c’est indéniable…
+   Je sais que, quand je ferme les yeux, le monde ne s’arrête pas de tourner.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort - e partie, le ministre de la magie
+   Mémento, Leonard Shelby
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>192</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>193</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
