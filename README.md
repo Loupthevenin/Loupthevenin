@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je sais que, quand je ferme les yeux, le monde ne s’arrête pas de tourner.
+   The house of Godric Gryffindor has commanded the respect of the wizarding world for nearly ten centuries. I will not have you, in one night, besmirching that name by behaving like a babbling, bumbling band of baboons!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Mémento, Leonard Shelby
+   Harry potter et la coupe de feu, Minerva McGonagall
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>193</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>194</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
