@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   The house of Godric Gryffindor has commanded the respect of the wizarding world for nearly ten centuries. I will not have you, in one night, besmirching that name by behaving like a babbling, bumbling band of baboons!
+   You’re the man who gave them the power to destroy themselves… and the world is not prepared.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry potter et la coupe de feu, Minerva McGonagall
+   Oppenheimer, Niels Bohr
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>194</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>195</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
