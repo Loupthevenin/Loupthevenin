@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je ne suis qu’un tas d’os dans une boite, Teddy.
+   You’re the man who gave them the power to destroy themselves… and the world is not prepared.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island, Dolores Chanal à Teddy Daniels
+   Oppenheimer, Niels Bohr
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>196</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>197</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
