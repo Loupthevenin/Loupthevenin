@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   You’re the man who gave them the power to destroy themselves… and the world is not prepared.
+   - L’objet est ici, caché dans le château. Si vous devez demander, jamais vous ne saurez. Si vous savez, il suffit de demander.<br>- Merci !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, Niels Bohr
+   Harry Potter et les reliques de la mort -  partie, Héléna Serdaigle et Harry
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>197</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>198</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
