@@ -20,24 +20,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Combien il y en a ?<br>- 36. Je les ai comptés moi-même.<br>- 36 !! Mais l’an dernier, l’an dernier j’en avais 37 !!
+   - Qu’est ce qui se passe là-bas ?- Dois-je tout vous décrire ? Ou vous trouver un marche pied ?
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Dudley Dursley et Vernon Dursley
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>202</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le seigneur des anneaux : les deux tours, Gimli et Inconnu
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>203</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
