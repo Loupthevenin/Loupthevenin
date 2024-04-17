@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je suis Dark Vador et je viens de la planète Vulcain.
+   - Il est méthodique, précis et pour couronner le tout, patient.<br>- Vous voulez dire qu’il est barge, ouais ! C’est parce que ce fondu a une carte de bibliothèque qu’il a le cerveau de Yoda !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Marty
+   Seven, le lieutenant Somerset et le lieutenant Mills
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>204</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>205</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
