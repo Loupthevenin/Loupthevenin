@@ -20,24 +20,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Il est méthodique, précis et pour couronner le tout, patient.<br>- Vous voulez dire qu’il est barge, ouais ! C’est parce que ce fondu a une carte de bibliothèque qu’il a le cerveau de Yoda !
+   Si nous brûlons, vous brûlerez avec nous !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, le lieutenant Somerset et le lieutenant Mills
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>205</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Hunger Games : la révolte - e partie, Katniss au président Snow
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>206</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
