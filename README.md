@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   C’est plus facile de tomber dans la drogue que d’affronter la vie, plus facile de piquer ce que vous avez envie que d’essayer de le gagner, plus facile de battre un enfant que de l’élever. L’amour par contre, ça demande des efforts, du courage.
+   Maintenir une conspiration du mensonge aux plus hauts niveaux du gouvernement ? Ça a l’air dans mes cordes.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, le lieutenant Somerset au lieutenant Mills
+   The Imitation Game, Stewart Menzies
   </p>
  </div>
  <div>
@@ -34,11 +34,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>209</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>210</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
