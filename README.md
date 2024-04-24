@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   You! You foul, loathsome, evil little cockroach!
+   Il faut que je croie que le monde est toujours là lorsque je ferme les yeux.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban, Hermione à Drago Malefoy
+   Mémento, Leonard Shelby
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>211</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>212</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
