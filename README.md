@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?
+   Le Maire Goldie Wilson ! Ça sonne vachement bien Whooo !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Deathly Hallows: Part  Dumbledore à Harry
+   Retour vers le futur, Goldie Wilson
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>213</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>214</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
