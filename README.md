@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Mesdames, Messieurs, bienvenue au Musée Biff Tannen consacré au tout premier citoyen de Hill Valley, au plus grand héros de l’Amérique le seul et unique Biff Tannen. Bien sûr nous connaissons tous la légende mais l’homme qui est-il ? Revivez les plus grands moments de la saga de la famille Tannen. À commencer par l’arrière grand-père Buford « Molosse » Tannen, le tireur le plus rapide de l’Ouest.
+   Nous tombons pour mieux apprendre à nous relever.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur
+   Batman begins
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>215</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>216</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
