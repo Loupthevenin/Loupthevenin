@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Le seul moyen d’entrer ici c’est de passer sur ma putain de carcasse !- Ainsi soit-il.
+   Bien le bonsoir, je suis l’animation de la soirée !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Revolution, un garde et Séraphin
+   The Dark Knight: Le Chevalier noir, le Joker
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>217</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>218</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
