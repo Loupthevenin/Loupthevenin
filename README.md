@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Bien le bonsoir, je suis l’animation de la soirée !
+   Je préfère partager une vie de mortelle avec vous que de devoir affronter tous les ages de ce monde toute seule.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight: Le Chevalier noir, le Joker
+   Le seigneur des anneaux : la communauté de l’anneau, Arwen
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>218</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>219</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
