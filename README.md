@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je préfère partager une vie de mortelle avec vous que de devoir affronter tous les ages de ce monde toute seule.
+   - Qu’est-ce que vous faîtes ici ? Sortez de ma maison !<br>- Oh, soyez certain que je n’ai pas le moindre plaisir à me trouver dans votre… une maison, ça ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : la communauté de l’anneau, Arwen
+   Harry Potter et la chambre des secrets, Hagrid et Lucius Malfoy
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>219</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>220</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
