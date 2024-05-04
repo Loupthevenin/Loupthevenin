@@ -20,24 +20,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Qu’est-ce que vous faîtes ici ? Sortez de ma maison !<br>- Oh, soyez certain que je n’ai pas le moindre plaisir à me trouver dans votre… une maison, ça ?
+   Cette insupportable colère qui étouffe le chagrin au point que le souvenir de l’être aimé n’est plus qu’un poison dans tes veines, et un jour tu te surprend à souhaiter que la personne aimée n’aie jamais existé pour être libéré de ta peine.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets, Hagrid et Lucius Malfoy
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>220</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Batman begins
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>221</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
