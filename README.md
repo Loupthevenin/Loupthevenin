@@ -20,24 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   Cette insupportable colère qui étouffe le chagrin au point que le souvenir de l’être aimé n’est plus qu’un poison dans tes veines, et un jour tu te surprend à souhaiter que la personne aimée n’aie jamais existé pour être libéré de ta peine.
+   Harry : Au fait, je suis désolé de t’avoir fait rater la diligence.<br>Luna Lovegood : Oh c’est pas grave, c’est comme si j’étais avec un ami.<br>Harry : Euh… Je suis ton ami Luna !<br>Luna Lovegood : C’est gentil.<br>Le professeur Flitwick : Oh ! Ce n’est pas trop tôt ! Je vous ai cherchés partout vous deux ! Bien. Vos noms.<br>Harry : Professeur Flitwick, vous me connaissez depuis cinq ans.<br>Le professeur Flitwick : Pas d’exceptions Potter !
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et le Prince de sang mêlé
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>222</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Batman begins
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>221</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
