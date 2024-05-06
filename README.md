@@ -20,24 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   Harry : Au fait, je suis désolé de t’avoir fait rater la diligence.<br>Luna Lovegood : Oh c’est pas grave, c’est comme si j’étais avec un ami.<br>Harry : Euh… Je suis ton ami Luna !<br>Luna Lovegood : C’est gentil.<br>Le professeur Flitwick : Oh ! Ce n’est pas trop tôt ! Je vous ai cherchés partout vous deux ! Bien. Vos noms.<br>Harry : Professeur Flitwick, vous me connaissez depuis cinq ans.<br>Le professeur Flitwick : Pas d’exceptions Potter !
-  </p>
- </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le Prince de sang mêlé
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>222</b> jours consécutifs. 🎲🎲🎲
+   Je n’ai jamais rien voulu de tout ça. Je n’ai jamais voulu participer aux jeux. Je voulais juste sauver ma sœur, et garder Peeta en vie.
   </p>
  </div>
  <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Hunger Games : la révolte - e partie, Katniss
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>223</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
  </br>
 </div>
 <hr/>
