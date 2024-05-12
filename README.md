@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   On ne retrouve que des détails, tous ces p’tits rien dont on parle rarement, et on revit certains moments forts même si on n’a pas vraiment envie. C’est tout ça mis ensemble qui restitue une présence. Et on prend conscience du manque, et de la haine qu’on ressent pour celui qui a tout détruit…
+   You’re the man who gave them the power to destroy themselves… and the world is not prepared.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Mémento, Leonard Shelby
+   Oppenheimer, Niels Bohr
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>228</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>229</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
