@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   You’re the man who gave them the power to destroy themselves… and the world is not prepared.
+   Now I am become Death, the destroyer of worlds.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, Niels Bohr
+   Oppenheimer, J Robert Oppenheimer
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>229</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>230</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
