@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Si peu d’espoir est favorable, trop d’espoir est dangereux.
+   You have to win.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games, le président Snow
+   Hunger Games, Rue à Katniss
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>231</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>232</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
