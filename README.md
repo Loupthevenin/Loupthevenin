@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   You have to win.
+   Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games, Rue à Katniss
+   Harry Potter and the Deathly Hallows: Part  Dumbledore à Harry
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>232</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>233</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
