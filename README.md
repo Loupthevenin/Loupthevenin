@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?
+   George : C’est pas lui Fred, c’est moi.<br>Fred Weasley : Et vous osez prétendre que vous êtes notre mère Madame ?<br>Mrs. Weasley : Oh excuse moi George.<br>Fred Weasley : Je plaisantais, Fred c’est moi.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Deathly Hallows: Part  Dumbledore à Harry
+   Harry Potter à l’école des sorciers
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>233</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>234</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
