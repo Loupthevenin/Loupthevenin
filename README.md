@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ne suivez pas les lumières.
+   If it isn’t the truth, then we will all be dead, but in what would it be different from any other day?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : la communauté de l’anneau, Gollum
+   The Matrix Reloaded
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>236</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>237</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
