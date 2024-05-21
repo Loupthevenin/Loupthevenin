@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   If it isn’t the truth, then we will all be dead, but in what would it be different from any other day?
+   Come on! Stop trying to hit me and hit me!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Reloaded
+   The Matrix, Morpheus
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>237</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>238</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
