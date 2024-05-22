@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Come on! Stop trying to hit me and hit me!
+   - Je ne vois pas pourquoi tu ne veux pas le porter.<br>- Parce que j’ai l’air d’un idiot, voilà pourquoi.<br>- Pas plus que d’habitude.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix, Morpheus
+   Harry Potter et L’ordre du Phoenix, Hermione et Ron
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>3</b> fois au sort parmis les <b>36</b> films sur <b>238</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>239</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
