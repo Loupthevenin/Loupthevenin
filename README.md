@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Empêche cette sale bête de s’approcher de Croûtard ou j’en fais une descente de lit !
+   Ton absence m’est insupportable, on aura bien vécu tout les deux, mais il faut que je renonce à toi, il faut que je renonce à toi…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban, Ron à Hermione
+   Inception
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>241</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>242</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
