@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ton absence m’est insupportable, on aura bien vécu tout les deux, mais il faut que je renonce à toi, il faut que je renonce à toi…
+   Neo : Hi, you fellows!<br>Agent Johnson : It’s him.<br>Agent Thompson : The Anomaly.<br>Agent Jackson : Do we proceed?<br>Agent Thompson : Yes…<br>Agent Jackson : He is still…<br>Agent Johnson : Only human.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Inception
+   The Matrix Reloaded
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>242</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>243</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
