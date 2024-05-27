@@ -20,24 +20,26 @@
  <br/>
  <div>
   <p id="quote">
-   Neo : Hi, you fellows!<br>Agent Johnson : It’s him.<br>Agent Thompson : The Anomaly.<br>Agent Jackson : Do we proceed?<br>Agent Thompson : Yes…<br>Agent Jackson : He is still…<br>Agent Johnson : Only human.
+   Nous vivons des heures sombres c’est indéniable…
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Reloaded
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>243</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Harry Potter et les reliques de la mort - e partie, le ministre de la magie
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>244</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
