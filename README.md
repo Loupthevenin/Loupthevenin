@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Fuyez, pauvres fous !
+   - Nobody needs me.<br>- I do. I need you.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : la communauté de l’anneau
+   The Hunger Games: Catching Fire, Peeta et Katniss
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>246</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>247</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
