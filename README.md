@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu es le Geai Moqueur, Katniss.
+   J’étais assise dans le conduit d’évacuation, je pensais à la mort.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games
+   Harry Potter et la chambre des secrets, Mimi Géniarde à Harry
   </p>
  </div>
  <div>
@@ -34,11 +34,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>249</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>250</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
