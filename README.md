@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   J’étais assise dans le conduit d’évacuation, je pensais à la mort.
+   Mes amis… ce n’est pas à vous de vous incliner.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets, Mimi Géniarde à Harry
+   Le Seigneur des anneaux : le retour du roi, Aragorn
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>250</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>251</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
