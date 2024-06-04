@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Mes amis… ce n’est pas à vous de vous incliner.
+   - Et que vois-tu ?<br>- L’espoir.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le Seigneur des anneaux : le retour du roi, Aragorn
+   Hunger Games : l’embrasement, Katniss et Primrose
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>251</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>252</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
