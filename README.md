@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Il ne faut surtout pas te laisser aller. C’est dix fois plus long de se reconstruire que de s’écrouler.
+   Ron : Mais… vous étiez là… et vous revoilà là ?<br>Harry : Mais qu’est-ce qu’il raconte ?<br>Hermione : Enfin Ron ! On ne peut pas se trouver à deux endroits à la fois !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : l’embrasement, Finnick Odair
+   Harry Potter et le prisonnier d’Azkaban
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>256</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>257</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
