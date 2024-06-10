@@ -20,24 +20,26 @@
  <br/>
  <div>
   <p id="quote">
-   Ron : Mais… vous étiez là… et vous revoilà là ?<br>Harry : Mais qu’est-ce qu’il raconte ?<br>Hermione : Enfin Ron ! On ne peut pas se trouver à deux endroits à la fois !
+   Oui, les gagnant sont les plus forts d’entre nous. Ceux qui ont survécu à l’arène, échappé au collet de la pauvreté qui étrangle le reste de la population. Ils sont, ou plutôt nous sommes, l’incarnation de l’espoir dans un monde sans espoir. Et voilà que vingt-trois d’entre nous vont mourir afin de montrer que cet espoir n’était qu’une illusion.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>257</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Hunger Games : l’embrasement, Katniss
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>258</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
