@@ -20,26 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   Oui, les gagnant sont les plus forts d’entre nous. Ceux qui ont survécu à l’arène, échappé au collet de la pauvreté qui étrangle le reste de la population. Ils sont, ou plutôt nous sommes, l’incarnation de l’espoir dans un monde sans espoir. Et voilà que vingt-trois d’entre nous vont mourir afin de montrer que cet espoir n’était qu’une illusion.
+   C’est un endroit fantastique, pour être avec des amis.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Hunger Games : l’embrasement, Katniss
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>258</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et les reliques de la mort - e partie, Dobby
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>259</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
