@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   C’est un endroit fantastique, pour être avec des amis.
+   Si nous brûlons, vous brûlerez avec nous !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort - e partie, Dobby
+   Hunger Games : la révolte - e partie, Katniss au président Snow
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>259</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>260</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
