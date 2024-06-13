@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Si nous brûlons, vous brûlerez avec nous !
+   Les gens qui utilisent le métro ont une odeur bien reconnaissable.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte - e partie, Katniss au président Snow
+   Parasite, Dong ik Park
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>260</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>261</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
