@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les gens qui utilisent le métro ont une odeur bien reconnaissable.
+   Achète-moi de la drogue ! Achète-moi de la drogue !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Parasite, Dong ik Park
+   Parasite, Yeon Kyo Park
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>261</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>262</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
