@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Achète-moi de la drogue ! Achète-moi de la drogue !
+   C’est vous le faible et vous ne connaîtrez jamais l’amour ni l’amitié. Et je vous plains.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Parasite, Yeon Kyo Park
+   Harry Potter et L’ordre du Phoenix, Harry à Lord Voldemort
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>5</b> fois au sort parmis les <b>36</b> films sur <b>262</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>263</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
