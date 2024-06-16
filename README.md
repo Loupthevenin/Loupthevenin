@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   C’est vous le faible et vous ne connaîtrez jamais l’amour ni l’amitié. Et je vous plains.
+   Mon pin, vindiou ! Saleté de martien, il a tué un de mes pins !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix, Harry à Lord Voldemort
+   Retour vers le futur, le vieux Peabody
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>263</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>264</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
