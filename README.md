@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Mon pin, vindiou ! Saleté de martien, il a tué un de mes pins !
+   Inspecteur, inspecteur… inspecteur !! Vous me cherchez n’est ce pas ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, le vieux Peabody
+   Seven, John Doe
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>264</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>265</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
