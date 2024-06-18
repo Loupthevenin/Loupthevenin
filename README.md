@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Inspecteur, inspecteur… inspecteur !! Vous me cherchez n’est ce pas ?
+   Toutes les larmes ne sont pas un mal.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, John Doe
+   Le Seigneur des anneaux : le retour du roi, Gandalf
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>265</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>266</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
