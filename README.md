@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Toutes les larmes ne sont pas un mal.
+   Mieux vaut-il vivre comme un monstre ou mourir en homme bien ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le Seigneur des anneaux : le retour du roi, Gandalf
+   Shutter Island, Teddy Daniels
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>266</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>267</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
