@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Mieux vaut-il vivre comme un monstre ou mourir en homme bien ?
+   J’imagine qu’il y a des gens qui naissent avec la tragédie dans le sang.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island, Teddy Daniels
+   Donnie Darko
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>267</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>268</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
