@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   J’imagine qu’il y a des gens qui naissent avec la tragédie dans le sang.
+   Le commandant Denniston : Voici Stewart Menzies, du MI6.<br>Charles Richards : Il n’y a que cinq divisions des renseignements militaires. Il n’y a pas de MI6.<br>Stewart Menzies : Exactement, c’est l’esprit.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko
+   The Imitation Game
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>268</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>269</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
