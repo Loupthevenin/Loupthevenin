@@ -20,26 +20,24 @@
  <br/>
  <div>
   <p id="quote">
-   Mes amis… ce n’est pas à vous de vous incliner.
+   Dr. Emmett Brown : Arrête ton cirque ! Va au diable, Tannen !<br>Buford Tannen : Non, toi tu vas y’aller ! Tout droit, en enfer ! Toi ?<br>Marty : Eh, tu nous lâches espèce de tâche ?
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Le Seigneur des anneaux : le retour du roi, Aragorn
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>270</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Retour vers le futur
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>271</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
