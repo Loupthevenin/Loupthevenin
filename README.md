@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Come on! Stop trying to hit me and hit me!
+   Un Anneau pour les gouverner tous, un Anneau pour les trouver.<br>Un Anneau pour les amener tous et dans les ténèbres les lier.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix, Morpheus
+   Le seigneur des anneaux : la communauté de l’anneau
   </p>
  </div>
  <div>
@@ -34,7 +34,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>273</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>274</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
