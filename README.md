@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   T’es sourd McFlan, espèce de crème anglaise !
+   - Professeur, est-ce que tout ceci est réel ou ça se passe dans ma tête ?<br>- Bien sûr que ça se passe dans ta tête, Harry. Mais pourquoi faudrait-il en conclure que ce n’est pas réel ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Biff Tannen à George McFly
+   Harry Potter et les reliques de la mort - e partie, Harry et Dumbledore
   </p>
  </div>
  <div>
@@ -34,11 +34,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>276</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>277</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
