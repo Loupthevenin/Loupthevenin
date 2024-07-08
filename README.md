@@ -20,13 +20,13 @@
  <br/>
  <div>
   <p id="quote">
-   Cette insupportable colère qui étouffe le chagrin au point que le souvenir de l’être aimé n’est plus qu’un poison dans tes veines, et un jour tu te surprend à souhaiter que la personne aimée n’aie jamais existé pour être libéré de ta peine.
+   - Pourquoi Monsieur Anderson, pourquoi persister !?<br>- Parce que j’en ai fait le choix…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Batman begins
+   The Matrix Revolution, Agent Smith et Neo
   </p>
  </div>
  <div>
@@ -34,11 +34,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>285</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>286</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
