@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu te crois en 1999, mais en fait on approche de 2199 ; et si je ne peux pas préciser l’année c’est parce que nous l’ignorons tous, et je ne vois pas comment je pourrais te l’expliquer d’avantage. Viens avec moi ! Tu verras par toi même.
+   Buford Tannen : Eh, ben qu’on en finisse ! Tout de suite !<br>Un homme de main de Bufford Tannen : Pas maintenant, patron ! Le Marshall a nos armes.<br>Buford Tannen : C’est ce que je disais, on en finit demain !<br>Un homme de main de Bufford Tannen : Demain, on est à Pine City, on attaque la diligence !<br>Buford Tannen : Bon, lundi, on fait quelque chose ?<br>Un homme de main de Bufford Tannen : Non, c’est bon, tu peux le buter !<br>Buford Tannen : Je vais revenir lundi, je te retrouve ici et on réglera ça d’homme à homme dans la grande rue devant le Saloon Palace !<br>Marty : Ça me convient ! À quelle heure ? Un duel au soleil ?<br>Buford Tannen : Mais qu’est-ce qu’il dit ? Je troue la peau des gens avant mon petit déjeuner ! Lundi matin sept heures !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Matrix, Morpheus à Neo
+   Retour vers le futur
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>288</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>289</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
