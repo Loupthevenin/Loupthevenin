@@ -1,7 +1,6 @@
 ### Hi there
 <hr/>
 <p>
- 🚀 Développeur passionné, créant des sites web modernes et interactifs sur React.
 </p>
 <h2 align="center">
  Languages-Frameworks
