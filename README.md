@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Bravo Neville ! Tu as trouvé la salle sur demande ! Elle n’apparaît que lorsqu’on en a vraiment besoin.<br>- Donc en gros, si t’as envie d’aller aux toilettes…<br>- Charmant Ron ! Mais ouais, en gros c’est ça l’idée.
+   La grand-mère de Biff : Biff, Biff, où est-ce que tu vas encore ?<br>Biff Tannen : J’te l’ai d’jà dit, mémé, au bal !<br>Marty : Au bal !<br>La grand-mère de Biff : À quelle heure tu rentres ?<br>Biff Tannen : J’rentrerai quand j’rentrerai !<br>La grand-mère de Biff : Et n’oublie pas d’éteindre la lumière dans l’garage !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix, Hermione et Ron
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>291</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Retour vers le futur
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>292</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
