@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   La grand-mère de Biff : Biff, Biff, où est-ce que tu vas encore ?<br>Biff Tannen : J’te l’ai d’jà dit, mémé, au bal !<br>Marty : Au bal !<br>La grand-mère de Biff : À quelle heure tu rentres ?<br>Biff Tannen : J’rentrerai quand j’rentrerai !<br>La grand-mère de Biff : Et n’oublie pas d’éteindre la lumière dans l’garage !
+   Tu es un grand sorcier !
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Retour vers le futur
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>292</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter à l’école des sorciers, Hermione à Harry
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>293</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
