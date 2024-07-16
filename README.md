@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu es un grand sorcier !
+   Nous ne sommes pas ici parce que nous sommes libres, nous sommes ici parce que nous ne le sommes pas.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Hermione à Harry
+   The Matrix Reloaded, Agent Smith
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>293</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>294</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
