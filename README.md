@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Nous ne sommes pas ici parce que nous sommes libres, nous sommes ici parce que nous ne le sommes pas.
+   - Pourquoi ce déguisement de lapin ridicule ?<br>- Pourquoi ce déguisement d’homme ridicule ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Reloaded, Agent Smith
+   Donnie Darko, Donnie et Frank
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>294</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>295</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
