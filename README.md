@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Elle avait enfoui quelque chose en elle, très profondément, une chose dont elle avait déjà été consciente mais qu’elle avait choisi d’oublier.
+   J’oublie toujours, de t’oublier.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Inception
+   Mémento
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>298</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>299</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
