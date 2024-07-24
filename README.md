@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Pourquoi tombons nous ? Pour mieux apprendre à nous relever.
+   Désolé professeure, mais on ne doit pas mentir.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight Rises, Alfred
+   Harry Potter et L’ordre du Phoenix, Harry à Dolores Ombrage
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>301</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>302</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
