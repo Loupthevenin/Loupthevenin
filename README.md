@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Désolé professeure, mais on ne doit pas mentir.
+   Hermione : Je suis allée à…<br>Harry et Ron : À la bibliothèque, et… ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix, Harry à Dolores Ombrage
+   Harry Potter et le Prince de sang mêlé
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>302</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>303</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
