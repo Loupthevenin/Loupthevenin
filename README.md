@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   « Molosse », ce nom j’l’encaisse pas, ça me rend enragé t’entends, personne m’appelle « Molosse » ! Encore moins une espèce de mouche à merde déguisée en arbre de Noël !
+   Do you believe in time travel?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Buford Tannen à Marty
+   Donnie Darko, Frank
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>309</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>310</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
