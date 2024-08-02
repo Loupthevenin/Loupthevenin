@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Do you believe in time travel?
+   - Tu as essayé de tuer tes maîtres !<br>- Non Dobby n’a pas de maître, c’est un elfe LIBRE ! Non, Dobby ne voulait pas tuer ! Blesser très gravement, mutiler… Mais pas tuer !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, Frank
+   Harry Potter et les reliques de la mort - e partie, Bellatrix Lestrange et Dobby
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>310</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>311</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
