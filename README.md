@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Attaquer l’un des nôtres, c’est nous attaquer tous !
+   - Au total, 42.- Mmm, 42, ce n’est pas mal pour un prince hippicul elfe aux oreilles pointues. Héhéhéhé, pour ma part je suis assis sur mon 43e.<br>[Legolas tire une flèche dans l’orque]- 43.- Il était déjà mort !- Il bougeait encore.- Il bougeait encore parce que ma hache était enfoncée dans son système nerveux !!<br>[Gimli secoue la hache et l’orque mort, est parcouru de convulsions]
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Rorschach
+   Le seigneur des anneaux : les deux tours, Legolas et Gimli
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>314</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>315</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
