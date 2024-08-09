@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je voulais voir les rides se graver une à une dans ta chair en sachant précisément à quel moment elles étaient apparues.
+   Les gens qui utilisent le métro ont une odeur bien reconnaissable.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island
+   Parasite, Dong ik Park
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>317</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>318</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
