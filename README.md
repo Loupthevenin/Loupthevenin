@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les gens qui utilisent le métro ont une odeur bien reconnaissable.
+   Maintain a conspiracy of lies at the highest levels of government ? Sounds right up in my alley.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Parasite, Dong ik Park
+   The Imitation Game, Stewart Menzies
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>318</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>319</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
