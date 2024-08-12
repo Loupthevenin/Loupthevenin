@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Oh, tiens, j’te la rends, merci !<br>- J’vous en fait cadeau ! J’ai un Pittbull maintenant !
+   - Quand vas-tu fourrer ça dans ta tête de linotte ? T’es ma gonzesse !<br>- Biff Tannen, je ne serai jamais votre gonzesse comme vous dites même si vous aviez un million de dollars.<br>- Oh que si tu verras ! Ce sera toi et moi et pas autrement. Je me marierai avec toi Lorraine ! Un jour tu seras ma femme !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Marty et une petite fille
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>320</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Retour vers le futur  Biff Tannen et Lorraine
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>321</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
