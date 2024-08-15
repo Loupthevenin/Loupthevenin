@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Et voilà, mes amis, comment meurt une révolution !
+   Si nous brûlons, vous brûlerez avec nous !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte - e partie, Haymitch Abernathy
+   Hunger Games : la révolte - e partie, Katniss au président Snow
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>323</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>324</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
