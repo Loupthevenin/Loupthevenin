@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - 2.21 Gigowatts !! 2.21 Gigowatts !! Mon dieu !- Mais enfin c’est quoi un gigowatt ?- Je devais être complètement dans les nuages ! 2.21 Gigowatts, comment puis-je générer une puissance pareille monsieur Edisson ? C’est impossible je n’y arriverais pas !- Mais Doc écoutez c’est rien, tout ce qu’il faut c’est un peu de plutonium !
+   This is not about my life, or Cooper’s life, this is about all mankind. There is a moment…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Dr Emmett Brown et Marty
+   Interstellar, Dr Mann
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>325</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>326</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
