@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Dans la plupart des grandes villes, les gens ont l’art de ne pas se mêler des affaires des autres. On recommande aux femmes, si jamais elles se font agresser, de ne jamais appeler au secours, il faut crier au feu. Si vous criez au secours, personne ne vient.
+   L’échiquier est en place, les pièces avancent…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven
+   Le Seigneur des anneaux : le retour du roi, Gandalf
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>331</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>332</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
