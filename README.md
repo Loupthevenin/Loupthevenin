@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   L’échiquier est en place, les pièces avancent…
+   C’est pour le ménage… RRAAHH !! Je reviendrai plus tard…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le Seigneur des anneaux : le retour du roi, Gandalf
+   Harry Potter et le prisonnier d’Azkaban, la femme de ménage
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>332</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>333</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
