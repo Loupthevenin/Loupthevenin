@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Il y a un an, flics et avocats vous ménageaient. Que s’est-il passé ?<br>- Que proposez-vous ?<br>- C’est simple, tuer le Batman.
+   - Tu crois que l’on devrait partager avec Sylvebarbe ?<br>- … Non… des feuilles mortes ! Il ne comprendrait pas ! Ça pourrait être de la famille…<br>- Ah ! J’ai saisi ! Ne soyons pas hâtif !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight: Le Chevalier noir, le Joker et un gangster
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>334</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le seigneur des anneaux : les deux tours, Pippin et Merry
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>335</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
