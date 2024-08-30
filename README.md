@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Pour un esprit équilibré, la mort n’est qu’une grande aventure de plus.
+   Le porc salé est particulièrement savoureux !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Dumbledore
+   Le Seigneur des anneaux : le retour du roi, Pippin
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>337</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>338</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
