@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Le porc salé est particulièrement savoureux !
+   C’est plus facile de tomber dans la drogue que d’affronter la vie, plus facile de piquer ce que vous avez envie que d’essayer de le gagner, plus facile de battre un enfant que de l’élever. L’amour par contre, ça demande des efforts, du courage.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le Seigneur des anneaux : le retour du roi, Pippin
+   Seven, le lieutenant Somerset au lieutenant Mills
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>338</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>339</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
