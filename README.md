@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   C’est plus facile de tomber dans la drogue que d’affronter la vie, plus facile de piquer ce que vous avez envie que d’essayer de le gagner, plus facile de battre un enfant que de l’élever. L’amour par contre, ça demande des efforts, du courage.
+   Alors, tu es mon arrière grand-père, tu es le premier McFly né en Amérique et tu m’as fait pipi dessus !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, le lieutenant Somerset au lieutenant Mills
+   Retour vers le futur  Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>339</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>340</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
