@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Alors, tu es mon arrière grand-père, tu es le premier McFly né en Amérique et tu m’as fait pipi dessus !
+   Without condoning… or condemning. I understand.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Marty
+   Watchmen, Dr Manhattan
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>340</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>341</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
