@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Without condoning… or condemning. I understand.
+   Les blessures créent les monstres. Et, vous êtes blessé.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Dr Manhattan
+   Shutter Island
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>341</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>342</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
