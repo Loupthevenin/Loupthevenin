@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les blessures créent les monstres. Et, vous êtes blessé.
+   They wont fear it, until they understand it. And they wont understand it, until they use it.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island
+   Oppenheimer, J Robert Oppenheimer
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>342</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>343</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
