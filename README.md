@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Il faut du courage pour affronter ses ennemis mais il en faut encore plus pour affronter ses amis…
+   Les spectateurs ne sont pas dupes, notre monde n’a rien de magique, il est misérable, totalement terre à terre, mais si on arrive à les mystifier ne serait-ce qu’une seconde, on peut les amener à s’émerveiller, et c’est là qu’il se passe quelque chose de magique.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Dumbledore à Neville
+   Le prestige, Alfred Borden
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>349</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>4</b> fois au sort parmis les <b>36</b> films sur <b>350</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
