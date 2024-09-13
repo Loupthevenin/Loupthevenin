@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Alan, j’ai très rarement eu l’occasion de dire ça, mais vous êtes exactement l’homme que j’ai toujours espéré que vous soyez.
+   - You’ll stay with me?<br>- Until the very end.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Imitation Game, Stewart Menzies
+   Harry Potter and the Deathly Hallows: Part  Harry et James Potter
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>351</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>352</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
