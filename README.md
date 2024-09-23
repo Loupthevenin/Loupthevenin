@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Did you had a nightmare? I have nightmares too. Someday, I’ll explain it to you, why they came, why they will never go away. But I’ll tell you how I survive it. I make a list in my head, of all the good things I’ve seen someone do, every little thing I can remember. It’s like a game ant I do it over and over. It gets a little tedious after all these years but… there are much worse games to play…
+   Comment as-tu pu croire, comment as-tu pu être assez naïf pour penser que des enfants avaient une chance contre nous. Le choix va être simple pour toi Potter, tu me donnes cette prophétie maintenant ou tu regardes tes amis mourir…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte -  partie, Katniss
+   Harry Potter et L’ordre du Phoenix, Lucius Malfoy à Harry
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>6</b> fois au sort parmis les <b>36</b> films sur <b>361</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>362</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
