@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Comment as-tu pu croire, comment as-tu pu être assez naïf pour penser que des enfants avaient une chance contre nous. Le choix va être simple pour toi Potter, tu me donnes cette prophétie maintenant ou tu regardes tes amis mourir…
+   - Vas-y gamin, saute ! Bonne idée le suicide, ça m’arrange !<br>- Et si je veux pas sauter ?<br>- Indigestion de plomb !<br>- Et la Police, tu y’as pensé Biff ? Ils sauront que la balle vient de ton revolver !<br>- C’est moi qui donne des ordres à la Police. Et puis d’ailleurs, ils n’ont jamais su d’où venait la balle qui a descendu ton père.<br>- Espèce de sale…<br>- Tu vois ça ? C’est une drôle de justice !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix, Lucius Malfoy à Harry
+   Retour vers le futur  Biff Tannen et Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>362</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>363</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
