@@ -6,29 +6,28 @@ on:
   schedule:
     - cron: "0 9 * * *"
 
-
 jobs:
   build:
-      runs-on: ubuntu-latest
-      steps:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Vérifier le référentiel
+        uses: actions/checkout@v2
 
-        - name: Vérifier le référentiel
-          uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --user pipx
+          python -m pipx ensurepath
+          pipx install beautifulsoup4
+          pipx inject beautifulsoup4 requests
 
-        - name: setup python
-          uses: actions/checkout@v4
-          with:
-            python-version: '3.11'
-        - name: Install dependencies
-          run: |
-            python -m pip install --upgrade pip
-            pip install beautifulsoup4
-            pip install requests
-
-        - name: Exécutez le script Python
-          run: |
-            python ntfy.py
-          env:
-            SECRET_URL: ${{ secrets.SECRET_URL}}
-            GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-            
+      - name: Exécutez le script Python
+        run: |
+          pipx run beautifulsoup4
+          python ntfy.py
+        env:
+          SECRET_URL: ${{ secrets.SECRET_URL}}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
