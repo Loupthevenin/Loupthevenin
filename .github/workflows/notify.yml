@@ -19,14 +19,11 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: |
-          python -m pip install --user pipx
-          python -m pipx ensurepath
-          pipx install beautifulsoup4
-          pipx inject beautifulsoup4 requests
+          python -m pip install --upgrade pip --break-system-packages
+          pip install beautifulsoup4 requests --break-system-packages
 
       - name: Exécutez le script Python
         run: |
-          pipx run beautifulsoup4
           python ntfy.py
         env:
           SECRET_URL: ${{ secrets.SECRET_URL}}

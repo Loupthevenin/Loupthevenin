@@ -19,9 +19,8 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: |
-          python -m pip install --user pipx
-          python -m pipx ensurepath
-          pipx install beautifulsoup4
+          python -m pip install --upgrade pip --break-system-packages
+          pip install beautifulsoup4 requests --break-system-packages
 
       - name: Exécutez le script Python
         env:
