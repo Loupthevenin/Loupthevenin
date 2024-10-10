@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   They wont fear it, until they understand it. And they wont understand it, until they use it.
+   Si on meurt à cause d’eux, je te tue Harry !!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, J Robert Oppenheimer
+   Harry Potter et les reliques de la mort -  partie, Ron
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>366</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>367</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
