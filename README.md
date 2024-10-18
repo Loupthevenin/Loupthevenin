@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Régale toi de sa chair.<br>- Je vous tuerai si vous le touchez.<br>- Ne te mets pas entre Nazgûl et sa proie.
+   - Chemin de travers !<br>- Il a dit quoi ?<br>- Chemin de travers.<br>- C’est bien ce que je me disais !
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Le Seigneur des anneaux : le retour du roi, le Roi-Sorcier d’Angmar et Eowyn
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>376</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et la chambre des secrets, Harry et Mrs Weasley
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>377</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
