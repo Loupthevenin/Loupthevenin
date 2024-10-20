@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Ah, ah, ah, petit. Tu vois ça ? […] C’est quand on est prisonnier de sa colère, c’est l’exemple typique. […] Vous voyez la peur s’exprimer ? Ce garçon a une peur mortelle de la vérité. Petit, ça me brise le cœur de te dire ça, mais je pense que tu es un jeune homme très perturbé et que tu es très désorienté.
+   - Nobody needs me.<br>- I do. I need you.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Donnie Darko, Jim Cunningham à Donnie
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>378</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   The Hunger Games: Catching Fire, Peeta et Katniss
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>379</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
