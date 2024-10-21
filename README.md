@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Nobody needs me.<br>- I do. I need you.
+   De toutes les choses que nous percevons seul l’amour transcende les dimensions temporelles et spatiales. Peut-être qu’on devrait accepter en confiance ce qu’on ne saisit pas encore…
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Hunger Games: Catching Fire, Peeta et Katniss
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>379</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Interstellar, Brand
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>380</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
