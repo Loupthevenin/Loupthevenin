@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - On a un nouveau tribunal ! Ça manquait d’pendaisons ces temps-ci !<br>- Ouais, vas-y, Buford ! Pends-le ! Tire-le ! Hé, les gars, regardez-le gigoter !<br>- Ça fait longtemps qu’on n’avait pas pendu quelqu’un les gars !<br>- Ouais c’est vrai ça !
-  </p>
- </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Buford Tannen et un homme de main de Bufford Tannen
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>381</b> jours consécutifs. 🎲🎲🎲
+   Pourquoi cet air si sérieux ?
   </p>
  </div>
  <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    The Dark Knight: Le Chevalier noir, le Joker
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>382</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
  </br>
 </div>
 <hr/>
