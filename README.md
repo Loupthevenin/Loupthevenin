@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les souvenirs sont malléables, ce sont des interprétations, rien de plus. Ils ne font pas le poids face à la réalité.
+   What’s in the box!!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Mémento, Leonard Shelby
+   Seven, le lieutenant Mills au lieutenant Somerset
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>384</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>385</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
