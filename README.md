@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Toute créature au monde meurt seule.
+   I’m not locked in here with you! You’re locked in here with ME!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, Donnie au Dr Lilian Thurman
+   Watchmen, Rorschach
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>387</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>388</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
