@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   I’m not locked in here with you! You’re locked in here with ME!
+   - Vous vous êtes fait dévorer par un tigre ?<br>- Non par un chien.<br>- Hein ?<br>- Un énorme chien !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Rorschach
+   The Dark Knight: Le Chevalier noir
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>388</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>389</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
