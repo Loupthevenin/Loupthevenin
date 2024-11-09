@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je montrerai à ces gens ce que vous ne voulez pas qu’ils voient. Je leur ferai voir un monde sans vous, un monde sans lois ni contrôle, sans limites ni frontières, un monde où tout est possible. Ce que nous en ferons ne dépendra que de vous.
+   - Pourquoi tombons nous Bruce ?<br>- …<br>- Pour mieux apprendre à nous relever.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Matrix, Neo
+   Batman begins, Thomas Wayne et Bruce Wayne (ans)
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>397</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>398</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
