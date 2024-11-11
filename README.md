@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Je ne suis qu’un tas d’os dans une boite, Teddy.
+   En ce qui concerne votre soi-disant partouze, c’est carrément impossible ! Les Schtroumpf sont asexués, ils ont même pas de… d’organes reproducteurs sous leur joli p’tit pantalon blanc !… C’est ça qui est illogique d’ailleurs ! On peut pas être un Schtroumpf ! À quoi ça sert de vivre… si on a même pas de queue ?
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Shutter Island, Dolores Chanal à Teddy Daniels
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>399</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Donnie Darko, Donnie
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>400</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
