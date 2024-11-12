@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   En ce qui concerne votre soi-disant partouze, c’est carrément impossible ! Les Schtroumpf sont asexués, ils ont même pas de… d’organes reproducteurs sous leur joli p’tit pantalon blanc !… C’est ça qui est illogique d’ailleurs ! On peut pas être un Schtroumpf ! À quoi ça sert de vivre… si on a même pas de queue ?
+   Ne nous oubliez pas car nous aussi nous avons vécu, aimé et ri.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, Donnie
+   Shutter Island
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>400</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>401</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
