@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ne nous oubliez pas car nous aussi nous avons vécu, aimé et ri.
+   - Lily, après tout ce temps…<br>- À jamais…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island
+   Harry Potter et les reliques de la mort -  partie, Dumbledore et Rogue
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>401</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>402</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
