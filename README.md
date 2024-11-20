@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Papa… papa papa papi papo…
+   Vous avez avez besoin de gens intelligents pour ce genre de… quête… mission… chose ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Marty à George McFly
+   Le seigneur des anneaux : la communauté de l’anneau
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>408</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>409</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
