@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous avez avez besoin de gens intelligents pour ce genre de… quête… mission… chose ?
+   Ernest Hemingway once wrote, ’The world is a fine place and worth fighting for’. I agree with the second part.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : la communauté de l’anneau
+   Seven
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>409</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>410</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
