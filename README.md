@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ernest Hemingway once wrote, ’The world is a fine place and worth fighting for’. I agree with the second part.
+   Ah, ah, ah, petit. Tu vois ça ? […] C’est quand on est prisonnier de sa colère, c’est l’exemple typique. […] Vous voyez la peur s’exprimer ? Ce garçon a une peur mortelle de la vérité. Petit, ça me brise le cœur de te dire ça, mais je pense que tu es un jeune homme très perturbé et que tu es très désorienté.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven
+   Donnie Darko, Jim Cunningham à Donnie
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>410</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>411</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
