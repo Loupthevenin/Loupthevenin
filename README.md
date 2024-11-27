@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu te crois en 1999, mais en fait on approche de 2199 ; et si je ne peux pas préciser l’année c’est parce que nous l’ignorons tous, et je ne vois pas comment je pourrais te l’expliquer d’avantage. Viens avec moi ! Tu verras par toi même.
+   I’m not locked in here with you! You’re locked in here with ME!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Matrix, Morpheus à Neo
+   Watchmen, Rorschach
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>415</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>416</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
