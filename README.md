@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   I’m not locked in here with you! You’re locked in here with ME!
+   - Comment avez-vous eu cette épée ?<br>- C’est compliqué. Pourquoi Bellatrix Lestrange pensait qu’elle devait être dans sa chambre forte à Gringotts ?<br>- C’est compliqué.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Rorschach
+   Harry Potter et les reliques de la mort -  partie, Gripsec et Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>416</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>417</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
