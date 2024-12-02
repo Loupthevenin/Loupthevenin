@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Nous vivons des heures sombres c’est indéniable…
+   J’aimerais dire quelque chose. Ça change rien qu’Harry soit mort. Des gens meurent tout les jours, des amis, de la famille. Oui, on a perdu Harry cette nuit, mais il est toujours là, dans nos cœurs, comme Fred, et Remus, et Tonks, tous. Ils ne sont pas morts en vain, [À Voldemort] mais vous oui, parce que vous vous trompez ! Le cœur d’Harry bâtait pour nous, pour nous tous, ce n’est pas fini !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort - e partie, le ministre de la magie
+   Harry Potter et les reliques de la mort -  partie, Neville
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>420</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>421</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
