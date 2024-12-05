@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Suivez les araignées… Pourquoi ça ne pouvait pas être « suivez les papillons » ?
+   - C’est fini ! Il n’y a plus rien à craindre ! Nous voilà revenu à la ferme McFly !<br>- La ferme McFly, quoi ?
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Retour vers le futur  Maggie McFly et Marty
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>424</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et la chambre des secrets, Ron
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>423</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
