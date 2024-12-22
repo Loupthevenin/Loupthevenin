@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Il faut que tu gagnes, Katniss.
+   On ne retrouve que des détails, tous ces p’tits rien dont on parle rarement, et on revit certains moments forts même si on n’a pas vraiment envie. C’est tout ça mis ensemble qui restitue une présence. Et on prend conscience du manque, et de la haine qu’on ressent pour celui qui a tout détruit…
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Mémento, Leonard Shelby
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>441</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Hunger Games, Rue
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>440</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
