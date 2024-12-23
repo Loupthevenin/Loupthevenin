@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   On ne retrouve que des détails, tous ces p’tits rien dont on parle rarement, et on revit certains moments forts même si on n’a pas vraiment envie. C’est tout ça mis ensemble qui restitue une présence. Et on prend conscience du manque, et de la haine qu’on ressent pour celui qui a tout détruit…
+   Quand t’es en train de lire une revue de chasse en te masturbant dans ton caca, il t’arrive de t’arrêter et de dire « Wahou, c’est quand même incroyable à quel point je peux être givré ! » ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Mémento, Leonard Shelby
+   Seven, le lieutenant Mills à John Doe
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>441</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>442</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
