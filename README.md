@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Aucun parent ne devraient enterrer son enfant.
+   Nous ne devons pas raisonner en tant qu’individu, mais en tant qu’espèce.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : les deux tours, Theoden
+   Interstellar, Dr Brand
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>446</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>447</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
