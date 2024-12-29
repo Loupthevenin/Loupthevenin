@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Nous ne devons pas raisonner en tant qu’individu, mais en tant qu’espèce.
+   Vous avez deux minutes pour dessiner un labyrinthe qui nécessite une minute à être résolu…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Interstellar, Dr Brand
+   Inception, Dom Cobb à Ariadne
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>447</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>448</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
