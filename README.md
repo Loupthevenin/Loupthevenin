@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   À Poudlard une aide sera toujours apportée à ceux qui en ont besoin.
+   Ron : Wingardium LeviosA !<br>Hermione : Non. Stop ! Stop ! Stop ! Tu vas finir par crever un œil à quelqu’un. Et puis d’ailleurs tu ne sais même pas le prononcer : c’est LeviOsa, et pas leviosA.<br>Ron : Fais-le toi puisque tu es si intelligente, vas-y !<br>Hermione : Wingardium LeviOsa !<br>Filius Flitwick : Oh regardez tous, miss Granger a réussi !<br>
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter à l’école des sorciers
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>451</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et les reliques de la mort -  partie, Dumbledore
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>450</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
