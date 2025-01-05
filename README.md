@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Depuis la nuit des temps les hommes s’entretuent, aujourd’hui on a juste l’occasion de terminer le travail !
+   Les parents sont les fantômes de l’avenir de leurs enfants.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, le Comédien
+   Interstellar, Cooper
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>454</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>455</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
