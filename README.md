@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les parents sont les fantômes de l’avenir de leurs enfants.
+   Dreams, feel real while you’re in them. It’s only when we wake up that we realize something was actually strange…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Interstellar, Cooper
+   Inception, Dom Cobb à Ariadne
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>455</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>456</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
