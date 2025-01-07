@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Dreams, feel real while you’re in them. It’s only when we wake up that we realize something was actually strange…
+   Il ne faut surtout pas te laisser aller. C’est dix fois plus long de se reconstruire que de s’écrouler.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Inception, Dom Cobb à Ariadne
+   Hunger Games : l’embrasement, Finnick Odair
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>456</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>457</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
