@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Il ne faut surtout pas te laisser aller. C’est dix fois plus long de se reconstruire que de s’écrouler.
+   You may not like him, Minister, but you can’t deny: Dumbledore’s got style.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : l’embrasement, Finnick Odair
+   Harry Potter and the Order of the Phoenix, Kingsley Shacklebolt
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>457</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>458</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
