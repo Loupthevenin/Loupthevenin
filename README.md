@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   You may not like him, Minister, but you can’t deny: Dumbledore’s got style.
+   Ci-gît Dobby elfe libre.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Order of the Phoenix, Kingsley Shacklebolt
+   Harry Potter et les reliques de la mort -  partie
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>458</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>459</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
