@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   [Au téléphone, alors que Marty joue Johnny B. Good sur scène] Hey Chuck, c’est Marvin… ton cousin Marvin Berry. Tu voulais un son nouveau, écoute ça !
+   - Mais s’il tue par un simple regard, pourquoi personne n’est mort ?<br>- Personne ne l’a regardé dans les yeux.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Marvin Berry à Chuck Berry
+   Harry Potter et la chambre des secrets, Ron et Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>462</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>463</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
