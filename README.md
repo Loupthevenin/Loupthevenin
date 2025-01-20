@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu es un parfait crétin Ronald Weasley ! Tu débarques ici après des semaines ? Et tu dis salut !
+   Je resterai dans ma chambre, en silence, et je ferai comme si je n’existais pas.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort - e partie, Hermione à Ron
+   Harry Potter et la chambre des secrets, Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>469</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>470</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
