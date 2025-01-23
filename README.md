@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Tu sais, par moment, j’oublie combien tu as grandi. Par moment, je vois encore le petit garçon dans le placard. Pardonne ma sensiblerie, je suis un vieil homme.<br>- À mes yeux, vous êtes resté le même.<br>- Tout comme ta mère, tu as beaucoup de cœur, une qualité que les gens sous-estiment trop souvent, je le crains.
+   - Est-ce que tu m’aimes ?<br>- Pas aujourd’hui.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le Prince de sang mêlé, Dumbledore et Harry
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>472</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le prestige
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>7</b> fois au sort parmis les <b>36</b> films sur <b>473</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
