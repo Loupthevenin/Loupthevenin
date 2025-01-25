@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Nothing is impossible, Mr. Angier. What you want is simply expensive.
+   Ce qui est trop extraordinaire n’a pas sa place dans le monde de la science ni dans l’industrie. Peut-être auriez-vous plus de chance dans ce domaine qui est le votre où les gens sont ravis qu’on les mystifie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The prestige, Nikola Tesla
+   Le prestige
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>474</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>475</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
