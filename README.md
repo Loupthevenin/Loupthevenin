@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ce qui est trop extraordinaire n’a pas sa place dans le monde de la science ni dans l’industrie. Peut-être auriez-vous plus de chance dans ce domaine qui est le votre où les gens sont ravis qu’on les mystifie.
+   - Pour ceux d’entre-vous qui n’ont jamais bu de polynectar, je vous préviens, on dirait de la pisse de gobelin.<br>- Vous avez eu souvent l’occasion d’en boire, Fol-œil.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le prestige
+   Harry Potter et les reliques de la mort - e partie, Alastor ’Fol-œil’ Maugrey et Fred Weasley
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>475</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>476</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
