@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Pour ceux d’entre-vous qui n’ont jamais bu de polynectar, je vous préviens, on dirait de la pisse de gobelin.<br>- Vous avez eu souvent l’occasion d’en boire, Fol-œil.
+   Seigneur ! Qu’avez-vous donc vendu pour obtenir des places dans la tribune officielle ? Votre maison n’aurait certainement pas suffi à payer le prix des billets ?
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort - e partie, Alastor ’Fol-œil’ Maugrey et Fred Weasley
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>476</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Harry Potter et la coupe de feu, Lucius Malfoy
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>477</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
