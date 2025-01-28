@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Seigneur ! Qu’avez-vous donc vendu pour obtenir des places dans la tribune officielle ? Votre maison n’aurait certainement pas suffi à payer le prix des billets ?
+   Je suis allé chez vous ce matin, après votre départ, j’ai essayé de jouer au mari, de gouter la vie d’un homme ordinaire, ça n’a pas marché. Alors, j’ai emporté un petit souvenir… sa jolie p’tite tête.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Seven, John Doe au lieutenant Mills
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>478</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et la coupe de feu, Lucius Malfoy
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>477</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
