@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je suis allé chez vous ce matin, après votre départ, j’ai essayé de jouer au mari, de gouter la vie d’un homme ordinaire, ça n’a pas marché. Alors, j’ai emporté un petit souvenir… sa jolie p’tite tête.
+   La grand-mère de Biff : Biff, Biff, où est-ce que tu vas encore ?<br>Biff Tannen : J’te l’ai d’jà dit, mémé, au bal !<br>Marty : Au bal !<br>La grand-mère de Biff : À quelle heure tu rentres ?<br>Biff Tannen : J’rentrerai quand j’rentrerai !<br>La grand-mère de Biff : Et n’oublie pas d’éteindre la lumière dans l’garage !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, John Doe au lieutenant Mills
+   Retour vers le futur
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>478</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>479</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
