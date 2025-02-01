@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Mankind was born on Earth. It was never meant to die here.
+   Qui c’est que t’as appelé bamboula espèce de cul-terreux ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Interstellar, Cooper
+   Retour vers le futur, un musicien à un ami de Biff
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>481</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>482</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
