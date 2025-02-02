@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Qui c’est que t’as appelé bamboula espèce de cul-terreux ?
+   Empêche cette sale bête de s’approcher de Croûtard ou j’en fais une descente de lit !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, un musicien à un ami de Biff
+   Harry Potter et le prisonnier d’Azkaban, Ron à Hermione
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>482</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>483</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
