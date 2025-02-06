@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Pourquoi cet air si sérieux ?
+   - Régale toi de sa chair.<br>- Je vous tuerai si vous le touchez.<br>- Ne te mets pas entre Nazgûl et sa proie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight: Le Chevalier noir, le Joker
+   Le Seigneur des anneaux : le retour du roi, le Roi-Sorcier d’Angmar et Eowyn
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>486</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>487</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
