@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   What were you trying to prove? That deep down, everyone’s as ugly like as you? You’re alone.
+   Mon père en entendra parler !
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    The Dark Knight, Batman au Joker
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>488</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et la coupe de feu, Drago Malefoy
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>489</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
