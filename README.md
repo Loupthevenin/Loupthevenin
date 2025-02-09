@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Mon père en entendra parler !
+   - Rien ne peut entamer ton enthousiasme.<br>- Si ces nuages le peuvent.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la coupe de feu, Drago Malefoy
+   Le seigneur des anneaux : les deux tours, Frodon et Sam
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>489</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>490</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
