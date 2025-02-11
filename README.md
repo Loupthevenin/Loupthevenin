@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Vous avez avez besoin de gens intelligents pour ce genre de… quête… mission… chose ?
+   Dr. Emmett Brown : Ça peut abattre une puce sur le dos d’un chien a 500 mètres Tannen ! Et c’est braqué droit sur ta tête ! <br>Buford Tannen : Tu m’dois de l’argent, ferrailleur.<br>Dr. Emmett Brown : Et en quel honneur ?<br>Buford Tannen : Mon ch’val a perdu un fer ! Et comme c’est toi qui l’a ferré j’en dit moi qu’c’est toi le responsable !<br>Dr. Emmett Brown : Mais étant donné que tu ne m’as pas payé pour le travail, on est quittes, voilà c’que j’dis moi !<br>Buford Tannen : Faux ! J’étais sur mon ch’val quand il a perdu un fer, et il m’a envoyé dans l’décor. Et ça m’as fait casser une bonne bouteille du tord-boyau du Kentucky ! Et en cet honneur comme tu dis, tu m’dois 5 Dollars pour le whisky, et 75 Dollars pour le ch’val.<br>Marty : Les 80 Dollars…<br>Dr. Emmett Brown : Écoute, si ton chv’al a perdu un fer, ramène le moi j’lui en mettrais un neuf ! <br>Buford Tannen : J’l’ai descendu l’canasson !<br>Dr. Emmett Brown : Ben ça c’est ton problème, Tannen !<br>Buford Tannen : Faux… C’est l’tien ! Alors à partir de maintenant, vaudrait mieux regarder derrière toi quand tu marches, parce que tu vas t’retrouver avec une balle entre les épaules.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Retour vers le futur
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>492</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Le seigneur des anneaux : la communauté de l’anneau
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>491</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
