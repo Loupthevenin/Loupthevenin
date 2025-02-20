@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu es un idiot Harry Potter, et tu vas mourir… Avada kedavra !!
+   Non ! Oh la la ! Oh la la ! Oh la la ! Oh la la ! Chiottes !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort -  partie, Lord Voldemort à Harry
+   Retour vers le futur  Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>500</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>501</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
