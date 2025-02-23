@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Tu as essayé de tuer tes maîtres !<br>- Non Dobby n’a pas de maître, c’est un elfe LIBRE ! Non, Dobby ne voulait pas tuer ! Blesser très gravement, mutiler… Mais pas tuer !
+   C’est plus facile de tomber dans la drogue que d’affronter la vie, plus facile de piquer ce que vous avez envie que d’essayer de le gagner, plus facile de battre un enfant que de l’élever. L’amour par contre, ça demande des efforts, du courage.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort - e partie, Bellatrix Lestrange et Dobby
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>503</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Seven, le lieutenant Somerset au lieutenant Mills
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>504</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
