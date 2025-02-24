@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   C’est plus facile de tomber dans la drogue que d’affronter la vie, plus facile de piquer ce que vous avez envie que d’essayer de le gagner, plus facile de battre un enfant que de l’élever. L’amour par contre, ça demande des efforts, du courage.
+   Heu, McF… Eastwood ! Clint Eastwood !
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Retour vers le futur  Marty
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>505</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Seven, le lieutenant Somerset au lieutenant Mills
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>504</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
