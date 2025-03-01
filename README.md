@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu as à peu près autant de charme qu’une limace crevée !
+   Ron : Oh c’est pas possible si ça continue on va être les seuls de la classe sans cavalière ! Enfin nous et Neville !<br>Harry : Oui lui il peut toujours danser avec lui même !<br>Hermione : Ça vous étonnera peut être mais Neville a trouvé quelqu’un !<br>Ron : Oh maintenant je suis vraiment déprimé !<br>Fred : Dépêche toi ou il ne restera plus que les moches !<br>Ron : Avec qui tu y va toi alors ?<br>Fred : Ah Angelina tu veux aller au bal avec moi ?<br>Angelina Johnson : Au bal oui d’accord !<br>Ron : Eh Hermione t’es une fille !<br>Hermione : Oh finement observé !<br>Ron : Tu veux pas venir avec l’un de nous ? Oh allez si un gars va seul au bal ça passe mais une fille c’est triste !<br>Hermione : Je n’irais pas seule car on me l’a déjà demandé ! Et j’ai dit oui !<br>Ron : Eh elle ment là ?<br>Harry : Si tu le dis !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games, Haymitch Abernathy
+   Harry Potter et la coupe de feu
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>509</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>510</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
