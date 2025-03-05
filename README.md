@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Taisez-vous Dursley, espèce de vieux pruneaux.
+   L’âge des hommes est achevé, le temps des orques est arrivé !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Hagrid
+   Le Seigneur des anneaux : le retour du roi, Gothmog
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>512</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>513</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
