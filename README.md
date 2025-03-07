@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous avez deux minutes pour dessiner un labyrinthe qui nécessite une minute à être résolu…
+   Maintain a conspiracy of lies at the highest levels of government ? Sounds right up in my alley.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Inception, Dom Cobb à Ariadne
+   The Imitation Game, Stewart Menzies
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>514</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>515</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
