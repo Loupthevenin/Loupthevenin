@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Maintain a conspiracy of lies at the highest levels of government ? Sounds right up in my alley.
+   La célébrité ne peut donner que ce qu’elle a Harry. N’oublie jamais ça !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Imitation Game, Stewart Menzies
+   Harry Potter et la chambre des secrets, Professeur Gilderoy Lockhart à Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>515</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>516</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
