@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   La célébrité ne peut donner que ce qu’elle a Harry. N’oublie jamais ça !
+   Je suis Harry, juste Harry !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets, Professeur Gilderoy Lockhart à Harry
+   Harry Potter à l’école des sorciers, Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>516</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>517</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
