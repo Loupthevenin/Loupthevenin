@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je suis Harry, juste Harry !
+   - Ton frère est en train de disparaître de la photo, ensuite ce sera au tour de ta sœur, et à moins que tu répares les dégâts, tu seras le suivant…- Ah, c’est pas le pied !- Mais non, ça commence par la tête j’te dis !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Harry
+   Retour vers le futur, Dr Emmett Brown et Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>517</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>518</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
