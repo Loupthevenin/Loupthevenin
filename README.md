@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Ton frère est en train de disparaître de la photo, ensuite ce sera au tour de ta sœur, et à moins que tu répares les dégâts, tu seras le suivant…- Ah, c’est pas le pied !- Mais non, ça commence par la tête j’te dis !
+   Je ne suis qu’un tas d’os dans une boite, Teddy.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Dr Emmett Brown et Marty
+   Shutter Island, Dolores Chanal à Teddy Daniels
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>518</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>519</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
