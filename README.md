@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je ne suis qu’un tas d’os dans une boite, Teddy.
+   - J’ai transplané, c’est ça ?<br>- C’est cela. De façon magistrale, je dois dire. La plupart des gens vomissent, la première fois.<br>- Je ne vois pas pourquoi.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island, Dolores Chanal à Teddy Daniels
+   Harry Potter et le Prince de sang mêlé, Harry et Dumbledore
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>519</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>520</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
