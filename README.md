@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - J’ai transplané, c’est ça ?<br>- C’est cela. De façon magistrale, je dois dire. La plupart des gens vomissent, la première fois.<br>- Je ne vois pas pourquoi.
+   Ah, ah, ah, petit. Tu vois ça ? […] C’est quand on est prisonnier de sa colère, c’est l’exemple typique. […] Vous voyez la peur s’exprimer ? Ce garçon a une peur mortelle de la vérité. Petit, ça me brise le cœur de te dire ça, mais je pense que tu es un jeune homme très perturbé et que tu es très désorienté.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le Prince de sang mêlé, Harry et Dumbledore
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>520</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Donnie Darko, Jim Cunningham à Donnie
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>521</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
