@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tout homme s’enrichit quand abonde l’esprit.
+   Je resterai dans ma chambre, en silence, et je ferai comme si je n’existais pas.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix, Luna Lovegood
+   Harry Potter et la chambre des secrets, Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>523</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>524</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
