@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je resterai dans ma chambre, en silence, et je ferai comme si je n’existais pas.
+   Jamais de compromis, pas même face à l’apocalypse. C’est ça la différence entre toi et moi Daniel.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets, Harry
+   Watchmen, Rorschach
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>524</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>525</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
