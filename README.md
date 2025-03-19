@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Jamais de compromis, pas même face à l’apocalypse. C’est ça la différence entre toi et moi Daniel.
+   Nous ne sommes pas ici parce que nous sommes libres, nous sommes ici parce que nous ne le sommes pas.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Rorschach
+   The Matrix Reloaded, Agent Smith
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>525</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>526</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
