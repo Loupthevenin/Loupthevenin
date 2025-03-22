@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Je ne veux plus jouer ce rôle, parce qu’on se soucie trop des autres et plus on s’en soucie, plus on a à perdre.
+   You just defeated Nazism with a crossword puzzle.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   The Imitation Game, Hugh Alexander à Alan Turing
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>529</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et L’ordre du Phoenix, Harry
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>528</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
