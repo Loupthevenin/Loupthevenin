@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Bébé pourquoi t’es toute mouillée ?
+   Ginny : Maman, ou est mon pull ?<br>Mrs. Weasley : Je en sais pas, Ginny.<br>[Ginny se retourne et vois Harry, elle rougit et fait des gros yeux puis elle repart dans sa chambre]<br>Ron : Je ne sais pas se qu’elle a avec toi ? Elle nous a parlé de toi toute les vacances.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island, Teddy Daniels
+   Harry Potter à l’école des sorciers
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>530</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>531</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
