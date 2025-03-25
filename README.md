@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   Ginny : Maman, ou est mon pull ?<br>Mrs. Weasley : Je en sais pas, Ginny.<br>[Ginny se retourne et vois Harry, elle rougit et fait des gros yeux puis elle repart dans sa chambre]<br>Ron : Je ne sais pas se qu’elle a avec toi ? Elle nous a parlé de toi toute les vacances.
+   I’m not locked in here with you! You’re locked in here with ME!
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>531</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Watchmen, Rorschach
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>532</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
