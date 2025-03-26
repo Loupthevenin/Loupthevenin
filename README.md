@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   I’m not locked in here with you! You’re locked in here with ME!
+   - Huit heures lundi matin avorton et si t’es pas là, j’irai te traquer et te tirer comme un sapin.<br>- Heu ! Lapin patron, tirer comme un lapin !<br>- Allez les hommes, on s’en va ! Laissons ces fillettes finir leur valse.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Watchmen, Rorschach
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>532</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Retour vers le futur  Buford Tannen et un homme de main de Bufford Tannen
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>533</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
