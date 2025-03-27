@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Huit heures lundi matin avorton et si t’es pas là, j’irai te traquer et te tirer comme un sapin.<br>- Heu ! Lapin patron, tirer comme un lapin !<br>- Allez les hommes, on s’en va ! Laissons ces fillettes finir leur valse.
+   Dans la plupart des grandes villes, les gens ont l’art de ne pas se mêler des affaires des autres. On recommande aux femmes, si jamais elles se font agresser, de ne jamais appeler au secours, il faut crier au feu. Si vous criez au secours, personne ne vient.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Buford Tannen et un homme de main de Bufford Tannen
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>533</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Seven
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>534</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
