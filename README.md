@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Dans la plupart des grandes villes, les gens ont l’art de ne pas se mêler des affaires des autres. On recommande aux femmes, si jamais elles se font agresser, de ne jamais appeler au secours, il faut crier au feu. Si vous criez au secours, personne ne vient.
+   Toute créature au monde meurt seule.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Seven
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>534</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Donnie Darko, Donnie au Dr Lilian Thurman
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>535</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
