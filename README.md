@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Il sait se défendre… le tout petit bébé… Potter !
+   - I made a new friend today.<br>- Real or imaginary?<br>- Imaginary…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix, Bellatrix Lestrange
+   Donnie Darko, Donnie et Dr Lilian Thurman
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>539</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>540</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
