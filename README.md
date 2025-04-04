@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - I made a new friend today.<br>- Real or imaginary?<br>- Imaginary…
+   La matrice est universelle, elle est omniprésente. Elle est avec nous ici en ce moment même. Tu la vois chaque fois que tu regardes par la fenêtre, ou lorsque tu allumes la télévision. Tu ressens sa présence quand tu pars au travail, quand tu vas à l’église ou quand tu payes tes factures. Elle est le monde qu’on superpose à ton regard pour t’empêcher de voir la vérité.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, Donnie et Dr Lilian Thurman
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>540</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Matrix, Morpheus à Neo
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>541</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
