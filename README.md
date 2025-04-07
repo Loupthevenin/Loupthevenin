@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les miracles, les événements ayant des chances astronomiquement faibles de se produire, tel l’oxygène se transformant en or ; j’étais impatient de voir un tel miracle mais tout ce temps j’oubliais celui de l’accouplement humain ; le fait que des millions de cellules étaient en compétition pour créer la vie, générations après générations jusqu’à ce que enfin un jour, ta mère aime un homme, Edward Blake, le comédien, un homme qu’elle avait toutes les raisons de détester et que de cette contradiction, contre tout ce magma d’improbabilités, c’est toi, nulle autre que toi, Laurie, qui est venue au monde. Distiller une forme aussi spécifique à partir de ce chaos, c’est comme transformer l’air en or… C’est un miracle.
+   Et voilà, mes amis, comment meurt une révolution !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Dr Manhattan à Laurie Juspeczyk
+   Hunger Games : la révolte - e partie, Haymitch Abernathy
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>543</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>544</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
