@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Riséd elrue ocnot edsi amega siv notsap ert nomen ej.
+   Tu attends un train. Un train qui va t’emmener loin d’ici. Tu sais où tu espères qu’il te conduira, mais tu ne peux pas en être sûr. Mais tu t’en moques car nous serons toujours ensemble.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets
+   Inception, Dom Cobb à Mall Cobb
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>548</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>549</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
