@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Qu’est-ce que vous alliez faire ? Fureter, faire le sournois ?<br>- Sournois ? Le… sournois ! Le gros hobbit joufflu est toujours si poli. Sméagol les amène par des chemins secrets que personne ne trouverait. Et il le traite de sournois ! Sournois ! […]<br>- Ça va, ça va. Vous m’aviez réveillé en sursaut. Qu’est-ce que vous faisiez ?<br>- Le sournois…
+   - Va t’en !- Que je m’en aille ? C’est moi qui nous ai sauvé ! Nous avons survécu grâce à MOI !- Nous n’avons plus besoin de toi ! Le maitre veille sur nous à présent.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Le Seigneur des anneaux : le retour du roi, Sam et Gollum
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>551</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le seigneur des anneaux : les deux tours, Sméagol et Gollum
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>552</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
