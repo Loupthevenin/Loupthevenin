@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   [À Katniss] Jolie robe trésor ! [À Effie] Pas la votre !
+   Chiottes ! On va voir si ces fumiers s’accrochent encore à 90.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games, Haymitch Abernathy
+   Retour vers le futur, Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>553</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>554</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
