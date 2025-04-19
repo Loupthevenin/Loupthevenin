@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Pourquoi tombons nous ? Pour mieux apprendre à nous relever.
+   The weak one is you, ’cause you’ll never know Love or Friendship. And I feel sorry for you.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight Rises, Alfred
+   Harry Potter and the Order of the Phoenix
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>555</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>556</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
