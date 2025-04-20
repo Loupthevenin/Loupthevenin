@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   The weak one is you, ’cause you’ll never know Love or Friendship. And I feel sorry for you.
+   Le plus remarquable, c’est que le comportement amoureux soit si semblable à celui de la folie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Order of the Phoenix
+   The Matrix Reloaded, le mérovingien
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>556</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>557</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
