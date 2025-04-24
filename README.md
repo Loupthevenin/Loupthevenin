@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Do you want to know how I get my scar ?
+   - Pas besoin d’être un génie pour voir que le monde a des problèmes.<br>- Non, mais sacrément con pour croire que des rigolos comme vous sont de taille à les résoudre !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight, le Joker
+   Watchmen, Ozymandias et le Comédien
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>559</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>560</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
