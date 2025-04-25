@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Pas besoin d’être un génie pour voir que le monde a des problèmes.<br>- Non, mais sacrément con pour croire que des rigolos comme vous sont de taille à les résoudre !
+   - Qu’est-ce que tu fais par terre ?<br>- Je suis tombé.<br>- Mais qu’est-ce qu’il t’a pris de tomber ?<br>- Je ne l’ai pas fait exprès.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Ozymandias et le Comédien
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>560</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Harry Potter et le prisonnier d’Azkaban, Stan Rocade et Harry
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>561</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
