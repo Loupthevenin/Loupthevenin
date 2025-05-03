@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Il ne faut surtout pas te laisser aller. C’est dix fois plus long de se reconstruire que de s’écrouler.
+   Les gens qui utilisent le métro ont une odeur bien reconnaissable.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : l’embrasement, Finnick Odair
+   Parasite, Dong ik Park
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>568</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>569</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
