@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les gens qui utilisent le métro ont une odeur bien reconnaissable.
+   Ernest Hemingway a écrit : « le monde est un bel endroit qui vaut la peine qu’on se batte pour lui ». Je suis d’accord avec la seconde partie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Parasite, Dong ik Park
+   Seven
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>569</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>570</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
