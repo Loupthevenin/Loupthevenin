@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Désolé professeure, mais on ne doit pas mentir.
+   Si le ciel devait s’ouvrir subitement, il n’y aurai pas de lois, il n’y aurai pas de règles, il n’y aurai que toi et tes souvenirs, les choix que tu a fait, et les personnes que tu a touchées. Si le monde devait finir, il n’y aurai que toi et lui, et personne d’autre.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Donnie Darko
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>573</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et L’ordre du Phoenix, Harry à Dolores Ombrage
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>572</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
