@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Professeur, est-ce que tout ceci est réel ou ça se passe dans ma tête ?<br>- Bien sûr que ça se passe dans ta tête, Harry. Mais pourquoi faudrait-il en conclure que ce n’est pas réel ?
+   - When I came to you with those calculations, we thought we might start a chain reaction that would destroy the entire world…<br>- I remember it well. What of it?<br>- I believe we did.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Oppenheimer, J Robert Oppenheimer et Albert Einstein
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>576</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et les reliques de la mort - e partie, Harry et Dumbledore
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>575</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
