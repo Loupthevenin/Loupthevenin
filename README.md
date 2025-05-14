@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   This is all a joke.
+   Tu sais où me trouver… Tu sais bien ce que tu dois faire.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, le Comédien
+   Inception
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>579</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>580</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
