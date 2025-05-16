@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Si le public accordait foi à tout ce qu’on fait sur scène, on aurait des hurlements au lieu d’applaudissements… Vous imaginez une femme coupée en deux ?
+   Qui que l’on soit au fond de nous, nous ne sommes jugés que d’après nos actes.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le prestige, Robert Angier
+   Batman begins, Rachel Dawes
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>10</b> fois au sort parmis les <b>36</b> films sur <b>581</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>582</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
