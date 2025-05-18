@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Parfois ce sont les gens que personne n’aurait imaginé qui accomplissent des choses que personne n’avait imaginé.
+   Il faut du courage pour affronter ses ennemis mais il en faut encore plus pour affronter ses amis…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Imitation Game, Alan Turing
+   Harry Potter à l’école des sorciers, Dumbledore à Neville
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>583</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>584</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
