@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Il faut du courage pour affronter ses ennemis mais il en faut encore plus pour affronter ses amis…
+   Hermione : Un génie comme Dumbledore ne peut pas être berné par un truc aussi lamentablement simplet qu’une potion de vieillissement.<br>Fred : Ah mais c’est pour ça que c’est génial.<br>George : Parce-que c’est si lamentablement simplet.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Dumbledore à Neville
+   Harry Potter et la coupe de feu
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>584</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>585</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
