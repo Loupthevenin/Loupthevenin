@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   On ne peut connaître quelqu’un qu’en le combattant.
+   - Tu crois que l’on devrait partager avec Sylvebarbe ?<br>- … Non… des feuilles mortes ! Il ne comprendrait pas ! Ça pourrait être de la famille…<br>- Ah ! J’ai saisi ! Ne soyons pas hâtif !
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    The Matrix Reloaded, Séraphin
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>586</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Le seigneur des anneaux : les deux tours, Pippin et Merry
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>587</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
