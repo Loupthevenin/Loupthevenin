@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Tu crois que l’on devrait partager avec Sylvebarbe ?<br>- … Non… des feuilles mortes ! Il ne comprendrait pas ! Ça pourrait être de la famille…<br>- Ah ! J’ai saisi ! Ne soyons pas hâtif !
+   La baguette de sureau, la plus puissante baguette jamais fabriquée. La Pierre de résurrection, la cape d’invisibilité, ensembles elles forment les reliques de la mort. Ensemble elles font de vous, le maître de la mort.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : les deux tours, Pippin et Merry
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>587</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Harry Potter et les reliques de la mort - e partie, Xenophilius Lovegood
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>588</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
