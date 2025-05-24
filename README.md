@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Did you had a nightmare? I have nightmares too. Someday, I’ll explain it to you, why they came, why they will never go away. But I’ll tell you how I survive it. I make a list in my head, of all the good things I’ve seen someone do, every little thing I can remember. It’s like a game ant I do it over and over. It gets a little tedious after all these years but… there are much worse games to play…
+   - After all this time?<br>- Always.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte -  partie, Katniss
+   Harry Potter and the Deathly Hallows: Part  Dumbledore et Rogue
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>8</b> fois au sort parmis les <b>36</b> films sur <b>589</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>590</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
