@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - After all this time?<br>- Always.
+   L’homme est né sur Terre, rien ne l’oblige à y mourir !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Deathly Hallows: Part  Dumbledore et Rogue
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>590</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Interstellar, Cooper
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>591</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
