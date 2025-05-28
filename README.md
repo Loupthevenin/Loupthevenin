@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Riséd elrue ocnot edsi amega siv notsap ert nomen ej.
+   Sachez le, vous n’avez rien à craindre si vous n’avez rien à cacher.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et les reliques de la mort - e partie
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>594</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et la chambre des secrets
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>593</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
