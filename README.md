@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Il est méthodique, précis et pour couronner le tout, patient.<br>- Vous voulez dire qu’il est barge, ouais ! C’est parce que ce fondu a une carte de bibliothèque qu’il a le cerveau de Yoda !
+   Tu attends un train. Un train qui va t’emmener loin d’ici. Tu sais où tu espères qu’il te conduira, mais tu ne peux pas en être sûr. Mais tu t’en moques car nous serons toujours ensemble.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, le lieutenant Somerset et le lieutenant Mills
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>596</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Inception, Dom Cobb à Mall Cobb
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>597</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
