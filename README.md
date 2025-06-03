@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous n’avez jamais compris pourquoi on le faisait. Les spectateurs connaissent la vérité. Le monde est simple, misérable, si figé d’un bout à l’autre. Mais si vous pouvez les duper, ne serait-ce qu’une seconde, vous les faites rêver, et alors vous découvrez quelque chose de très spécial. Vous ne voyez vraiment pas ? C’est cette lueur dans leurs yeux.
+   Did you had a nightmare? I have nightmares too. Someday, I’ll explain it to you, why they came, why they will never go away. But I’ll tell you how I survive it. I make a list in my head, of all the good things I’ve seen someone do, every little thing I can remember. It’s like a game ant I do it over and over. It gets a little tedious after all these years but… there are much worse games to play…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le prestige, Robert Angier
+   Hunger Games : la révolte -  partie, Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>600</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>9</b> fois au sort parmis les <b>36</b> films sur <b>601</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
