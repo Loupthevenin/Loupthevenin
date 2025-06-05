@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   La vérité, elle est toujours belle et terrible, c’est pourquoi il faut l’aborder avec beaucoup de précautions.
+   J’déteste le fumier !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Dumbledore à Harry
+   Retour vers le futur  Buford Tannen
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>602</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>603</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
