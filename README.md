@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous êtes viré !
+   I mean, it’s easier to lose yourself in drugs than it is to cope with life. It’s easier to steal what you want than it is to earn it. It’s easier to beat a child than it is to raise it. Hell, love costs: it takes effort and work.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur
+   Seven
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>608</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>609</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
