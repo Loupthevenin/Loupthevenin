@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Dans le genre flic t’es pas au top, alors pas le temps de jouer à question-réponse. T’écoute ou tu te barres.
+   - C’est vrai ! Il va devenir Maire !<br>- Maire, je… ! Bravo, voilà une idée de génie !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Matrix
+   Retour vers le futur, Marty et Goldie Wilson
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>610</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>611</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
