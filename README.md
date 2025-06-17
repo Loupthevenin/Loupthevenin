@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Comment avez-vous eu cette épée ?<br>- C’est compliqué. Pourquoi Bellatrix Lestrange pensait qu’elle devait être dans sa chambre forte à Gringotts ?<br>- C’est compliqué.
+   - Je suppose qu’on ne se tient plus tous par la main. [Rires]<br>- Tu trouves ça drôle ?<br>- Chaque coup de canon est une douce mélodie à mes oreilles. Je m’en moque, d’eux.<br>- Bon à savoir.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Hunger Games : l’embrasement, Finnick Odair et Katniss
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>615</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et les reliques de la mort -  partie, Gripsec et Harry
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>614</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
