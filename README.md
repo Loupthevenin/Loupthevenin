@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Je suppose qu’on ne se tient plus tous par la main. [Rires]<br>- Tu trouves ça drôle ?<br>- Chaque coup de canon est une douce mélodie à mes oreilles. Je m’en moque, d’eux.<br>- Bon à savoir.
-  </p>
- </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : l’embrasement, Finnick Odair et Katniss
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>615</b> jours consécutifs. 🎲🎲🎲
+   Vous aurez intérêt à changer de comportement, vous m’entendez Tannen ? Méfiez-vous ! Car un beau jour, vous irez tout droit où je meurs d’envie de vous voir : en retenue ! Tocard !
   </p>
  </div>
  <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Retour vers le futur  Strickland à Biff Tannen
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>616</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
  </br>
 </div>
 <hr/>
