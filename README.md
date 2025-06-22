@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Every great magic trick consists of three parts or acts. The first part is called “The Pledge”. The magician shows you something ordinary: a deck of cards, a bird or a man. He shows you this object. Perhaps he asks you to inspect it to see if it is indeed real, unaltered, normal. But of course… it probably isn’t. The second act is called “The Turn”. The magician takes the ordinary something and makes it do something extraordinary. Now you’re looking for the secret… but you won’t find it, because of course you’re not really looking. You don’t really want to know. You want to be fooled. But you wouldn’t clap yet. Because making something disappear isn’t enough; you have to bring it back. That’s why every magic trick has a third act, the hardest part, the part we call… “The Prestige”.
+   Merry : Des tomates, des saucisses, et du bacon bien grillé.<br>Sam : On vous en a gardé m’sieur Frodon.<br>Frodon : Éteignez ce feu sombres crétins, vite !<br>Pippin : Oh, j’te remercie, de la cendre sur mes tomates !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The prestige, Cutter
+   Le seigneur des anneaux : la communauté de l’anneau
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>619</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>620</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
