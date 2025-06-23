@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   Merry : Des tomates, des saucisses, et du bacon bien grillé.<br>Sam : On vous en a gardé m’sieur Frodon.<br>Frodon : Éteignez ce feu sombres crétins, vite !<br>Pippin : Oh, j’te remercie, de la cendre sur mes tomates !
+   Ne nous oubliez pas car nous aussi nous avons vécu, aimé et ri.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : la communauté de l’anneau
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>620</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Shutter Island
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>621</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
