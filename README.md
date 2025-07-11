@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Écoute, je sais pas trop comment te dire ça. J’te vois souvent ici et j’trouve que tu es super mignonne et tu… Tu voudrais pas sortir avec moi ? Un soir ?<br>- Fichez-moi le camp !<br>- Oh mais…<br>- Sortez d’ici !<br>- J’suis désolé, vraiment désolé…<br>- Oh mais j’plaisante, t’inquiète pas !
+   La baguette de sureau, la plus puissante baguette jamais fabriquée. La Pierre de résurrection, la cape d’invisibilité, ensembles elles forment les reliques de la mort. Ensemble elles font de vous, le maître de la mort.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Whiplash, Andrew Neiman et Nicole
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>638</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Harry Potter et les reliques de la mort - e partie, Xenophilius Lovegood
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>639</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
