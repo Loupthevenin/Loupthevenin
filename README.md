@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   La baguette de sureau, la plus puissante baguette jamais fabriquée. La Pierre de résurrection, la cape d’invisibilité, ensembles elles forment les reliques de la mort. Ensemble elles font de vous, le maître de la mort.
+   - Qu’as-tu dit exactement à Mademoiselle Farmer ? <br>- Je vais vous dire ce qu’il a dit ! Il a dit que je n’avais qu’à m’introduire le carton d’exercice de la ligne de vie dans l’anus.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et les reliques de la mort - e partie, Xenophilius Lovegood
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>639</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Donnie Darko, les parents de Donnie et Beth Farmer
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>640</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
