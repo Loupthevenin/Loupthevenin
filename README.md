@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Pourquoi Monsieur Anderson, pourquoi persister !?<br>- Parce que j’en ai fait le choix…
-  </p>
- </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Revolution, Agent Smith et Neo
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>11</b> fois au sort parmis les <b>36</b> films sur <b>642</b> jours consécutifs. 🎲🎲🎲
+   Drive sports cars, date movie stars, buy things that are not for sale… who knows, Master Wayne? You start pretending to have fun, you might even have a little by accident.
   </p>
  </div>
  <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Batman Begins, Alfred
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>643</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
  </br>
 </div>
 <hr/>
