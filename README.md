@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?
+   Attendez ma venue aux premières lueurs du 5e jour. À l’aube, regardez à l’est.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Deathly Hallows: Part  Dumbledore à Harry
+   Le seigneur des anneaux : les deux tours, Gandalf
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>644</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>645</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
