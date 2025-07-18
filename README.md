@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Attendez ma venue aux premières lueurs du 5e jour. À l’aube, regardez à l’est.
+   - Tu as entendu Hagrid : « suivez les araignées ! »<br>- Mais elles vont vers la forêt interdite ! [Harry soupire] Pourquoi des araignées ? Pourquoi ça ne pouvait pas être : « suivez les papillons » ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : les deux tours, Gandalf
+   Harry Potter à l’école des sorciers, Harry et Ron
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>645</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>646</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
