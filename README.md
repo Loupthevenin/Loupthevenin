@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Pourquoi ce déguisement de lapin ridicule ?<br>- Pourquoi ce déguisement d’homme ridicule ?
-  </p>
- </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, Donnie et Frank
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>648</b> jours consécutifs. 🎲🎲🎲
+   - Doc, Doc, Doc, s’il vous plait, réveillez-vous ! Combien de verres il a bu ?<br>- Juste un !<br>- Juste un ? Pas de blagues, Doc !<br>- On peut dire qu’il tient pas l’alcool !
   </p>
  </div>
  <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Retour vers le futur  Marty et le barman
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>649</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
  </br>
 </div>
 <hr/>
