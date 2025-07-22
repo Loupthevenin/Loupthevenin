@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Doc, Doc, Doc, s’il vous plait, réveillez-vous ! Combien de verres il a bu ?<br>- Juste un !<br>- Juste un ? Pas de blagues, Doc !<br>- On peut dire qu’il tient pas l’alcool !
+   La seule façon raisonnable de vivre en ce bas monde, c’est en dehors des règles.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   The Dark Knight: Le Chevalier noir, le Joker à Batman
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>650</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Retour vers le futur  Marty et le barman
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>649</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
