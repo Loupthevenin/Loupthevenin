@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ce que Cornelius ignore ne peut pas lui faire de tort.
+   Papa a raison ! On a toujours tort… de s’casser la tête…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix, Dolores Ombrage
+   Retour vers le futur, Dave McFly
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>651</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>652</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
