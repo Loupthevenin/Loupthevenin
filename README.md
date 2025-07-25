@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Papa a raison ! On a toujours tort… de s’casser la tête…
+   - Je ne suis pas un bourreau.<br>- La pitié est une faiblesse que tes ennemis ne partageront pas.<br>- C’est ce qui fait toute son importance, elle nous distingue d’eux.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Dave McFly
+   Batman begins, Batman et Henry Ducard
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>652</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>653</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
