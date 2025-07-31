@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Dr. Emmett Brown : Arrête ton cirque ! Va au diable, Tannen !<br>Buford Tannen : Non, toi tu vas y’aller ! Tout droit, en enfer ! Toi ?<br>Marty : Eh, tu nous lâches espèce de tâche ?
+   Maintain a conspiracy of lies at the highest levels of government ? Sounds right up in my alley.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Retour vers le futur
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>657</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   The Imitation Game, Stewart Menzies
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>658</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
