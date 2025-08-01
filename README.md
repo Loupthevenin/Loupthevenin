@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Maintain a conspiracy of lies at the highest levels of government ? Sounds right up in my alley.
+   Certains hommes sont sans but logique. On ne peut les acheter, les intimider, les raisonner ou négocier avec eux. Certains hommes veulent juste voir le monde brûler.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Imitation Game, Stewart Menzies
+   The Dark Knight: Le Chevalier noir, Alfred à Batman
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>658</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>659</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
