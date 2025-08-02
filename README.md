@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Certains hommes sont sans but logique. On ne peut les acheter, les intimider, les raisonner ou négocier avec eux. Certains hommes veulent juste voir le monde brûler.
+   Ernest Hemingway a écrit : « le monde est un bel endroit qui vaut la peine qu’on se batte pour lui ». Je suis d’accord avec la seconde partie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight: Le Chevalier noir, Alfred à Batman
+   Seven
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>659</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>660</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
