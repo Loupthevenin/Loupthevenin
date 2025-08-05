@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   C’est ma copine, bande d’abrutis !
+   C’est ça cours, cours plus vite salaud ! Et dis à tes petits blancs de merde de la compagnie que je ne vends pas. On ne va pas se laisser intimider !
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et les reliques de la mort - e partie, Ron
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>662</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Retour vers le futur  le père de famille noir du alternatif
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>663</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
