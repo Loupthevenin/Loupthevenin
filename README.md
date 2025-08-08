@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Et voilà, mes amis, comment meurt une révolution !
+   - Qu’as-tu dit exactement à Mademoiselle Farmer ? <br>- Je vais vous dire ce qu’il a dit ! Il a dit que je n’avais qu’à m’introduire le carton d’exercice de la ligne de vie dans l’anus.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Hunger Games : la révolte - e partie, Haymitch Abernathy
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>665</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Donnie Darko, les parents de Donnie et Beth Farmer
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>666</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
