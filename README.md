@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Qu’as-tu dit exactement à Mademoiselle Farmer ? <br>- Je vais vous dire ce qu’il a dit ! Il a dit que je n’avais qu’à m’introduire le carton d’exercice de la ligne de vie dans l’anus.
+   - Faites sortir les femmes et les enfants et barricadez l’entrée !- Autant de morts. Mais que peuvent les hommes face à tant de haine ?- Venez avec moi. Venez à leur rencontre.- Pour la mort et la gloire.- Pour le Rohan, pour votre peuple!
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, les parents de Donnie et Beth Farmer
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>666</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le seigneur des anneaux : les deux tours
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>667</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
