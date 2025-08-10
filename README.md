@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Faites sortir les femmes et les enfants et barricadez l’entrée !- Autant de morts. Mais que peuvent les hommes face à tant de haine ?- Venez avec moi. Venez à leur rencontre.- Pour la mort et la gloire.- Pour le Rohan, pour votre peuple!
+   Oh, être jeune et connaître les maux qu’amour inflige !
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et le Prince de sang mêlé
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>668</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Le seigneur des anneaux : les deux tours
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>667</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
