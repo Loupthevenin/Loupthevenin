@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ronald aimerait que je te dise que Seamus lui a dit que Dean a apprit par Parvati que Hagrid te cherchait.
+   - Do you hear that, Mr. Anderson? It’s the sound of inevitability. It is the sound of your death. Goodbye, Mr. Anderson.<br>- My name is Neo.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la coupe de feu, Hermione à Harry
+   The Matrix, Agent Smith et Neo
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>670</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>671</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
