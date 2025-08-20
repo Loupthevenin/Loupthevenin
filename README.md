@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Cette vengeance contre l’homme qui l’a tué vient tout simplement récompenser ma patience. Vois-tu ? C’est le lent poignard, le poignard qui prend son temps. Le poignard qui patiente des années sans oublier. Qui tout doucement se fraye un chemin entre les os, c’est ça le poignard qui déchire le plus.<br>- Je crois que ton poignard a été trop lent.
+   - Faites sortir les femmes et les enfants et barricadez l’entrée !- Autant de morts. Mais que peuvent les hommes face à tant de haine ?- Venez avec moi. Venez à leur rencontre.- Pour la mort et la gloire.- Pour le Rohan, pour votre peuple!
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight Rises, Talia al Ghul et Batman
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>13</b> fois au sort parmis les <b>36</b> films sur <b>676</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le seigneur des anneaux : les deux tours
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>677</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
