@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Eurêka !
+   Je ne suis pas un homme !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Dr Emmett Brown
+   Le Seigneur des anneaux : le retour du roi, Eowyn
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>678</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>679</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
