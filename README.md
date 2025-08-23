@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je ne suis pas un homme !
+   Tu veux un sucre.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le Seigneur des anneaux : le retour du roi, Eowyn
+   Hunger Games : l’embrasement, Finnick Odair
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>679</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>680</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
