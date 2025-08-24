@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu veux un sucre.
+   - Qu’est-ce qui te prend, McFly, mauviette ? Mauviette !<br>- De quoi m’as-tu traité Griff ?<br>- J’t’ai traité de mauviette ! Mauviette !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : l’embrasement, Finnick Odair
+   Retour vers le futur  Griff Tannen et Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>680</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>681</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
