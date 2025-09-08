@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu sais où me trouver… Tu sais bien ce que tu dois faire.
+   La seule fête où tu me verras sourire Tannen, c’est celle où tu te balanceras au bout d’une corde.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Inception
+   Retour vers le futur  Marshall Strickland à Buford Tannen
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>695</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>696</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
