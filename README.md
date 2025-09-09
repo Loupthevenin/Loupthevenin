@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   La seule fête où tu me verras sourire Tannen, c’est celle où tu te balanceras au bout d’une corde.
+   Wake up Donnie!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Marshall Strickland à Buford Tannen
+   Donnie Darko, Frank
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>696</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>697</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
