@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Heu, McF… Eastwood ! Clint Eastwood !
+   Juste une photo… pour pas t’oublier.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Retour vers le futur  Marty
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>704</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Mémento, Leonard Shelby à Natalie
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>705</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
