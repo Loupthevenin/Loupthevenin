@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Et voilà, mes amis, comment meurt une révolution !
+   Le choix est une illusion créée entre ceux qui ont le pouvoir et ceux qui ne l’ont pas.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte - e partie, Haymitch Abernathy
+   The Matrix Reloaded, le mérovingien
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>706</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>707</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
