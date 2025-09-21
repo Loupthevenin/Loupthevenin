@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Le choix est une illusion créée entre ceux qui ont le pouvoir et ceux qui ne l’ont pas.
+   Ma colère domine toujours ma culpabilité.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Reloaded, le mérovingien
+   Batman begins, Batman
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>707</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>708</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
