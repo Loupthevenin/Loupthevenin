@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Parfois ce sont les gens que personne n’aurait imaginé qui accomplissent des choses que personne n’avait imaginé.
+   Ernest Hemingway a écrit : « le monde est un bel endroit qui vaut la peine qu’on se batte pour lui ». Je suis d’accord avec la seconde partie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Imitation Game, Alan Turing
+   Seven
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>710</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>711</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
