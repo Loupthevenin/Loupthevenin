@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Écoute, je sais pas trop comment te dire ça. J’te vois souvent ici et j’trouve que tu es super mignonne et tu… Tu voudrais pas sortir avec moi ? Un soir ?<br>- Fichez-moi le camp !<br>- Oh mais…<br>- Sortez d’ici !<br>- J’suis désolé, vraiment désolé…<br>- Oh mais j’plaisante, t’inquiète pas !
+   Les ténèbres m’entourèrent et je m’égarai hors de la pensée et du temps. Les étoiles tournaient au-dessus de moi et chaque jour était aussi long qu’une existence sur la Terre. Mais ce n’était pas la fin, je sentis la vie revenir en moi. Je fus renvoyé, jusqu’à ce que ma tâche soit accomplie.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Whiplash, Andrew Neiman et Nicole
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>712</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le seigneur des anneaux : les deux tours, Gandalf
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>713</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
