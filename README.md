@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Les ténèbres m’entourèrent et je m’égarai hors de la pensée et du temps. Les étoiles tournaient au-dessus de moi et chaque jour était aussi long qu’une existence sur la Terre. Mais ce n’était pas la fin, je sentis la vie revenir en moi. Je fus renvoyé, jusqu’à ce que ma tâche soit accomplie.
+   Si nous brûlons, vous brûlerez avec nous !
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Le seigneur des anneaux : les deux tours, Gandalf
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>713</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Hunger Games : la révolte - e partie, Katniss au président Snow
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>33</b> fois au sort parmis les <b>36</b> films sur <b>714</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
