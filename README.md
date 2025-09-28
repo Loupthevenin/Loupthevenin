@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Si nous brûlons, vous brûlerez avec nous !
+   - C’est en face de l’Avenue John Kennedy !<br>- Qui c’est celui-là, John Kennedy ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte - e partie, Katniss au président Snow
+   Retour vers le futur, Marty et Sam Baines
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>33</b> fois au sort parmis les <b>36</b> films sur <b>714</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>715</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
