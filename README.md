@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ce qui est trop extraordinaire n’a pas sa place dans le monde de la science ni dans l’industrie. Peut-être auriez-vous plus de chance dans ce domaine qui est le votre où les gens sont ravis qu’on les mystifie.
+   - Je ne croyais pas que ça finirait de cette manière.<br>- Finir ? Non, le voyage ne s’achève pas ici. La mort n’est qu’un autre chemin qu’il nous faut tous prendre. Le rideau de pluie grisâtre de ce monde s’ouvrira et tous sera brillant comme l’argent. Alors vous les verrez…<br>- Quoi Gandalf ? Voir quoi ?<br>- Les rivages blancs et au delà, la lointaine contrée verdoyante sous un fugace levé de soleil.<br>- Alors… ça ne va pas si mal ?<br>- Non, en effet.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le prestige
+   Le Seigneur des anneaux : le retour du roi, Pippin et Gandalf
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>721</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>722</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
