@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Pourquoi Monsieur Anderson, pourquoi persister !?<br>- Parce que j’en ai fait le choix…
+   - Écoute, je sais pas trop comment te dire ça. J’te vois souvent ici et j’trouve que tu es super mignonne et tu… Tu voudrais pas sortir avec moi ? Un soir ?<br>- Fichez-moi le camp !<br>- Oh mais…<br>- Sortez d’ici !<br>- J’suis désolé, vraiment désolé…<br>- Oh mais j’plaisante, t’inquiète pas !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Revolution, Agent Smith et Neo
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>727</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Whiplash, Andrew Neiman et Nicole
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>728</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
