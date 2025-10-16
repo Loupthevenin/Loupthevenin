@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les gens qui utilisent le métro ont une odeur bien reconnaissable.
+   Caesar Flickerman : What did you feel when you found him?<br>Katniss : I feel like the happiest person in the world.<br>Caesar Flickerman : And what about you, Peeta?<br>Peeta : She saved my life.<br>Katniss : We saved each other.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Parasite, Dong ik Park
+   Hunger Games
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>12</b> fois au sort parmis les <b>36</b> films sur <b>730</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>731</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
