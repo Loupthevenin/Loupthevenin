@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   Caesar Flickerman : What did you feel when you found him?<br>Katniss : I feel like the happiest person in the world.<br>Caesar Flickerman : And what about you, Peeta?<br>Peeta : She saved my life.<br>Katniss : We saved each other.
+   - Écoute, je sais pas trop comment te dire ça. J’te vois souvent ici et j’trouve que tu es super mignonne et tu… Tu voudrais pas sortir avec moi ? Un soir ?<br>- Fichez-moi le camp !<br>- Oh mais…<br>- Sortez d’ici !<br>- J’suis désolé, vraiment désolé…<br>- Oh mais j’plaisante, t’inquiète pas !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>731</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Whiplash, Andrew Neiman et Nicole
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>732</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
