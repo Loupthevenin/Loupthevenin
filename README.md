@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Now I am become Death, the destroyer of worlds.
+   If you want to kill Harry, you’ll have to kill us too!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, J Robert Oppenheimer
+   Harry Potter et le prisonnier d’Azkaban, Hermione à Sirius Black
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>735</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>736</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
