@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   If you want to kill Harry, you’ll have to kill us too!
+   Maintenir une conspiration du mensonge aux plus hauts niveaux du gouvernement ? Ça a l’air dans mes cordes.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban, Hermione à Sirius Black
+   The Imitation Game, Stewart Menzies
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>736</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>737</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
