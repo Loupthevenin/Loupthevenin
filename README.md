@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Slaughter is the best medicine.
+   Tuer des sangs-de-bourbes ne m’intéresse plus, désormais. Depuis plusieurs mois, ma nouvelle cible, c’est toi.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight, le Joker
+   Harry Potter et la chambre des secrets, Tom Jedusor / Voldemort à Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>739</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>740</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
