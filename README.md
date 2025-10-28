@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Si nous brûlons, vous brûlerez avec nous !
+   Eh, dis donc ! Tu peux pas regarder où tu vas ? Encore un ivrogne à pied !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte - e partie, Katniss au président Snow
+   Retour vers le futur  le clochard
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>34</b> fois au sort parmis les <b>36</b> films sur <b>742</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>743</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
