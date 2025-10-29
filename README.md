@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Eh, dis donc ! Tu peux pas regarder où tu vas ? Encore un ivrogne à pied !
+   - On ne tire pas, on ne tue pas !<br>- Vous êtes pas un marrant !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  le clochard
+   The Dark Knight Rises, Batman et Catwoman
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>743</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>744</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
