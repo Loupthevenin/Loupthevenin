@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ce n’est qu’une ombre et une pensée que vous aimez.
+   La célébrité ne peut donner que ce qu’elle a Harry. N’oublie jamais ça !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le Seigneur des anneaux : le retour du roi, Aragorn
+   Harry Potter et la chambre des secrets, Professeur Gilderoy Lockhart à Harry
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>746</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>747</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
