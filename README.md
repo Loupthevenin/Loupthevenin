@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   La célébrité ne peut donner que ce qu’elle a Harry. N’oublie jamais ça !
+   Y a personne qui pouvait rêver d’une putain de plage ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets, Professeur Gilderoy Lockhart à Harry
+   Inception
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>747</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>748</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
