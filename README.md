@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Tout ça n’est qu’une farce.
+   - Harry, il faut que tu me jures que quoi-qu’il arrive, tu n’essaieras pas de retrouver Black !<br>- M. Weasley, pourquoi est-ce que j’essaierais de retrouver quelqu’un qui veut me tuer ?
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et le prisonnier d’Azkaban, Mr Weasley et Harry
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>751</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Watchmen, le Comédien
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>750</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
