@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je jure solennellement que mes intentions sont mauvaises.
+   Do not pity the dead, Harry. Pity the living, and, above all those who live without love.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban, Harry à Ron
+   Harry Potter and the Deathly Hallows: Part  Dumbledore à Harry
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>753</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>754</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
