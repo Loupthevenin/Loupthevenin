@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Do not pity the dead, Harry. Pity the living, and, above all those who live without love.
+   - Est ce que tu meurs si je t’enlève ton masque ?<br>- Ce serait très douloureux…<br>- T’es un mec costaud !<br>- … Pour toi !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Deathly Hallows: Part  Dumbledore à Harry
+   The Dark Knight Rises, un agent de la CIA et Bane
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>754</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>755</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
