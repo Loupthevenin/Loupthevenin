@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Est ce que tu meurs si je t’enlève ton masque ?<br>- Ce serait très douloureux…<br>- T’es un mec costaud !<br>- … Pour toi !
+   - Alors que cherchait elle ?<br>- Mes empreintes, j’ai trouvé du toner mélangé à du graphite sur le coffre, le relevé est bon et c’est intraçable.<br>- Passionnant, invitez la pour le thé, vous échangerez vos recettes !<br>- Voilà que vous voulez me casez avec une voleuse de bijoux ?<br>- À force, je vous caserai avec une chimpanzé, si cela vous réconciliait avec le monde !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight Rises, un agent de la CIA et Bane
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>755</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    The Dark Knight Rises, Alfred et Batman
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>756</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
