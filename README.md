@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ceux qui nous aiment ne nous quittent jamais vraiment. On peut toujours les retrouver… là. [Il montre le cœur d’Harry]
+   Messieurs, je ne vous comprendrais jamais. Regardez tous ces livres autour de vous, une mine de connaissance à la porté de vos mains et vous, qu’est-ce que vous faites ? Vous jouez au poker toute la nuit.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban, Sirius Black à Harry
+   Seven, le lieutenant Somerset
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>757</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>758</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
