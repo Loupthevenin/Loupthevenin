@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Messieurs, je ne vous comprendrais jamais. Regardez tous ces livres autour de vous, une mine de connaissance à la porté de vos mains et vous, qu’est-ce que vous faites ? Vous jouez au poker toute la nuit.
+   - Well, Ronald Reagan says he’s going to be running for President in ’88. We could run a piece on that.<br>- Seymour, we don’t dignify absurdities with coverage. This is still America damn it! Who wants a cowboy in the White House?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, le lieutenant Somerset
+   Watchmen, Seymour et le rédacteur en chef
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>758</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>759</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
