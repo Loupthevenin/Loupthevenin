@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Touche pas à ma Genny ! Pétasse !
+   - Non, je n’ai pas fini, c’est moi qui commande !<br>- Vous vous sentez comme le commandant ?<br>- Je t’ai payé une petite fortune.<br>- Et tu crois que ça t’accorde le pouvoir de me commander ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Deathly Hallows: Part  Mrs Weasley à Bellatrix Lestrange
+   The Dark Knight Rises, Daggett et Bane
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>761</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>762</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
