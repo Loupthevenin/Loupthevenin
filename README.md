@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ernest Hemingway once wrote, ’The world is a fine place and worth fighting for’. I agree with the second part.
+   Les amants maudits qui luttent désespérément pour s’en sortir ensemble. Deux cœurs qui battent à l’unisson.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven
+   Hunger Games
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>765</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>766</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
