@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Les amants maudits qui luttent désespérément pour s’en sortir ensemble. Deux cœurs qui battent à l’unisson.
+   Je n’ai jamais rien voulu de tout ça. Je n’ai jamais voulu participer aux jeux. Je voulais juste sauver ma sœur, et garder Peeta en vie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games
+   Hunger Games : la révolte - e partie, Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>766</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>767</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
