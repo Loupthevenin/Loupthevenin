@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Il faut que je croie que le monde est toujours là lorsque je ferme les yeux.
+   Now I am become Death, the destroyer of worlds.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Mémento, Leonard Shelby
+   Oppenheimer, J Robert Oppenheimer
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>768</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>769</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
