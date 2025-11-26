@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Now I am become Death, the destroyer of worlds.
+   « Molosse », ce nom j’l’encaisse pas, ça me rend enragé t’entends, personne m’appelle « Molosse » ! Encore moins une espèce de mouche à merde déguisée en arbre de Noël !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, J Robert Oppenheimer
+   Retour vers le futur  Buford Tannen à Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>769</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>770</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
