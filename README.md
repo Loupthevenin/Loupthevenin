@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   « Molosse », ce nom j’l’encaisse pas, ça me rend enragé t’entends, personne m’appelle « Molosse » ! Encore moins une espèce de mouche à merde déguisée en arbre de Noël !
+   - Alors si j’ai bien compris, quand le moment sera venu le petit devra mourir ?<br>- Oui c’est ça, le petit devra mourir.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Buford Tannen à Marty
+   Harry Potter et les reliques de la mort -  partie, Rogue et Dumbledore
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>770</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>771</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
