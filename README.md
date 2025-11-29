@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Le choix est une illusion créée entre ceux qui ont le pouvoir et ceux qui ne l’ont pas.
+   Évitons les débordements un peu trop explosifs !
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   The Dark Knight: Le Chevalier noir, le Joker
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>773</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    The Matrix Reloaded, le mérovingien
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>772</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
