@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Évitons les débordements un peu trop explosifs !
+   Cormac McLaggen : Qu’est-ce que je mange là au fait ?<br>Harry : Les boules du dragon.<br>Cormac McLaggen : Beurk ! [Il vomit]<br>Rogue : Vous venez de gagner une année de retenue monsieur McLaggen.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight: Le Chevalier noir, le Joker
+   Harry Potter et le Prince de sang mêlé
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>773</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>774</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
