@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   La folie suit les lois de la gravité. Il n’y a qu’à donner une légère pichenette !!
+   Everything that has a beginning… Has an end, Neo.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight: Le Chevalier noir, le Joker à Batman
+   The Matrix Revolution
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>777</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>778</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
