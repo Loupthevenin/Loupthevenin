@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je voulais voir les rides se graver une à une dans ta chair en sachant précisément à quel moment elles étaient apparues.
+   Le commandant Denniston : Voici Stewart Menzies, du MI6.<br>Charles Richards : Il n’y a que cinq divisions des renseignements militaires. Il n’y a pas de MI6.<br>Stewart Menzies : Exactement, c’est l’esprit.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island
+   The Imitation Game
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>781</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>782</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
