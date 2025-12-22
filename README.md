@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Not my daughter you bitch!
+   Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Deathly Hallows: Part  Mrs Weasley
+   Harry Potter and the Deathly Hallows: Part  Dumbledore à Harry
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>792</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>793</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
