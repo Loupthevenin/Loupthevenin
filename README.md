@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   What’s in the box!!
+   - Vous formerez la communauté de l’anneau !<br>- Chouette, où est-ce qu’on va ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, le lieutenant Mills au lieutenant Somerset
+   Le seigneur des anneaux : la communauté de l’anneau, Elrond et Pippin
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>34</b> fois au sort parmis les <b>36</b> films sur <b>794</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>795</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
