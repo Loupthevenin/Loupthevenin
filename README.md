@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Œil de lapin, et ballon gum, change ce verre d’eau en verre de rhum.
+   Je leur apprendrai comment je survis. Je leur dirai que certains matins, je n’ose plus me réjouir de rien de peur qu’on me l’enlève. Et que ces jours là, je dresse dans ma tête la liste de tous les actes de bonté auxquels j’ai pu assister. C’est comme un jeu. Répétitif. Un peu lassant, même, après plus de vingt ans. Mais j’ai connu des jeux bien pires.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Seamus Finnigan
+   Hunger Games : la révolte -  partie, Katniss
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>797</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>14</b> fois au sort parmis les <b>36</b> films sur <b>798</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
