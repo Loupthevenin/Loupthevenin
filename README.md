@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Quand t’es en train de lire une revue de chasse en te masturbant dans ton caca, il t’arrive de t’arrêter et de dire « Wahou, c’est quand même incroyable à quel point je peux être givré ! » ?
+   À cause de toi, j’ai eu 300 tickets de réparation sur ma voiture espèce de sale fils de pute. Tu vas me le payer.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, le lieutenant Mills à John Doe
+   Retour vers le futur, Biff Tannen
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>800</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>801</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
