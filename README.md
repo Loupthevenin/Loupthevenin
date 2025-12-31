@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   À cause de toi, j’ai eu 300 tickets de réparation sur ma voiture espèce de sale fils de pute. Tu vas me le payer.
+   - Il est méthodique, précis et pour couronner le tout, patient.<br>- Vous voulez dire qu’il est barge, ouais ! C’est parce que ce fondu a une carte de bibliothèque qu’il a le cerveau de Yoda !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Biff Tannen
+   Seven, le lieutenant Somerset et le lieutenant Mills
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>801</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>36</b> fois au sort parmis les <b>36</b> films sur <b>802</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
