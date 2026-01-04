@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je leur apprendrai comment je survis. Je leur dirai que certains matins, je n’ose plus me réjouir de rien de peur qu’on me l’enlève. Et que ces jours là, je dresse dans ma tête la liste de tous les actes de bonté auxquels j’ai pu assister. C’est comme un jeu. Répétitif. Un peu lassant, même, après plus de vingt ans. Mais j’ai connu des jeux bien pires.
+   I love French wine, like I the French language. I have sampled every language, French is my favorite. Fantastic language. Especially to curse with. Nom de dieu de putain de bordel de merde de saloperie de connard d’enculé de ta mère. It’s like wiping your arse with silk. I love it.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte -  partie, Katniss
+   The Matrix Reloaded, le mérovingien
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>805</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>806</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
