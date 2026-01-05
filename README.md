@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   I love French wine, like I the French language. I have sampled every language, French is my favorite. Fantastic language. Especially to curse with. Nom de dieu de putain de bordel de merde de saloperie de connard d’enculé de ta mère. It’s like wiping your arse with silk. I love it.
+   - J’ai transplané, c’est ça ?<br>- C’est cela. De façon magistrale, je dois dire. La plupart des gens vomissent, la première fois.<br>- Je ne vois pas pourquoi.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Reloaded, le mérovingien
+   Harry Potter et le Prince de sang mêlé, Harry et Dumbledore
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>806</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>807</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
