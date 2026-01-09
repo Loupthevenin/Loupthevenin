@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Oh, être jeune et connaître les maux qu’amour inflige !
+   Touche moi et ta main ne touchera plus jamais rien.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le Prince de sang mêlé
+   The Matrix Reloaded, Trinity
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>810</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>811</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
