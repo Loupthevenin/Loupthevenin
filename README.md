@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Touche moi et ta main ne touchera plus jamais rien.
+   Vous avez deux minutes pour dessiner un labyrinthe qui nécessite une minute à être résolu…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Reloaded, Trinity
+   Inception, Dom Cobb à Ariadne
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>811</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>812</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
