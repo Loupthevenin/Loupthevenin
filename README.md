@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Faut voir grand dans la vie, quitte à voyager à travers le temps au volant d’une voiture, autant en choisir une qui ait d’la gueule !
+   You don’t get to commit sin and then ask all of us to feel sorry for you when they’re consequences.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Dr Emmett Brown
+   Oppenheimer, Kitty Oppenheimer
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>813</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>814</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
