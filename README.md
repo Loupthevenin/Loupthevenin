@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   You don’t get to commit sin and then ask all of us to feel sorry for you when they’re consequences.
+   - Un ministros ? C’est quoi un ministros ?<br>- Pas ministros andouille, sinistros !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, Kitty Oppenheimer
+   Harry Potter et le prisonnier d’Azkaban
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>814</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>815</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
