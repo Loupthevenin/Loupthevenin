@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Achète-moi de la drogue ! Achète-moi de la drogue !
+   Ron : Ce sont des Nimbus 2001 ! Comment vous les avez eu ?<br>Marcus Flint : C’est un cadeau du père de Drago.<br>Drago Malefoy : Tu vois, Weasley, contrairement à certains, mon père peut acheter ce qu’il y a de mieux.<br>Hermione : Mais aucun joueur de Gryffondor n’a payé pour être dans l’équipe. On les a choisi pour leurs talents.<br>Drago Malefoy : Personne ne t’a demandé ton avis, espèce de Sang-de-Bourbe.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et la chambre des secrets
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>817</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Parasite, Yeon Kyo Park
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>816</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
