@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   T’es sourd l’avorton ? J’ai dis que c’était dix, espèce de trouillard lanceur de plats à tartes.
+   - Tu sais, par moment, j’oublie combien tu as grandi. Par moment, je vois encore le petit garçon dans le placard. Pardonne ma sensiblerie, je suis un vieil homme.<br>- À mes yeux, vous êtes resté le même.<br>- Tout comme ta mère, tu as beaucoup de cœur, une qualité que les gens sous-estiment trop souvent, je le crains.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Buford Tannen à Marty
+   Harry Potter et le Prince de sang mêlé, Dumbledore et Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>822</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>823</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
