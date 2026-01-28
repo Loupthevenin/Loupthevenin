@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je leur apprendrai comment je survis. Je leur dirai que certains matins, je n’ose plus me réjouir de rien de peur qu’on me l’enlève. Et que ces jours là, je dresse dans ma tête la liste de tous les actes de bonté auxquels j’ai pu assister. C’est comme un jeu. Répétitif. Un peu lassant, même, après plus de vingt ans. Mais j’ai connu des jeux bien pires.
+   Stay alive.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte -  partie, Katniss
+   Hunger Games, Haymitch Abernathy
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>827</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>828</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
