@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Stay alive.
+   - Je n’ai pas le droit d’avoir un balai.<br>- Tu as le droit d’avoir une baguette.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games, Haymitch Abernathy
+   Harry Potter et la coupe de feu, Harry et Alastor ’Fol-œil’ Maugrey
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>828</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>829</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
