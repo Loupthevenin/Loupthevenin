@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Je n’ai pas le droit d’avoir un balai.<br>- Tu as le droit d’avoir une baguette.
+   - Il est méthodique, précis et pour couronner le tout, patient.<br>- Vous voulez dire qu’il est barge, ouais ! C’est parce que ce fondu a une carte de bibliothèque qu’il a le cerveau de Yoda !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la coupe de feu, Harry et Alastor ’Fol-œil’ Maugrey
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>15</b> fois au sort parmis les <b>36</b> films sur <b>829</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Seven, le lieutenant Somerset et le lieutenant Mills
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>38</b> fois au sort parmis les <b>36</b> films sur <b>830</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
