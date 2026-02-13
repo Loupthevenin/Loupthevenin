@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Pourquoi j’ai mal aux yeux ? <br>- Tu vois clair pour la première fois.
+   Un elfe oserait aller sous terre alors qu’un nain ne le voudrait pas ?
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Matrix, Neo et Morpheus
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>843</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le Seigneur des anneaux : le retour du roi, Gimli
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>844</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
