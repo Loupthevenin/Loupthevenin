@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je vis ma vie librement, sans compromis, et je marche vers l’ombre sans griefs, ni regrets.
+   Mieux vaut-il vivre comme un monstre ou mourir en homme bien ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Rorschach
+   Shutter Island, Teddy Daniels
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>846</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>847</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
