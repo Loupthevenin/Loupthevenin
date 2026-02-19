@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Diable, il y a des bouchons sur le Stratosphérique, ça va nous prendre des heures pour y’aller et ça, ça reste ici, je n’ai pas inventé la machine à voyager dans le temps pour gagner aux jeux non, je l’ai inventée pour voyager dans le temps.
+   - Comment avez-vous eu cette épée ?<br>- C’est compliqué. Pourquoi Bellatrix Lestrange pensait qu’elle devait être dans sa chambre forte à Gringotts ?<br>- C’est compliqué.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Dr Emmett Brown
+   Harry Potter et les reliques de la mort -  partie, Gripsec et Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>849</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>850</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
