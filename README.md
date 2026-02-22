@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   You just defeated Nazism with a crossword puzzle.
+   Où sont le cheval et le cavalier ? Où est le cor qui sonnait ? Ils sont passé comme la pluie sur les montagnes, comme un vent dans les prairies. Les jours sont descendus à l’ouest derrière les collines, dans l’ombre. Comment en est-on arrivé là ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Imitation Game, Hugh Alexander à Alan Turing
+   Le seigneur des anneaux : les deux tours, Theoden
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>852</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>853</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
