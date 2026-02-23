@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Où sont le cheval et le cavalier ? Où est le cor qui sonnait ? Ils sont passé comme la pluie sur les montagnes, comme un vent dans les prairies. Les jours sont descendus à l’ouest derrière les collines, dans l’ombre. Comment en est-on arrivé là ?
+   Wake up Donnie!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : les deux tours, Theoden
+   Donnie Darko, Frank
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>853</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>854</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
