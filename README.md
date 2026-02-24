@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Wake up Donnie!
+   Je jure solennellement que mes intentions sont mauvaises.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, Frank
+   Harry Potter et le prisonnier d’Azkaban, Harry à Ron
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>854</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>855</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
