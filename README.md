@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu ne t’es jamais demandé d’où te venait la cicatrice que tu as sur le front ? Ce n’est pas une blessure ordinaire. C’est la trace du mauvais sort si puissant qu’il a détruit tes parents et leur maison. Mais toi, ça n’a pas marché, et c’est pour cette raison que tu es célèbre.
+   Dans la plupart des grandes villes, les gens ont l’art de ne pas se mêler des affaires des autres. On recommande aux femmes, si jamais elles se font agresser, de ne jamais appeler au secours, il faut crier au feu. Si vous criez au secours, personne ne vient.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Hagrid à Harry
+   Seven
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>856</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>39</b> fois au sort parmis les <b>36</b> films sur <b>857</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
