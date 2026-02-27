@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Dans la plupart des grandes villes, les gens ont l’art de ne pas se mêler des affaires des autres. On recommande aux femmes, si jamais elles se font agresser, de ne jamais appeler au secours, il faut crier au feu. Si vous criez au secours, personne ne vient.
+   - You love me. Real or not real?<br>- Real.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven
+   Hunger Games, Peeta et Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>39</b> fois au sort parmis les <b>36</b> films sur <b>857</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>858</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
