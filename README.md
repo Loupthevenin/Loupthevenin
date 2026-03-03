@@ -19,24 +19,25 @@
  <br/>
  <div>
   <p id="quote">
-   - Okay. Store’s open. What do you need?<br>- Guns. Lots of guns.
+   - Frodon Sacquet… Je crois qu’enfin nous nous comprenons.<br>- Vous connaissez les lois de votre pays, les lois de votre père ! Vous perdrez la vie si vous les laissez partir…<br>- Alors je la perdrai. Relâchez-les !
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix, Tank et Neo
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>861</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le seigneur des anneaux : les deux tours, Faramir et un soldat
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>862</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
+ </br>
 </div>
 <hr/>
 <div>
