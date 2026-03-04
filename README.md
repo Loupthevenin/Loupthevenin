@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Frodon Sacquet… Je crois qu’enfin nous nous comprenons.<br>- Vous connaissez les lois de votre pays, les lois de votre père ! Vous perdrez la vie si vous les laissez partir…<br>- Alors je la perdrai. Relâchez-les !
+   This is not about my life, or Cooper’s life, this is about all mankind. There is a moment…
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Interstellar, Dr Mann
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>863</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Le seigneur des anneaux : les deux tours, Faramir et un soldat
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>862</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
