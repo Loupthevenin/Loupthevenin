@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ne nous oubliez pas car nous aussi nous avons vécu, aimé et ri.
+   Now I am become Death, the destroyer of worlds.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island
+   Oppenheimer, J Robert Oppenheimer
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>33</b> fois au sort parmis les <b>36</b> films sur <b>864</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>865</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
