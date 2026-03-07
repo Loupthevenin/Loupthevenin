@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Now I am become Death, the destroyer of worlds.
+   Come on! Stop trying to hit me and hit me!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, J Robert Oppenheimer
+   The Matrix, Morpheus
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>865</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>866</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
