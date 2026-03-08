@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Come on! Stop trying to hit me and hit me!
+   Aucun d’eux ne peut vivre tant que l’autre survit.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix, Morpheus
+   Harry Potter et L’ordre du Phoenix
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>866</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>867</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
