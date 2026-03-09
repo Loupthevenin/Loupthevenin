@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Aucun d’eux ne peut vivre tant que l’autre survit.
+   - Elle est jalouse parce qu’elle est une fille ordinaire, et toi extraordinaire…<br>- C’est méchant de dire ça, Severus.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix
+   Harry Potter et les reliques de la mort -  partie, Rogue et Lily Potter
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>867</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>868</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
