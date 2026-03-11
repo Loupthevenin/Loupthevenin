@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Eomer : Que font un homme, un elfe et un nain dans le Riddermark ? Répondez !<br>Gimli : Donnez-moi votre nom, dresseur de chevaux, je vous donnerai le mien.<br>Eomer : Je vous couperais volontiers la tête, nain, si elle sortait un peu plus du sol…<br>Legolas : Vous seriez mort au moindre geste !
+   Il n’y a plus de district 12 Katniss.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Hunger Games : l’embrasement, Gale à Katniss
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>870</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Le seigneur des anneaux : les deux tours
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>869</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
