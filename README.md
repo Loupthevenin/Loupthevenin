@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Ton frère est en train de disparaître de la photo, ensuite ce sera au tour de ta sœur, et à moins que tu répares les dégâts, tu seras le suivant…- Ah, c’est pas le pied !- Mais non, ça commence par la tête j’te dis !
+   La mise en scène et la duperie sont des armes puissantes.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Dr Emmett Brown et Marty
+   Batman begins
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>871</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>872</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
