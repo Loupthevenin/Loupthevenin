@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   La mise en scène et la duperie sont des armes puissantes.
+   - Ridiculus, répétez ! RI-DI-CU-LUS.<br>- C’est ton cours qui est ridiculus.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Batman begins
+   Harry Potter et le prisonnier d’Azkaban
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>872</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>873</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
