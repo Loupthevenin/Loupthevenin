@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Bébé pourquoi t’es toute mouillée ?
+   Si nous brûlons, vous brûlerez avec nous !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island, Teddy Daniels
+   Hunger Games : la révolte - e partie, Katniss au président Snow
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>34</b> fois au sort parmis les <b>36</b> films sur <b>876</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>36</b> fois au sort parmis les <b>36</b> films sur <b>877</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
