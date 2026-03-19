@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Si nous brûlons, vous brûlerez avec nous !
+   - Tu n’es pas fou, moi aussi je les vois.<br>- Je vous présente loufocalove heu… Luna Lovegood…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte - e partie, Katniss au président Snow
+   Harry Potter et L’ordre du Phoenix, Luna Lovegood et Hermione
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>36</b> fois au sort parmis les <b>36</b> films sur <b>877</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>878</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
