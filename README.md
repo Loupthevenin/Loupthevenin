@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   They wont fear it, until they understand it. And they wont understand it, until they use it.
+   La célébrité ne peut donner que ce qu’elle a Harry. N’oublie jamais ça !
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Harry Potter et la chambre des secrets, Professeur Gilderoy Lockhart à Harry
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>880</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Oppenheimer, J Robert Oppenheimer
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>879</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
