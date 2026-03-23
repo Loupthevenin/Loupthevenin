@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   La célébrité ne peut donner que ce qu’elle a Harry. N’oublie jamais ça !
+   Si tu commences à t’encombrer des secrets des gens dangereux t’es fichu mon petit père.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets, Professeur Gilderoy Lockhart à Harry
+   Batman begins, Carmine Falcone
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>880</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>881</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
