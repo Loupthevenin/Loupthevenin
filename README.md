@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Encore un ivrogne au volant !
+   - Je suppose qu’on ne se tient plus tous par la main. [Rires]<br>- Tu trouves ça drôle ?<br>- Chaque coup de canon est une douce mélodie à mes oreilles. Je m’en moque, d’eux.<br>- Bon à savoir.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, le clochard
+   Hunger Games : l’embrasement, Finnick Odair et Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>33</b> fois au sort parmis les <b>36</b> films sur <b>885</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>886</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
