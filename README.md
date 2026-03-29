@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Je suppose qu’on ne se tient plus tous par la main. [Rires]<br>- Tu trouves ça drôle ?<br>- Chaque coup de canon est une douce mélodie à mes oreilles. Je m’en moque, d’eux.<br>- Bon à savoir.
+   - Régale toi de sa chair.<br>- Je vous tuerai si vous le touchez.<br>- Ne te mets pas entre Nazgûl et sa proie.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : l’embrasement, Finnick Odair et Katniss
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>886</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le Seigneur des anneaux : le retour du roi, le Roi-Sorcier d’Angmar et Eowyn
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>887</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
