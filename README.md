@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Régale toi de sa chair.<br>- Je vous tuerai si vous le touchez.<br>- Ne te mets pas entre Nazgûl et sa proie.
+   - Tu es un homme de parole, tu dis…<br>- Ho oui… je ne brûle que ma part. Tout ce qui vous intéresse vous, c’est l’argent. Cette ville mérite une qualité supérieure de criminels. Et je vais la lui donner. Dis à tes hommes qu’ils travaillent pour moi maintenant. Cette ville m’appartient.<br>- Ils voudront pas travailler pour un malade !<br>- Malade… ? Toi on devrait te découper en petits morceaux et les filer à bouffer à tes cabots ! Hum ? Et là on verrait si un toutou qui a un p’tit creux est un toutou loyal ! [Pour lui même] Ça n’a rien à voir avec l’argent… C’est plutôt faire passer… un message. Hé oui tout brûle !
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Le Seigneur des anneaux : le retour du roi, le Roi-Sorcier d’Angmar et Eowyn
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>887</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   The Dark Knight: Le Chevalier noir, Chechen et le Joker
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>888</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
