@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   - Tu es un homme de parole, tu dis…<br>- Ho oui… je ne brûle que ma part. Tout ce qui vous intéresse vous, c’est l’argent. Cette ville mérite une qualité supérieure de criminels. Et je vais la lui donner. Dis à tes hommes qu’ils travaillent pour moi maintenant. Cette ville m’appartient.<br>- Ils voudront pas travailler pour un malade !<br>- Malade… ? Toi on devrait te découper en petits morceaux et les filer à bouffer à tes cabots ! Hum ? Et là on verrait si un toutou qui a un p’tit creux est un toutou loyal ! [Pour lui même] Ça n’a rien à voir avec l’argent… C’est plutôt faire passer… un message. Hé oui tout brûle !
+   We’ve always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known. We count these moments as our proudest achievements. But we lost all that. Or perhaps we’ve just forgotten that we are still pioneers. And we’ve barely begun. And that our greatest accomplishments cannot be behind us, because our destiny lies above us.
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight: Le Chevalier noir, Chechen et le Joker
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>888</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Interstellar, Cooper
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>889</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
