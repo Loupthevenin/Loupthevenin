@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Ronald aimerait que je te dise que Seamus lui a dit que Dean a apprit par Parvati que Hagrid te cherchait.
+   Un copain de Griff 1 : Eh, McFly, t’es complètement stoko ? Ça marche pas sur l’eau c’est pas pour le surf !<br>Un copain de Griff 2 : Fais remettre les turbos à neuf !<br>Toute la bande de Griff : Ha, ha, ha, ha !
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et la coupe de feu, Hermione à Harry
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>16</b> fois au sort parmis les <b>36</b> films sur <b>894</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Retour vers le futur
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>895</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
