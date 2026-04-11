@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ce qui va vous mettre le ravioli en ébullition c’est l’auriez-vous cassé si je ne vous avais rien dit ?
+   - Je me demande si toutefois nous figurerons dans les chansons ou les histoires.<br>- Quoi ?<br>- Je me demande si les gens diront un jour « écoutons l’histoire de Frodon et de l’Anneau ! » et je répondrai oh oui c’est une de mes histoires favorites ! Frodon était très courageux n’est-ce pas Papa ? Oh oui mon garçon, c’est le plus célèbre des hobbits. Et ce n’est pas peu dire.<br>- Tu as oublié l’un des personnages principaux : Sam Gamegie le brave ! Je veux en entendre plus sur Sam. Frodon ne serait pas allé bien loin sans Sam.<br>- Allons monsieur Frodon vous ne devriez pas plaisanter je parle sérieusement.<br>- Moi aussi.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Matrix, l'oracle
+   Le seigneur des anneaux : les deux tours, Sam et Frodon
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>899</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>900</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
