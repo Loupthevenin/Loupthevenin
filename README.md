@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Do not go gentle into that good night; Old age should burn and rave at close of day. Rage, rage against the dying of the light.
+   You don’t get to commit sin and then ask all of us to feel sorry for you when they’re consequences.
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Interstellar, Dr Brand
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>903</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Oppenheimer, Kitty Oppenheimer
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>904</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
