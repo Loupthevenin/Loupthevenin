@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   You don’t get to commit sin and then ask all of us to feel sorry for you when they’re consequences.
+   Harry : Au fait, je suis désolé de t’avoir fait rater la diligence.<br>Luna Lovegood : Oh c’est pas grave, c’est comme si j’étais avec un ami.<br>Harry : Euh… Je suis ton ami Luna !<br>Luna Lovegood : C’est gentil.<br>Le professeur Flitwick : Oh ! Ce n’est pas trop tôt ! Je vous ai cherchés partout vous deux ! Bien. Vos noms.<br>Harry : Professeur Flitwick, vous me connaissez depuis cinq ans.<br>Le professeur Flitwick : Pas d’exceptions Potter !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, Kitty Oppenheimer
+   Harry Potter et le Prince de sang mêlé
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>904</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>905</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
