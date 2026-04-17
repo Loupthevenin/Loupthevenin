@@ -19,24 +19,26 @@
  <br/>
  <div>
   <p id="quote">
-   Harry : Au fait, je suis désolé de t’avoir fait rater la diligence.<br>Luna Lovegood : Oh c’est pas grave, c’est comme si j’étais avec un ami.<br>Harry : Euh… Je suis ton ami Luna !<br>Luna Lovegood : C’est gentil.<br>Le professeur Flitwick : Oh ! Ce n’est pas trop tôt ! Je vous ai cherchés partout vous deux ! Bien. Vos noms.<br>Harry : Professeur Flitwick, vous me connaissez depuis cinq ans.<br>Le professeur Flitwick : Pas d’exceptions Potter !
+   Did you had a nightmare? I have nightmares too. Someday, I’ll explain it to you, why they came, why they will never go away. But I’ll tell you how I survive it. I make a list in my head, of all the good things I’ve seen someone do, every little thing I can remember. It’s like a game ant I do it over and over. It gets a little tedious after all these years but… there are much worse games to play…
   </p>
  </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le Prince de sang mêlé
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>905</b> jours consécutifs. 🎲🎲🎲
-  </p>
- </div>
- <br/>
+ <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Hunger Games : la révolte -  partie, Katniss
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>906</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br>
+  </br>
+ </br>
 </div>
 <hr/>
 <div>
