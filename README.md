@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Ma chatte a été pétrifiée… J’exige un châtiment !<br>- Nous serons en mesure de la guérir Argus…
+   - Qu’est ce que tu attends ? Tue-moi.<br>- Tu ne crains pas la mort, tu lui ouvres les bras. Ton châtiment doit être plus dur.<br>- Tortionnaire.<br>- Oui, mais pas de ta chair… de ton âme […] Lorsque Gotham sera en cendres… je te donnerai le droit de mourir.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   The Dark Knight Rises, Batman et Bane
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>911</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et la chambre des secrets, Argus Rusard et Dumbledore
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>910</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
