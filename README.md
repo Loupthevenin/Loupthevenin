@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - Qu’est ce que tu attends ? Tue-moi.<br>- Tu ne crains pas la mort, tu lui ouvres les bras. Ton châtiment doit être plus dur.<br>- Tortionnaire.<br>- Oui, mais pas de ta chair… de ton âme […] Lorsque Gotham sera en cendres… je te donnerai le droit de mourir.
-  </p>
- </div>
- <br/>
- <div align="right">
-  <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight Rises, Batman et Bane
-  </p>
- </div>
- <div>
-  <h3>
-   Bot
-  </h3>
-  <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>911</b> jours consécutifs. 🎲🎲🎲
+   - La forteresse est prise. Tout est fini.- Vous avez dit que cette forteresse ne tomberait pas tant que vos hommes la défendront. Ils la défendent encore ! Ils sont morts en la défendant !
   </p>
  </div>
  <br>
+  <div align="right">
+   <p id="movie" style="text-align: right; font-style: italic;">
+    Le seigneur des anneaux : les deux tours
+   </p>
+  </div>
+  <div>
+   <h3>
+    Bot
+   </h3>
+   <p id="bot">
+    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>912</b> jours consécutifs. 🎲🎲🎲
+   </p>
+  </div>
+  <br/>
  </br>
 </div>
 <hr/>
