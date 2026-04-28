@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je ne suis qu’un tas d’os dans une boite, Teddy.
+   L’entrainement n’est rien ! Seule la volonté compte.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island, Dolores Chanal à Teddy Daniels
+   Batman begins
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>916</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>917</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
