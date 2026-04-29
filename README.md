@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   L’entrainement n’est rien ! Seule la volonté compte.
+   Watchmen watch us, but who watches the Watchmen ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Batman begins
+   Watchmen
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>917</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>918</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
