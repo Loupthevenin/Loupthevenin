@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Watchmen watch us, but who watches the Watchmen ?
+   - Vous faites du grabuge Tannen ?<br>- J’fais pas de grabuge Marshall, juste une affaire privée entre moi et Eastwood, ça regarde pas les forces de l’ordre !<br>- Ce soir, tout regarde les forces de l’ordre, je ne veux pas d’attroupement. À la moindre rixe c’est 15 jours dans les geôles du Comté ! Allons ceci est un bal ! En piste et que tout le monde s’amuse.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen
+   Retour vers le futur  Marshall Strickland et Buford Tannen
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>918</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>919</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
