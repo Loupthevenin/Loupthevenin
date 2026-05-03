@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Qui que l’on soit au fond de nous, nous ne sommes jugés que d’après nos actes.
+   - [Elle pose brutalement un livre] J’avais pris ça à la bibliothèque pour me distraire, le soir.<br>- Ça, c’est… distrayant ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Batman begins, Rachel Dawes
+   Harry Potter à l’école des sorciers, Hermione et Ron
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>921</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>922</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
