@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   - J’y vais avec Pierre Cardin, vous êtes content ?<br>- Pierre Cardin ? Nan j’suis pas content !
+   Tu ne comprends pas ? T’es un rat dans un labyrinthe.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Shutter Island, George Noyce
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>36</b> fois au sort parmis les <b>36</b> films sur <b>927</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Retour vers le futur  Lorraine et Biff Tannen
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>926</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
