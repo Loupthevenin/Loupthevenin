@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Did you had a nightmare? I have nightmares too. Someday, I’ll explain it to you, why they came, why they will never go away. But I’ll tell you how I survive it. I make a list in my head, of all the good things I’ve seen someone do, every little thing I can remember. It’s like a game ant I do it over and over. It gets a little tedious after all these years but… there are much worse games to play…
+   Le rêve semble réel quand on y est, ce n’est que quand on se réveille qu’on se rend compte qu’il avait quelque chose d’étrange…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : la révolte -  partie, Katniss
+   Inception, Dom Cobb
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>930</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>931</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
