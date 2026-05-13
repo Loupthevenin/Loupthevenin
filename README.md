@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Le rêve semble réel quand on y est, ce n’est que quand on se réveille qu’on se rend compte qu’il avait quelque chose d’étrange…
+   - Cooper, what are you doing?<br>- Docking.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Inception, Dom Cobb
+   Interstellar, Brand et Cooper
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>931</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>932</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
