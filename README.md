@@ -19,26 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Oh, être jeune et connaître les maux qu’amour inflige !
+   Bébé pourquoi t’es toute mouillée ?
   </p>
  </div>
- <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Harry Potter et le Prince de sang mêlé
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>936</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br>
-  </br>
- </br>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Shutter Island, Teddy Daniels
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>37</b> fois au sort parmis les <b>36</b> films sur <b>937</b> jours consécutifs. 🎲🎲🎲
+  </p>
+ </div>
+ <br/>
 </div>
 <hr/>
 <div>
