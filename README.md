@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Bébé pourquoi t’es toute mouillée ?
+   - Salope et conne en plus.<br>- Jamais on m’avait accusé d’être conne !!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Shutter Island, Teddy Daniels
+   The Dark Knight Rises, Daggett et Catwoman
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>37</b> fois au sort parmis les <b>36</b> films sur <b>937</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>938</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
