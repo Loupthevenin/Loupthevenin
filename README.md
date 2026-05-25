@@ -19,24 +19,24 @@
  <br/>
  <div>
   <p id="quote">
-   Hey, McFly ! J’croyais que j’t’avais de plus foutre les pieds ici ! T’es pas Seamus McFly ? J’suis sûr que tu lui ressembles surtout avec ce galurin à la noix ! T’es parent avec ce coupe-foin ? Ton nom c’est quoi pied-tendre ?
+   Ne nous oubliez pas car nous aussi nous avons vécu, aimé et ri.
+  </p>
+ </div>
+ <br/>
+ <div align="right">
+  <p id="movie" style="text-align: right; font-style: italic;">
+   Shutter Island
+  </p>
+ </div>
+ <div>
+  <h3>
+   Bot
+  </h3>
+  <p id="bot">
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>38</b> fois au sort parmis les <b>36</b> films sur <b>944</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br>
-  <div align="right">
-   <p id="movie" style="text-align: right; font-style: italic;">
-    Retour vers le futur  Buford Tannen à Marty
-   </p>
-  </div>
-  <div>
-   <h3>
-    Bot
-   </h3>
-   <p id="bot">
-    🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>36</b> fois au sort parmis les <b>36</b> films sur <b>943</b> jours consécutifs. 🎲🎲🎲
-   </p>
-  </div>
-  <br/>
  </br>
 </div>
 <hr/>
