@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Plus on s’attache, plus on a à perdre.
+   Je ne vous dirais pas de ne pas pleurer car toutes les larmes ne sont pas un mal.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix, Harry
+   Le Seigneur des anneaux : le retour du roi, Gandalf
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>945</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>946</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
