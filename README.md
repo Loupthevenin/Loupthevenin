@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Si tu commences à t’encombrer des secrets des gens dangereux t’es fichu mon petit père.
+   - Elle est jalouse parce qu’elle est une fille ordinaire, et toi extraordinaire…<br>- C’est méchant de dire ça, Severus.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Batman begins, Carmine Falcone
+   Harry Potter et les reliques de la mort -  partie, Rogue et Lily Potter
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>947</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>948</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
