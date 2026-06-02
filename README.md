@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   If you’re good at something, never do it for free.
+   - Va t’en !- Que je m’en aille ? C’est moi qui nous ai sauvé ! Nous avons survécu grâce à MOI !- Nous n’avons plus besoin de toi ! Le maitre veille sur nous à présent.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight, le Joker
+   Le seigneur des anneaux : les deux tours, Sméagol et Gollum
   </p>
  </div>
  <div>
@@ -33,11 +33,10 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>950</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>951</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
- <br>
- </br>
+ <br/>
 </div>
 <hr/>
 <div>
