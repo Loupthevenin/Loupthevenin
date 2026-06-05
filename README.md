@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Le plus remarquable, c’est que le comportement amoureux soit si semblable à celui de la folie.
+   Attaquer l’un des nôtres, c’est nous attaquer tous !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Reloaded, le mérovingien
+   Watchmen, Rorschach
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>953</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>954</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
