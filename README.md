@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Attaquer l’un des nôtres, c’est nous attaquer tous !
+   Futés les hobbits d’avoir grimpé si haut !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Rorschach
+   Le Seigneur des anneaux : le retour du roi, Gollum
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>954</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>955</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
