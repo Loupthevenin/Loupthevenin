@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Futés les hobbits d’avoir grimpé si haut !
+   - Le seul moyen d’entrer ici c’est de passer sur ma putain de carcasse !- Ainsi soit-il.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le Seigneur des anneaux : le retour du roi, Gollum
+   The Matrix Revolution, un garde et Séraphin
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>955</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>956</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
