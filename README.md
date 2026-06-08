@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Le seul moyen d’entrer ici c’est de passer sur ma putain de carcasse !- Ainsi soit-il.
+   - L’objet est ici, caché dans le château. Si vous devez demander, jamais vous ne saurez. Si vous savez, il suffit de demander.<br>- Merci !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Revolution, un garde et Séraphin
+   Harry Potter et les reliques de la mort -  partie, Héléna Serdaigle et Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>956</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>33</b> fois au sort parmis les <b>36</b> films sur <b>957</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
