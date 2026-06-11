@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.
+   On sera vingt-quatre Gale, et il n’en restera qu’un.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Interstellar, Cooper
+   Hunger Games, Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>959</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>960</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
