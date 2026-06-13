@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Let me get this straight: You think that your client, one of the wealthiest, most powerful man in the world, is secretly a vigilante who beats criminals to a pulp with his bare hands. And your plan is to blackmail this person? Good luck.
+   Il n’y a plus de district 12 Katniss.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight, Lucius Fox à Coleman Reese
+   Hunger Games : l’embrasement, Gale à Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>961</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>962</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
