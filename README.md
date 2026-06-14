@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Il n’y a plus de district 12 Katniss.
+   Seigneur ! Qu’avez-vous donc vendu pour obtenir des places dans la tribune officielle ? Votre maison n’aurait certainement pas suffi à payer le prix des billets ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games : l’embrasement, Gale à Katniss
+   Harry Potter et la coupe de feu, Lucius Malfoy
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>962</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>963</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
