@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Pourquoi tu-vis ?<br>- Parce que pour moi la vie a un sens.
+   Alors, vous cherchez la maison de vos rêves ? Elle est un peu grande pour toi Weasmoche.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort - e partie
+   Harry Potter et le prisonnier d’Azkaban, Drago Malefoy
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>966</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>967</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
