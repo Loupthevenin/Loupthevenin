@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Alors, vous cherchez la maison de vos rêves ? Elle est un peu grande pour toi Weasmoche.
+   - You save my life, you give a chance.<br>- Yes, to live.<br>- No, to do something.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban, Drago Malefoy
+   The Hunger Games: Catching Fire, Primrose et Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>967</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>968</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
