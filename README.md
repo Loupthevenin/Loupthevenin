@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - You save my life, you give a chance.<br>- Yes, to live.<br>- No, to do something.
+   Alan, j’ai très rarement eu l’occasion de dire ça, mais vous êtes exactement l’homme que j’ai toujours espéré que vous soyez.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Hunger Games: Catching Fire, Primrose et Katniss
+   The Imitation Game, Stewart Menzies
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>968</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>969</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
