@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Quelle est votre nom ?<br>- Mais monsieur vous me connaissez depuis cinq ans.<br>- Pas d’exception Potter !
+   Alan, j’ai très rarement eu l’occasion de dire ça, mais vous êtes exactement l’homme que j’ai toujours espéré que vous soyez.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le Prince de sang mêlé, le professeur Flitwick et Harry
+   The Imitation Game, Stewart Menzies
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>971</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>972</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
