@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Alan, j’ai très rarement eu l’occasion de dire ça, mais vous êtes exactement l’homme que j’ai toujours espéré que vous soyez.
+   C’est le monde à l’envers quoi. Vous, vous pouvez éventuellement savoir ce que vous allez faire, mais jamais ce que vous venez de faire.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Imitation Game, Stewart Menzies
+   Mémento
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>972</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>973</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
