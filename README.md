@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je suis de retour du futur !
+   Tu es un idiot Harry Potter, et tu vas mourir… Avada kedavra !!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Marty au Dr Emmett Brown
+   Harry Potter et les reliques de la mort -  partie, Lord Voldemort à Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>975</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>34</b> fois au sort parmis les <b>36</b> films sur <b>976</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
