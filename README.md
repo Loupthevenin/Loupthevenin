@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu es un idiot Harry Potter, et tu vas mourir… Avada kedavra !!
+   Parce qu’il est le héros que Gotham mérite. Pas celui dont on a besoin aujourd’hui… Alors nous le pourchasserons. Parce qu’il peut l’endurer. Parce que ce n’est pas un héros. C’est un Gardien silencieux… qui veille et protège sans cesse. C’est le Chevalier Noir.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort -  partie, Lord Voldemort à Harry
+   The Dark Knight: Le Chevalier noir, Gordon
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>34</b> fois au sort parmis les <b>36</b> films sur <b>976</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>977</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
