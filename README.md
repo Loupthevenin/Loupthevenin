@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   I mean, it’s easier to lose yourself in drugs than it is to cope with life. It’s easier to steal what you want than it is to earn it. It’s easier to beat a child than it is to raise it. Hell, love costs: it takes effort and work.
+   You talking to me? You talking to me, Tannen? Wel I’m the only one here. Go ahead! Make my day.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven
+   Back to the futur  Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>41</b> fois au sort parmis les <b>36</b> films sur <b>980</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>37</b> fois au sort parmis les <b>36</b> films sur <b>981</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
