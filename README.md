@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   You talking to me? You talking to me, Tannen? Wel I’m the only one here. Go ahead! Make my day.
+   Une dernière fois, pour les caméras ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Back to the futur  Marty
+   Hunger Games, Peeta à Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>37</b> fois au sort parmis les <b>36</b> films sur <b>981</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>982</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
