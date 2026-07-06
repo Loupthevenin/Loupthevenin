@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Une dernière fois, pour les caméras ?
+   Et voilà, mes amis, comment meurt une révolution !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games, Peeta à Katniss
+   Hunger Games : la révolte - e partie, Haymitch Abernathy
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>982</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>38</b> fois au sort parmis les <b>36</b> films sur <b>983</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
