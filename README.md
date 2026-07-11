@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - On recherche un truc dans le château.<br>- C’est quoi ?<br>- Aucune idée<br>- Et ça se trouve où ?<br>- Aucune idée<br>- Euh ça nous fait peu d’informations ça.
+   - Pas étonnant que ça tombe en panne y’a marqué « Made in Japan ».<br>- Mais enfin Doc, tous les meilleurs trucs sont fabriqués au Japon.<br>- C’est pas croyable !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort -  partie, Harry et les élèves de Poudlard
+   Retour vers le futur  Dr Emmett Brown et Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>36</b> fois au sort parmis les <b>36</b> films sur <b>987</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>38</b> fois au sort parmis les <b>36</b> films sur <b>988</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
