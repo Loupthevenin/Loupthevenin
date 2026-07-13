@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Le commandant Denniston : Voici Stewart Menzies, du MI6.<br>Charles Richards : Il n’y a que cinq divisions des renseignements militaires. Il n’y a pas de MI6.<br>Stewart Menzies : Exactement, c’est l’esprit.
+   Tuer des sangs-de-bourbes ne m’intéresse plus, désormais. Depuis plusieurs mois, ma nouvelle cible, c’est toi.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Imitation Game
+   Harry Potter et la chambre des secrets, Tom Jedusor / Voldemort à Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>989</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>990</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
