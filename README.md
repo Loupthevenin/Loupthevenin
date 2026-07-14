@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tuer des sangs-de-bourbes ne m’intéresse plus, désormais. Depuis plusieurs mois, ma nouvelle cible, c’est toi.
+   Ceux qui nous aiment ne nous quittent jamais vraiment. On peut toujours les retrouver… là. [Il montre le cœur d’Harry]
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets, Tom Jedusor / Voldemort à Harry
+   Harry Potter et le prisonnier d’Azkaban, Sirius Black à Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>990</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>991</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
