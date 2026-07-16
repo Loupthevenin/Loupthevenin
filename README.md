@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Messieurs, je ne vous comprendrais jamais. Regardez tous ces livres autour de vous, une mine de connaissance à la porté de vos mains et vous, qu’est-ce que vous faites ? Vous jouez au poker toute la nuit.
+   Et voilà, mes amis, comment meurt une révolution !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Seven, le lieutenant Somerset
+   Hunger Games : la révolte - e partie, Haymitch Abernathy
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>42</b> fois au sort parmis les <b>36</b> films sur <b>992</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>40</b> fois au sort parmis les <b>36</b> films sur <b>993</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
