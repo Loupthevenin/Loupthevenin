@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je suis Dark Vador et je viens de la planète Vulcain.
+   Vous allez sans doute me dire que Beth Davis est la Première Dame du pays et John Wayne Secrétaire à la Défense ? Ah, j’en ai eu assez de divagations pour ce soir ! Bonne nuit, visiteur du futur !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Marty
+   Retour vers le futur, Dr Emmett Brown à Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>34</b> fois au sort parmis les <b>36</b> films sur <b>994</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>995</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
