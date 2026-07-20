@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Mr. Anderson, welcome back. We missed you. You like what I’ve done with the place?<br>- It ends tonight.
+   Quand nous rêvons, nous entrons dans un monde qui n’appartient qu’à nous.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Revolution, Agent Smith et Neo
+   Harry Potter et le prisonnier d’Azkaban, Dumbledore à Rogue
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>996</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>997</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
