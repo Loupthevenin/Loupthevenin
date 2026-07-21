@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Quand nous rêvons, nous entrons dans un monde qui n’appartient qu’à nous.
+   Wake up Donnie!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban, Dumbledore à Rogue
+   Donnie Darko, Frank
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>997</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>998</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
