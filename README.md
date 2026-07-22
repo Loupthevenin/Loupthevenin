@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Wake up Donnie!
+   Souviens toi de Samy Junkys.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, Frank
+   Mémento
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>998</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>999</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
