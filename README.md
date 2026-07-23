@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Souviens toi de Samy Junkys.
+   Pensez au professeur Rogue avec les habits de votre grand-mère !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Mémento
+   Harry Potter et le prisonnier d’Azkaban, Remus Lupin à Neville
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>999</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>1000</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
