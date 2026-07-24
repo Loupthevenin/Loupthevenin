@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Pensez au professeur Rogue avec les habits de votre grand-mère !
+   Je vois que vous n’êtes pas encore prêts pour ce genre de chose mais par contre vos gosses vont adorer.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban, Remus Lupin à Neville
+   Retour vers le futur, Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>1000</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>36</b> fois au sort parmis les <b>36</b> films sur <b>1001</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
