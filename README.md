@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Le Maire Goldie Wilson ! Ça sonne vachement bien Whooo !
+   Debout, debout cavaliers de Théoden. Les lances seront secoués, les boucliers voleront en éclats. Une journée de l’épée. Une journée rouge avant que le soleil ne se lève. Au galop, au galop. Courrez, courrez à la ruine et à la fin du monde ! À mort ! À mort ! À mort ! Pour Eorlingas !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur, Goldie Wilson
+   Le Seigneur des anneaux : le retour du roi, Theoden
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>38</b> fois au sort parmis les <b>36</b> films sur <b>1005</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>34</b> fois au sort parmis les <b>36</b> films sur <b>1006</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
