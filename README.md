@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Eurêka !
+   Je n’ai jamais rien voulu de tout ça. Je n’ai jamais voulu participer aux jeux. Je voulais juste sauver ma sœur, et garder Peeta en vie.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Dr Emmett Brown
+   Hunger Games : la révolte - e partie, Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>39</b> fois au sort parmis les <b>36</b> films sur <b>1008</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>41</b> fois au sort parmis les <b>36</b> films sur <b>1009</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
