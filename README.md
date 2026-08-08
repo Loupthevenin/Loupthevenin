@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Cooper, what are you doing?<br>- Docking.
+   Never show anyone. They’ll beg you and they’ll flatter you for the secret, but as soon as you give it up… you’ll be nothing to them.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Interstellar, Brand et Cooper
+   The prestige, Alfred Borden à A boy
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>1015</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>1016</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
