@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   On ne retrouve que des détails, tous ces p’tits rien dont on parle rarement, et on revit certains moments forts même si on n’a pas vraiment envie. C’est tout ça mis ensemble qui restitue une présence. Et on prend conscience du manque, et de la haine qu’on ressent pour celui qui a tout détruit…
+   Vous n’avez jamais compris pourquoi on le faisait. Les spectateurs connaissent la vérité. Le monde est simple, misérable, si figé d’un bout à l’autre. Mais si vous pouvez les duper, ne serait-ce qu’une seconde, vous les faites rêver, et alors vous découvrez quelque chose de très spécial. Vous ne voyez vraiment pas ? C’est cette lueur dans leurs yeux.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Mémento, Leonard Shelby
+   Le prestige, Robert Angier
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>1018</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>1019</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
