@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous n’avez jamais compris pourquoi on le faisait. Les spectateurs connaissent la vérité. Le monde est simple, misérable, si figé d’un bout à l’autre. Mais si vous pouvez les duper, ne serait-ce qu’une seconde, vous les faites rêver, et alors vous découvrez quelque chose de très spécial. Vous ne voyez vraiment pas ? C’est cette lueur dans leurs yeux.
+   Tu te crois en 1999, mais en fait on approche de 2199 ; et si je ne peux pas préciser l’année c’est parce que nous l’ignorons tous, et je ne vois pas comment je pourrais te l’expliquer d’avantage. Viens avec moi ! Tu verras par toi même.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le prestige, Robert Angier
+   Matrix, Morpheus à Neo
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>1019</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>1020</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
