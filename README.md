@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Tu te crois en 1999, mais en fait on approche de 2199 ; et si je ne peux pas préciser l’année c’est parce que nous l’ignorons tous, et je ne vois pas comment je pourrais te l’expliquer d’avantage. Viens avec moi ! Tu verras par toi même.
+   Un copain de Griff 1 : Eh, McFly, t’es complètement stoko ? Ça marche pas sur l’eau c’est pas pour le surf !<br>Un copain de Griff 2 : Fais remettre les turbos à neuf !<br>Toute la bande de Griff : Ha, ha, ha, ha !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Matrix, Morpheus à Neo
+   Retour vers le futur
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>1020</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>1021</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
