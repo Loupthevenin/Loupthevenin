@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Un copain de Griff 1 : Eh, McFly, t’es complètement stoko ? Ça marche pas sur l’eau c’est pas pour le surf !<br>Un copain de Griff 2 : Fais remettre les turbos à neuf !<br>Toute la bande de Griff : Ha, ha, ha, ha !
+   Ce n’est qu’une ombre et une pensée que vous aimez.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur
+   Le Seigneur des anneaux : le retour du roi, Aragorn
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>1021</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>1022</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
