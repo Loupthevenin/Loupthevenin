@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ce n’est qu’une ombre et une pensée que vous aimez.
+   I killed Sirius Black!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le Seigneur des anneaux : le retour du roi, Aragorn
+   Harry Potter and the Order of the Phoenix, Bellatrix Lestrange
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>1022</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>1023</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
