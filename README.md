@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   I killed Sirius Black!
+   Saint Potter !!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Order of the Phoenix, Bellatrix Lestrange
+   Harry Potter et la chambre des secrets, Drago Malefoy
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>1023</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>1024</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
