@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   N’oublie jamais qui est ton véritable ennemi.
+   Now you’re looking for the secret… But you won’t find it, because, of course, you’re not really looking. You don’t really want to work it out… You want to be fooled.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games, Haymitch Abernathy à Katniss
+   The prestige, Cutter
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>1028</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>1029</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
