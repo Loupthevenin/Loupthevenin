@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Now you’re looking for the secret… But you won’t find it, because, of course, you’re not really looking. You don’t really want to work it out… You want to be fooled.
+   Innocent tant qu’on a pas prouvé qu’il est coupable !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The prestige, Cutter
+   Harry Potter et la chambre des secrets
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>1029</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>33</b> fois au sort parmis les <b>36</b> films sur <b>1030</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
