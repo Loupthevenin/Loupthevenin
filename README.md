@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je suis un… quoi ?
+   And yes Mr Wayne, it does come in black!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Harry
+   The dark knight rises, Lucius Fox à Batman
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>1034</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>1035</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
