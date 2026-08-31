@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ce ne sont pas juste des rêves, ce sont des souvenirs et tu as dit de ne jamais utiliser des souvenirs !
+   You’re the man who gave them the power to destroy themselves… and the world is not prepared.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Inception, Ariadne
+   Oppenheimer, Niels Bohr
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>1037</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>1038</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
