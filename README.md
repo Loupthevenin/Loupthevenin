@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   You’re the man who gave them the power to destroy themselves… and the world is not prepared.
+   I am the Half-Blood Prince.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, Niels Bohr
+   Harry Potter and the Half-Blood Prince, Rogue
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>1038</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>1039</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
