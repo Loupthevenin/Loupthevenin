@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   I am the Half-Blood Prince.
+   Si nous brûlons, vous brûlerez avec nous !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter and the Half-Blood Prince, Rogue
+   Hunger Games : la révolte - e partie, Katniss au président Snow
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>1039</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>42</b> fois au sort parmis les <b>36</b> films sur <b>1040</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
