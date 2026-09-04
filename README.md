@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Je sais que, quand je ferme les yeux, le monde ne s’arrête pas de tourner.
+   Félicitations. Tu viens de tuer un magnifique set de table !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Mémento, Leonard Shelby
+   Hunger Games
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>1041</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>1042</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
