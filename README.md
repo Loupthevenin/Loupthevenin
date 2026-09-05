@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Félicitations. Tu viens de tuer un magnifique set de table !
+   Seul compte la volonté, la volonté d’agir.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games
+   Batman begins
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>1042</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>1043</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
