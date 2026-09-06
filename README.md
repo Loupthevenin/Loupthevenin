@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Seul compte la volonté, la volonté d’agir.
+   Vous ne l’aimez pas beaucoup monsieur le ministre, mais reconnaissez, qu’il ne manque pas de style…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Batman begins
+   Harry Potter et L’ordre du Phoenix, Kingsley Shacklebolt à Cornelius Fudge
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>1043</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>1044</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
