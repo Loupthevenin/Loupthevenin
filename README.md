@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous ne l’aimez pas beaucoup monsieur le ministre, mais reconnaissez, qu’il ne manque pas de style…
+   Je leur apprendrai comment je survis. Je leur dirai que certains matins, je n’ose plus me réjouir de rien de peur qu’on me l’enlève. Et que ces jours là, je dresse dans ma tête la liste de tous les actes de bonté auxquels j’ai pu assister. C’est comme un jeu. Répétitif. Un peu lassant, même, après plus de vingt ans. Mais j’ai connu des jeux bien pires.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et L’ordre du Phoenix, Kingsley Shacklebolt à Cornelius Fudge
+   Hunger Games : la révolte -  partie, Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>1044</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>1045</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
