@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Voldemort est mon passé, mon présent et mon avenir.
+   - Pourquoi le masque dès vos débuts ?<br>- Pour ne pas mettre en danger mes proches.<br>- Mais vous étiez un solitaire, vous n’aviez pas de famille.<br>- Il y a toujours des gens à qui on tient, mais ce n’est que quand on ne les a plus qu’on s’en rend compte. L’idée était de devenir un symbole, Batman pouvait être n’importe qui, c’était ça le but.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets, Lord Voldemort
+   The Dark Knight Rises, John Blake et Batman
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>34</b> fois au sort parmis les <b>36</b> films sur <b>1046</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>1047</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
