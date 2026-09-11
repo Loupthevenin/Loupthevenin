@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Pourquoi le masque dès vos débuts ?<br>- Pour ne pas mettre en danger mes proches.<br>- Mais vous étiez un solitaire, vous n’aviez pas de famille.<br>- Il y a toujours des gens à qui on tient, mais ce n’est que quand on ne les a plus qu’on s’en rend compte. L’idée était de devenir un symbole, Batman pouvait être n’importe qui, c’était ça le but.
+   Nous vivons des heures sombres c’est indéniable…
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight Rises, John Blake et Batman
+   Harry Potter et les reliques de la mort - e partie, le ministre de la magie
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>1047</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>36</b> fois au sort parmis les <b>36</b> films sur <b>1048</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
