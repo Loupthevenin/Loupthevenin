@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Nous vivons des heures sombres c’est indéniable…
+   - Alors ? Vous l’avez fait avec Ginny ?<br>- Quoi ?!<br>- Ben ouais. Cacher le livre.<br>- Ah… heu, oui !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort - e partie, le ministre de la magie
+   Harry Potter et le Prince de sang mêlé, Ron et Harry
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>36</b> fois au sort parmis les <b>36</b> films sur <b>1048</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>1049</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
