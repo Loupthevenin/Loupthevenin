@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Alors ? Vous l’avez fait avec Ginny ?<br>- Quoi ?!<br>- Ben ouais. Cacher le livre.<br>- Ah… heu, oui !
+   Aucun parent ne devraient enterrer son enfant.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le Prince de sang mêlé, Ron et Harry
+   Le seigneur des anneaux : les deux tours, Theoden
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>1049</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>33</b> fois au sort parmis les <b>36</b> films sur <b>1050</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
