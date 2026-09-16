@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   What happened to the american dream? It came true. You’re lookin’ at it.
+   C’est la première fois de ma vie que j’te vois et tu m’as l’air d’un sacré tocard !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, le Comédien au Hibou
+   Retour vers le futur  Strickland
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>1052</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>1053</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
