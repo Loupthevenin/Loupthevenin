@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   C’est la première fois de ma vie que j’te vois et tu m’as l’air d’un sacré tocard !
+   - Je vous prépare la batmoto monsieur ?<br>- En pleine journée Alfred ? Pas très subtile.<br>- La Lamborghini alors… beaucoup plus subtile.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Strickland
+   The Dark Knight: Le Chevalier noir, Alfred et Batman
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>1053</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>1054</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
