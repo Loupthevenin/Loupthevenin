@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Je vous prépare la batmoto monsieur ?<br>- En pleine journée Alfred ? Pas très subtile.<br>- La Lamborghini alors… beaucoup plus subtile.
+   - Why do you wear that stupid bunny suit?<br>- Why are you wearing that stupid man suit?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Dark Knight: Le Chevalier noir, Alfred et Batman
+   Donnie Darko, Donnie et Frank
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>1054</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>1055</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
