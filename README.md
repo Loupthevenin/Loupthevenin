@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Why do you wear that stupid bunny suit?<br>- Why are you wearing that stupid man suit?
+   Quand nous rêvons, nous entrons dans un monde qui n’appartient qu’à nous. Laissons-le nager dans l’océan le plus profond ou planer au dessus des nuages les plus hauts.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, Donnie et Frank
+   Harry Potter et le prisonnier d’Azkaban, Dumbledore
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>1055</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>1056</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
