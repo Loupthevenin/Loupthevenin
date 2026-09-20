@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Quand nous rêvons, nous entrons dans un monde qui n’appartient qu’à nous. Laissons-le nager dans l’océan le plus profond ou planer au dessus des nuages les plus hauts.
+   Le problème, c’est que les humains ont un don pour désirer ce qui leur fait le plus de mal.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le prisonnier d’Azkaban, Dumbledore
+   Harry Potter à l’école des sorciers, Dumbledore
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>31</b> fois au sort parmis les <b>36</b> films sur <b>1056</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>25</b> fois au sort parmis les <b>36</b> films sur <b>1057</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
