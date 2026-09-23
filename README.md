@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ce qui va vous mettre le ravioli en ébullition c’est l’auriez-vous cassé si je ne vous avais rien dit ?
+   Mon Précieux… Ils me l’ont volé ! Sales petits hobbits joufflus !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Matrix, l'oracle
+   Le seigneur des anneaux : la communauté de l’anneau, Gollum
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>1059</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>1060</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
