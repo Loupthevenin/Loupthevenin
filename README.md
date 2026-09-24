@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Mon Précieux… Ils me l’ont volé ! Sales petits hobbits joufflus !
+   Il est fort dangereux Frodon de sortir de chez soi, on prend la route et si on ne regarde pas où l’on met les pieds on ne sait pas jusque où cela peut nous mener.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le seigneur des anneaux : la communauté de l’anneau, Gollum
+   Le seigneur des anneaux : la communauté de l’anneau, Bilbon
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>23</b> fois au sort parmis les <b>36</b> films sur <b>1060</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>24</b> fois au sort parmis les <b>36</b> films sur <b>1061</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
