@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Eh, dis donc ! Tu peux pas regarder où tu vas ? Encore un ivrogne à pied !
+   Now I am become Death, the destroyer of worlds.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  le clochard
+   Oppenheimer, J Robert Oppenheimer
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>1063</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>1064</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
