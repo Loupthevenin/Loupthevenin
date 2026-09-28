@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Now I am become Death, the destroyer of worlds.
+   Rorschach’s Journal: October 12th, 1985. Tonight, a comedian died in New York.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Oppenheimer, J Robert Oppenheimer
+   Watchmen, Rorschach
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>1064</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>33</b> fois au sort parmis les <b>36</b> films sur <b>1065</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
