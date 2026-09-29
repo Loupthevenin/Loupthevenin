@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Rorschach’s Journal: October 12th, 1985. Tonight, a comedian died in New York.
+   Je veux que les rebelles sachent que je suis en vie. Que je suis dans le district huit où le capitole vient de bombarder un hôpital rempli d’hommes désarmés, de femmes et d’enfants. Et qu’il n’y aura pas de survivant ! Si vous croyiez un seul instant que le capitole vous traitera équitablement un jour, vous commettez une terrible erreur, parce que nous savons qui ils sont et de quoi ils sont capables !… Voilà de quoi ils sont capables !! Voilà pourquoi il faut se battre !<br><br>Et j’ai un message pour le président Snow ! Vous pouvez nous torturer, nous bombarder et incendier nos districts. Mais est-ce que vous voyez ça ? Le feu se propage ! Et si nous brûlons vous brûlerez avec nous !!
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Watchmen, Rorschach
+   Hunger Games : l’embrasement, Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>33</b> fois au sort parmis les <b>36</b> films sur <b>1065</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>1066</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
