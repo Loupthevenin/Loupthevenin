@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Comment… comment allons-nous entrer ? Je vois… l’endroit… si seulement… Pattenrond était là…<br>- Pattenrond ? Tu es un sorcier, ou quoi ?<br>- Hein ? Oui… c’est vrai.
+   Vous n’avez jamais compris pourquoi on le faisait. Les spectateurs connaissent la vérité. Le monde est simple, misérable, si figé d’un bout à l’autre. Mais si vous pouvez les duper, ne serait-ce qu’une seconde, vous les faites rêver, et alors vous découvrez quelque chose de très spécial. Vous ne voyez vraiment pas ? C’est cette lueur dans leurs yeux.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort -  partie
+   Le prestige, Robert Angier
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>37</b> fois au sort parmis les <b>36</b> films sur <b>1068</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>1069</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
