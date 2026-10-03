@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vous n’avez jamais compris pourquoi on le faisait. Les spectateurs connaissent la vérité. Le monde est simple, misérable, si figé d’un bout à l’autre. Mais si vous pouvez les duper, ne serait-ce qu’une seconde, vous les faites rêver, et alors vous découvrez quelque chose de très spécial. Vous ne voyez vraiment pas ? C’est cette lueur dans leurs yeux.
+   - C’est comme dans les grandes histoires, Monsieur Frodon, celles qui importaient vraiment, celles où il y avait danger et ténèbres. Parfois, on ne voulait pas connaitre la fin, car elle ne pouvait pas être heureuse… Comment le monde pouvait-il redevenir comme il était avec tout le mal qui s’y était passé ? Mais en fin de compte, elle ne fait que passer, cette ombre… Même les ténèbres ne font que passer… Un jour nouveau viendra et lorsque le soleil brillera, il n’en sera que plus éclatant… C’était ces histoires dont on se souvenait, et qui signifiaient tellement… Même lorsqu’on était trop petit pour comprendre… Mais je crois, Monsieur Frodon, que je comprends… je sais maintenant… Les personnages de ces histoires avaient trente-six occasions de se retourner, mais ils ne le faisaient pas, ils continuaient leur route, parce qu’ils avaient foi en quelque chose…<br>- En quoi avons-nous foi, Sam ?<br>- Il y a du bon en ce monde… Il faut se battre pour cela.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le prestige, Robert Angier
+   Le seigneur des anneaux : les deux tours, Sam et Frodon
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>21</b> fois au sort parmis les <b>36</b> films sur <b>1069</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>34</b> fois au sort parmis les <b>36</b> films sur <b>1070</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
