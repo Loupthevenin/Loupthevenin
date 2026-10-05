@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Touche moi et ta main ne touchera plus jamais rien.
+   - Tous les cavaliers en tête de colonne !- Aller hop, je suis un cavalier. À la charge !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Reloaded, Trinity
+   Le seigneur des anneaux : les deux tours
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>1071</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>1072</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
