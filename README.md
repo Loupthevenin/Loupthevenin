@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - T’es là d’dans Eastwood ? Il est huit heures ! Alors, viens te battre si t’es pas un lâche !<br>- Mais, il est pas encore huit heures !<br>- Bah à ma montre ouais ! Finissons en tout de suite ou est-ce que t’as rien dans les tripes ?<br>- Écoute ! Je n’me sens pas trop d’attaque pour aujourd’hui ! Alors, il va falloir que je déclare forfait !<br>- Forfait, forfait, quoi ?
+   Si nous brûlons, vous brûlerez avec nous !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Retour vers le futur  Buford Tannen et Marty
+   Hunger Games : la révolte - e partie, Katniss au président Snow
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>40</b> fois au sort parmis les <b>36</b> films sur <b>1073</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>43</b> fois au sort parmis les <b>36</b> films sur <b>1074</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
