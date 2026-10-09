@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Mr. Anderson, welcome back. We missed you. You like what I’ve done with the place?<br>- It ends tonight.
+   Prime… non… non je me porte volontaire. Je me porte volontaire comme tribut.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Revolution, Agent Smith et Neo
+   Hunger Games, Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>1075</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>1076</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
