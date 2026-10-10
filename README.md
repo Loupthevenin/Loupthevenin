@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Prime… non… non je me porte volontaire. Je me porte volontaire comme tribut.
+   - Le seul moyen d’entrer ici c’est de passer sur ma putain de carcasse !- Ainsi soit-il.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Hunger Games, Katniss
+   The Matrix Revolution, un garde et Séraphin
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>1076</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>1077</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
