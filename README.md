@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Le seul moyen d’entrer ici c’est de passer sur ma putain de carcasse !- Ainsi soit-il.
+   28 days, 6 hours, 42 minutes and 12 seconds.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Revolution, un garde et Séraphin
+   Donnie Darko, Frank
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>1077</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>1078</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
