@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   28 days, 6 hours, 42 minutes and 12 seconds.
+   Les gens qui utilisent le métro ont une odeur bien reconnaissable.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, Frank
+   Parasite, Dong ik Park
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>32</b> fois au sort parmis les <b>36</b> films sur <b>1078</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>17</b> fois au sort parmis les <b>36</b> films sur <b>1079</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
