@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ce qui est trop extraordinaire n’a pas sa place dans le monde de la science ni dans l’industrie. Peut-être auriez-vous plus de chance dans ce domaine qui est le votre où les gens sont ravis qu’on les mystifie.
+   En ce qui concerne votre soi-disant partouze, c’est carrément impossible ! Les Schtroumpf sont asexués, ils ont même pas de… d’organes reproducteurs sous leur joli p’tit pantalon blanc !… C’est ça qui est illogique d’ailleurs ! On peut pas être un Schtroumpf ! À quoi ça sert de vivre… si on a même pas de queue ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Le prestige
+   Donnie Darko, Donnie
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>22</b> fois au sort parmis les <b>36</b> films sur <b>1081</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>33</b> fois au sort parmis les <b>36</b> films sur <b>1082</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
