@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   La vérité, elle est toujours belle et terrible, c’est pourquoi il faut l’aborder avec beaucoup de précautions.
+   À Poudlard une aide sera toujours apportée à ceux qui en ont besoin.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter à l’école des sorciers, Dumbledore à Harry
+   Harry Potter et les reliques de la mort -  partie, Dumbledore
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>26</b> fois au sort parmis les <b>36</b> films sur <b>1084</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>38</b> fois au sort parmis les <b>36</b> films sur <b>1085</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
