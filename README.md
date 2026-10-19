@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   À Poudlard une aide sera toujours apportée à ceux qui en ont besoin.
+   Je leur apprendrai comment je survis. Je leur dirai que certains matins, je n’ose plus me réjouir de rien de peur qu’on me l’enlève. Et que ces jours là, je dresse dans ma tête la liste de tous les actes de bonté auxquels j’ai pu assister. C’est comme un jeu. Répétitif. Un peu lassant, même, après plus de vingt ans. Mais j’ai connu des jeux bien pires.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort -  partie, Dumbledore
+   Hunger Games : la révolte -  partie, Katniss
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>38</b> fois au sort parmis les <b>36</b> films sur <b>1085</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>1086</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
