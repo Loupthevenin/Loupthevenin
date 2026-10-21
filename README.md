@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Everything that has a beginning… Has an end, Neo.
+   - Qu’est-ce que j’entends, mes horloges ?<br>- Ouais, elles indiquent qu’il est huit heures !<br>- Fantastique, ma toute nouvelle expérience a marché, elle retarde toutes les horloges de 25 minutes.<br>- Attendez, attendez une minute, Doc ! Vous êtes en train d’me dire qu’il est exactement huit heures et 25 minutes ?<br>- Précisément !<br>- Oh, la vache ! Mais j’vais être en retard au lycée !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   The Matrix Revolution
+   Retour vers le futur, Dr Emmett Brown et Marty
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>1087</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>39</b> fois au sort parmis les <b>36</b> films sur <b>1088</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
