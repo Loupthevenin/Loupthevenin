@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Nous ne devons pas raisonner en tant qu’individu, mais en tant qu’espèce.
+   - Le seul moyen d’entrer ici c’est de passer sur ma putain de carcasse !- Ainsi soit-il.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Interstellar, Dr Brand
+   The Matrix Revolution, un garde et Séraphin
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>28</b> fois au sort parmis les <b>36</b> films sur <b>1090</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>1091</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
