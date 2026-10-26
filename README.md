@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Achète-moi de la drogue ! Achète-moi de la drogue !
+   Messieurs, je ne vous comprendrais jamais. Regardez tous ces livres autour de vous, une mine de connaissance à la porté de vos mains et vous, qu’est-ce que vous faites ? Vous jouez au poker toute la nuit.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Parasite, Yeon Kyo Park
+   Seven, le lieutenant Somerset
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>18</b> fois au sort parmis les <b>36</b> films sur <b>1092</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>44</b> fois au sort parmis les <b>36</b> films sur <b>1093</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
