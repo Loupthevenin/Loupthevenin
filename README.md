@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Harry ! Je me dois d’insister, retournez avec moi au château, immédiatement !<br>- Ah, ce serait contre-productif monsieur.<br>- Mais qu’est ce qui vous fait dire ça ?<br>- Aucune idée !
+   Vigilance Constante !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et le Prince de sang mêlé, Horace Slughorn et Harry
+   Harry Potter et la coupe de feu, Alastor ’Fol-œil’ Maugrey
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>1097</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>1098</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
