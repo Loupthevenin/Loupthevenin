@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Vigilance Constante !
+   - Si vous dépassez votre condition d’être humain… Si vous vous consacrez entièrement à un idéal et si vous êtes insaisissable… là seulement vous serez devenu autre chose…<br>- C’est à dire ?<br>- Une légende, monsieur Wayne.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la coupe de feu, Alastor ’Fol-œil’ Maugrey
+   Batman begins, Henry Ducard et Batman
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>20</b> fois au sort parmis les <b>36</b> films sur <b>1098</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>1099</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
