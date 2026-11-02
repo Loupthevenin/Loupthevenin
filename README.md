@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Si vous dépassez votre condition d’être humain… Si vous vous consacrez entièrement à un idéal et si vous êtes insaisissable… là seulement vous serez devenu autre chose…<br>- C’est à dire ?<br>- Une légende, monsieur Wayne.
+   - C’était quoi ton plan ?<br>- De quoi tu parles ?<br>- Tout à l’heure, t’as dit que t’avais un plan. Qu’est-ce que tu vas faire ? Tu sais pour le sous-sol.<br>- Ki-woo, tu sais quel genre de plan ne rate jamais ? Ne pas avoir de plan. Pas de plan. Tu sais quoi ? Si tu fais un plan, il n’aboutira jamais. Regarde autour de nous. Personne ne s’est dit « allons passer la nuit au gymnase ». Mais regarde. Tout le monde dort par terre, même nous. C’est pour ça que les gens ne devraient pas avoir de plan. Sans plan, rien ne peut foirer. Et si quelque chose t’échappe, ce n’est pas grave. Que tu tues quelqu’un ou que tu trahisses ton pays. Tout ça n’a aucune putain d’importance. Tu vois ?
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Batman begins, Henry Ducard et Batman
+   Parasite, Ki Woo et Ki Taek
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>29</b> fois au sort parmis les <b>36</b> films sur <b>1099</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>1100</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
