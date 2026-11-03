@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - C’était quoi ton plan ?<br>- De quoi tu parles ?<br>- Tout à l’heure, t’as dit que t’avais un plan. Qu’est-ce que tu vas faire ? Tu sais pour le sous-sol.<br>- Ki-woo, tu sais quel genre de plan ne rate jamais ? Ne pas avoir de plan. Pas de plan. Tu sais quoi ? Si tu fais un plan, il n’aboutira jamais. Regarde autour de nous. Personne ne s’est dit « allons passer la nuit au gymnase ». Mais regarde. Tout le monde dort par terre, même nous. C’est pour ça que les gens ne devraient pas avoir de plan. Sans plan, rien ne peut foirer. Et si quelque chose t’échappe, ce n’est pas grave. Que tu tues quelqu’un ou que tu trahisses ton pays. Tout ça n’a aucune putain d’importance. Tu vois ?
+   I love French wine, like I the French language. I have sampled every language, French is my favorite. Fantastic language. Especially to curse with. Nom de dieu de putain de bordel de merde de saloperie de connard d’enculé de ta mère. It’s like wiping your arse with silk. I love it.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Parasite, Ki Woo et Ki Taek
+   The Matrix Reloaded, le mérovingien
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>19</b> fois au sort parmis les <b>36</b> films sur <b>1100</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>27</b> fois au sort parmis les <b>36</b> films sur <b>1101</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
