@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Riséd elrue ocnot edsi amega siv notsap ert nomen ej.
+   C’est un endroit fantastique, pour être avec des amis.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et la chambre des secrets
+   Harry Potter et les reliques de la mort - e partie, Dobby
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>1103</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>38</b> fois au sort parmis les <b>36</b> films sur <b>1104</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
