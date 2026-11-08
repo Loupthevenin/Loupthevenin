@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   C’est un endroit fantastique, pour être avec des amis.
+   L’homme craint ce qu’il ne peut voir.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Harry Potter et les reliques de la mort - e partie, Dobby
+   Batman begins
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>38</b> fois au sort parmis les <b>36</b> films sur <b>1104</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>1105</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
