@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   - Écoute, je sais pas trop comment te dire ça. J’te vois souvent ici et j’trouve que tu es super mignonne et tu… Tu voudrais pas sortir avec moi ? Un soir ?<br>- Fichez-moi le camp !<br>- Oh mais…<br>- Sortez d’ici !<br>- J’suis désolé, vraiment désolé…<br>- Oh mais j’plaisante, t’inquiète pas !
+   Ah, ah, ah, petit. Tu vois ça ? […] C’est quand on est prisonnier de sa colère, c’est l’exemple typique. […] Vous voyez la peur s’exprimer ? Ce garçon a une peur mortelle de la vérité. Petit, ça me brise le cœur de te dire ça, mais je pense que tu es un jeune homme très perturbé et que tu es très désorienté.
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Whiplash, Andrew Neiman et Nicole
+   Donnie Darko, Jim Cunningham à Donnie
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>1106</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>1107</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
