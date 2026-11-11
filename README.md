@@ -19,13 +19,13 @@
  <br/>
  <div>
   <p id="quote">
-   Ah, ah, ah, petit. Tu vois ça ? […] C’est quand on est prisonnier de sa colère, c’est l’exemple typique. […] Vous voyez la peur s’exprimer ? Ce garçon a une peur mortelle de la vérité. Petit, ça me brise le cœur de te dire ça, mais je pense que tu es un jeune homme très perturbé et que tu es très désorienté.
+   - Il faut que j’aille chez Hagrid !<br>- Non Harry ! tu dois aller voir le Professeur Slughorn !<br>- Je sais mais j’ai l’impression que c’est chez Hagrid qu’il faut être ce soir !<br>- Tu en es sûr ?<br>- Je le sais ! Ou plutôt Félix le sait !
   </p>
  </div>
  <br/>
  <div align="right">
   <p id="movie" style="text-align: right; font-style: italic;">
-   Donnie Darko, Jim Cunningham à Donnie
+   Harry Potter et le Prince de sang mêlé, Harry et Hermione
   </p>
  </div>
  <div>
@@ -33,7 +33,7 @@
    Bot
   </h3>
   <p id="bot">
-   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>35</b> fois au sort parmis les <b>36</b> films sur <b>1107</b> jours consécutifs. 🎲🎲🎲
+   🤖 WolfyBOT 🤖 vous informe que ce film a été tiré <b>30</b> fois au sort parmis les <b>36</b> films sur <b>1108</b> jours consécutifs. 🎲🎲🎲
   </p>
  </div>
  <br/>
